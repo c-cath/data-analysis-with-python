@@ -1,4 +1,4 @@
-# Python for Sales Data Cleaning, Analysis, and Visualization 
+# Python for Sales Data: Cleaning, Analysis, and Visualization 
 
 ## Project Overview
 This project focuses on cleaning and analyzing messy retail sales data using Python. The goal is to preprocess, clean, and visualize sales data to uncover insights such as sales trends, category performance, and regional revenue distribution.
