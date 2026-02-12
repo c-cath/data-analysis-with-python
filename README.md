@@ -1,18 +1,18 @@
-# Python for Sales Data: Cleaning, Analysis, and Visualization 
+# Data Analysis with Python: Cleaning, Analysis, and Visualization
 
 ## Project Overview
-This project focuses on cleaning and analyzing messy retail sales data using Python. The goal is to preprocess, clean, and visualize sales data to uncover insights such as sales trends, category performance, and regional revenue distribution.
+This project focuses on cleaning, analyzing, and visualizing messy real-world datasets using Python. The goal is to preprocess raw data, handle inconsistencies, and perform exploratory data analysis (EDA) to uncover meaningful patterns, trends, and insights.
 
-The dataset contains transaction-level information including date, region, product, category, units sold, unit price, total sales, and profit margin.
+The datasets used across this repository vary by folder and may include transactional, customer, operational, or categorical data such as dates, categories, numeric values, text fields, and percentages.
 
 ---
 
 ## Objectives
-- Load and clean a messy sales dataset with missing or inconsistent data.  
-- Standardize column names, text entries, and date formats.  
-- Handle missing numeric values and inconsistent currency/percentage formats.  
-- Explore key statistics such as total sales, sales by region, and category performance.  
-- Visualize insights using **matplotlib** and **seaborn**.  
+- Load and clean datasets containing missing or inconsistent data.
+- Standardize column names, text entries, and date formats.
+- Handle missing numeric values and inconsistent numeric representations.
+- Perform exploratory analysis to understand distributions, trends, and group behavior.
+- Visualize insights using matplotlib and seaborn.
 
 ---
 
@@ -32,8 +32,8 @@ import seaborn as sns
 
 ### 2. Load the Dataset
 ```python
-df = pd.read_csv("messy_sales.csv")
-df.head(20)
+df = pd.read_csv("dataset.csv")
+df.head()
 ```
 
 ### 3. Check for Missing Values and Data Info
@@ -49,10 +49,10 @@ df.isnull().sum()
 df["Units Sold"] = pd.to_numeric(df["Units Sold"], errors="coerce")
 df["Total Sales"] = pd.to_numeric(df["Total Sales"], errors="coerce")
 ```
-- Fill missing numeric values with the column mean:
+- Fill missing numeric values with the column mean (or other appropriate method):
 ```python
 df["Units Sold"].fillna(df["Units Sold"].mean(), inplace=True)
-df["Total Sales"].fillna(df["Total Sales"].mean(), inplace=True)
+df["Total Sales"].fillna(df["Total Sales"].median(), inplace=True)
 ```
 
 ### 5. Clean Column Names
@@ -66,31 +66,45 @@ df.columns = df.columns.str.strip()
 ```python
 df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
 ```
-- Standardize text columns and category names:
+- Standardize text columns for consistency:
 ```python
 for col in ["Region", "Product", "Category"]:
     df[col] = df[col].str.strip().str.title()
-
+- 
+```
+- Optionally map inconsistent category labels:
+```python
 category_map = {"Elec": "Electronics", "Gadget": "Gadgets"}
-df["Category"] = df["Category"].replace(category_map)
+df["category"] = df["category"].replace(category_map)
 ```
 
 ### 7. Clean Numeric and Currency Columns
-- Convert Units Sold to numeric:   
+- Convert numeric columns stored as text:
 ```python
 df["Units Sold"] = pd.to_numeric(df["Units Sold"], errors="coerce")
 ```
-- Clean currency columns (Unit Price, Total Sales) by removing symbols and converting to numeric:
+- Clean currency or symbol-based columns:
 ```python
 for col in ["Unit Price", "Total Sales"]:
     df[col] = df[col].astype(str).str.replace("[$, USD]", "", regex=True).str.strip()
     df[col] = pd.to_numeric(df[col], errors="coerce")
 ```
 
-### 8. Fix Profit Margin (%)
+### 8. Fix Percentage Columns
+- Standardize percentage values:
 ```python
-df["Profit Margin (%)"] = df["Profit Margin (%)"].astype(str).str.replace("%", "", regex=True).str.replace("percent", "", regex=True).astype(float)
-df["Profit Margin (%)"] = np.where(df["Profit Margin (%)"] < 1, df["Profit Margin (%)"] * 100, df["Profit Margin (%)"])
+df["percentage"] = (
+    df["percentage"]
+    .astype(str)
+    .str.replace("%", "", regex=True)
+    .astype(float)
+)
+
+df["percentage"] = np.where(
+    df["percentage"] < 1,
+    df["percentage"] * 100,
+    df["percentage"]
+)
 ```
 
 
@@ -105,7 +119,7 @@ df_cleaned.head()
 ```
 
 ## Data Analysis and Visualization
-### 1. Total Sales by Region
+### 1. Aggregated Values by Category
 ```python
 plt.figure(figsize=(7,5))
 sns.barplot(data=df_cleaned, x="Region", y="Total Sales", estimator=sum, palette="cool")
@@ -115,7 +129,7 @@ plt.show()
 ```
 <img width="641" height="477" alt="image" src="https://github.com/user-attachments/assets/2c802c84-c7ee-43ba-9004-f3aa953e0923" />
 
-### 2. Sales Trend Over Time
+### 2. Trend Over Time
 ```python
 plt.figure(figsize=(7,5))
 df_cleaned.groupby("Date")["Total Sales"].sum().plot(kind="line", color="teal")
@@ -126,7 +140,7 @@ plt.show()
 <img width="630" height="459" alt="image" src="https://github.com/user-attachments/assets/63c374d1-c9d4-4a60-aad3-5e34eb2f7709" />
 
 
-### 3. Category Share Pie Chart
+### 3. Category Distribution
 ```python
 plt.figure(figsize=(6,6))
 category_sales = df_cleaned.groupby("Category")["Total Sales"].sum()
@@ -139,17 +153,17 @@ plt.show()
 
 
 ## Findings
-- Some regions outperform others in total sales.
-- Certain product categories contribute the majority of revenue.
-- Sales trend shows fluctuations over time, indicating seasonality or market patterns.
-- Profit margins and currency inconsistencies were successfully standardized.
+- Certain categories or groups contribute more significantly than others
+- Trends over time reveal patterns such as growth, decline, or seasonality
+- Data inconsistencies and missing values were successfully cleaned and standardized
+- Visualizations help clearly communicate key insights
 
 ## Conclusion
 This Python-based project demonstrates:
-- Efficient data cleaning and preprocessing using pandas.
-- Handling messy numeric, text, date, and currency data.
-- Effective visualization of key business insights using matplotlib and seaborn.
-- A practical approach to turning messy raw sales data into actionable insights.
+- Efficient data cleaning and preprocessing using pandas and NumPy.
+- Handling messy numeric, text, date, and percentage data.
+- Exploratory data analysis across different types of datasets.
+- Clear and effective visualization using matplotlib and seaborn.
 
 This project showcases practical skills in data analysis, business intelligence, and Python programming. 
 
