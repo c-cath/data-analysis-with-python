@@ -1,0 +1,2006 @@
+CustomerID,Gender,Age,Items Purchased,Category,Purchase Amount,Shipping Type,Profession,Subscription Status,Season,Country
+1,Male,18,Blouse,Clothing,50,Express,Healthcare,Yes,Spring,United States
+2,Male,20,Sweater,Clothing,25,Free Shipping,Engineer,No,Summer,United States
+3,Female,35,Jeans,Clothing,15,Next Day Air,Engineer,Yes,Fall,United States
+4,Female,45,Sandals,Footwear,69,2-Day Shipping,Lawyer,No,Winter,United States
+5,Female,60,Blouse,Clothing,85,2-Day Shipping,Entertainment,Yes,Winter,United States
+6,Female,22,Sneakers,Footwear,12,2-Day Shipping,Artist,No,Winter,United States
+7,Female,24,Shirt,Clothing,100,2-Day Shipping,Healthcare,Yes,Winter,United States
+8,Female,68,Shorts,Clothing,23,2-Day Shipping,Healthcare,No,Winter,France
+9,Male,53,Coat,Outerwear,14,2-Day Shipping,Engineer,Yes,Winter,France
+10,Female,74,Handbag,Accessories,25,2-Day Shipping,Artist,No,Winter,United States
+11,Male,55,Sunglasses,Accessories,41,2-Day Shipping,Engineer,Yes,Winter,France
+12,Female,51,Scarf,Accessories,22,2-Day Shipping,Healthcare,No,Winter,France
+13,Female,42,Blouse,Clothing,63,2-Day Shipping,Executive,Yes,Winter,France
+13,Female,42,Blouse,Clothing,63,2-Day Shipping,Executive,Yes,Winter,France
+14,Female,47,Jeans,Clothing,98,2-Day Shipping,Lawyer,Yes,Winter,France
+15,Male,48,Sandals,Footwear,99,2-Day Shipping,Doctor,No,Winter,France
+16,Male,60,Blouse,Clothing,65,2-Day Shipping,Healthcare,Yes,Winter,Algeria
+17,Female,22,Sneakers,Footwear,35,2-Day Shipping,Homemaker,No,Winter,Algeria
+18,Male,21,Shirt,Clothing,85,2-Day Shipping,Healthcare,Yes,Winter,Algeria
+19,Male,19,Shorts,Clothing,96,2-Day Shipping,Entertainment,No,,Algeria
+20,Female,23,Coat,Outerwear,74,2-Day Shipping,Artist,Yes,Winter,Algeria
+21,Male,25,Handbag,Accessories,52,Express,Homemaker,No,Winter,France
+22,Male,25,Sunglasses,Accessories,22,Express,Healthcare,Yes,Winter,United States
+23,Female,26,Scarf,Accessories,21,Express,Artist,No,Winter,United States
+24,Male,28,Blouse,Clothing,45,Express,Artist,Yes,Winter,United States
+25,Female,27,Sweater,Clothing,77,Express,Executive,No,Winter,United States
+26,Male,29,Jeans,Clothing,50,Express,Artist,Yes,Winter,United States
+27,Female,21,Sandals,Footwear,25,Express,Healthcare,No,Winter,United States
+28,Male,24,Blouse,Clothing,15,Express,Artist,Yes,Winter,United States
+29,Female,25,Sneakers,Footwear,69,Express,Artist,No,Winter,United States
+30,Female,26,Shirt,Clothing,85,Express,Artist,Yes,Winter,United States
+31,Male,23,Shorts,Clothing,12,Express,Artist,No,Winter,United States
+32,Female,25,Coat,Outerwear,100,Express,Doctor,Yes,Winter,United States
+33,Male,33,Handbag,Accessories,23,Next Day Air,Healthcare,No,Winter,United States
+34,Male,33,Sunglasses,Accessories,14,Next Day Air,Homemaker,Yes,Winter,United States
+35,Female,36,Scarf,Accessories,25,Next Day Air,Lawyer,No,Winter,United States
+36,Female,25,Blouse,Clothing,41,Next Day Air,Healthcare,Yes,Winter,United States
+37,Female,36,Sweater,Clothing,22,Next Day Air,Doctor,No,Winter,United States
+38,Female,39,Jeans,Clothing,63,Next Day Air,Healthcare,Yes,Winter,United States
+39,Female,38,Sandals,Footwear,55,Next Day Air,Artist,No,Winter,United States
+40,Female,22,Blouse,Clothing,98,Next Day Air,Artist,Yes,Winter,United States
+41,Female,22,Sneakers,Footwear,99,Next Day Air,Artist,No,,United States
+42,Male,22,Shirt,Clothing,65,Next Day Air,Healthcare,Yes,Winter,United States
+43,Male,22,Shorts,Clothing,35,Next Day Air,Artist,No,Winter,United States
+44,Female,22,Coat,Outerwear,85,Next Day Air,Artist,Yes,Winter,United States
+45,Female,22,Handbag,Accessories,96,Next Day Air,Engineer,No,Winter,United States
+46,Female,22,Sunglasses,Accessories,74,Next Day Air,Lawyer,Yes,Winter,United States
+47,Female,22,Scarf,Accessories,52,Next Day Air,Artist,No,Winter,United States
+48,Female,22,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Winter,United States
+49,Female,22,Sweater,Clothing,21,Next Day Air,Healthcare,No,Winter,United States
+50,Female,22,Jeans,Clothing,45,Next Day Air,Engineer,Yes,Winter,United States
+51,Female,22,Sandals,Footwear,77,Next Day Air,Artist,No,Winter,United States
+52,Male,22,Blouse,Clothing,50,Next Day Air,Artist,Yes,Winter,United States
+53,Female,22,Sneakers,Footwear,25,Next Day Air,Artist,No,Winter,United States
+54,Male,22,Shirt,Clothing,15,Next Day Air,Entertainment,Yes,Winter,United States
+55,Female,22,Shorts,Clothing,69,Next Day Air,Marketing,No,Winter,United States
+56,Male,22,Coat,Outerwear,85,Next Day Air,Artist,Yes,Winter,United States
+57,Female,22,Handbag,Accessories,12,Next Day Air,Healthcare,No,Winter,United States
+58,Male,22,Sunglasses,Accessories,100,Next Day Air,Doctor,Yes,Winter,United States
+59,Female,22,Scarf,Accessories,23,Next Day Air,Artist,No,Winter,United States
+59,Female,22,Blouse,Clothing,14,Next Day Air,Artist,Yes,Winter,United States
+60,Male,22,Sweater,Clothing,25,Next Day Air,Lawyer,No,Winter,United States
+61,Male,22,Jeans,Clothing,41,Next Day Air,Artist,Yes,Winter,United States
+62,Male,22,Sandals,Footwear,22,Next Day Air,Artist,No,Winter,United States
+63,Female,22,Blouse,Clothing,63,Next Day Air,Lawyer,Yes,Winter,United States
+64,Female,22,Sneakers,Footwear,55,Next Day Air,Lawyer,No,Winter,United States
+65,Male,22,Shirt,Clothing,98,Next Day Air,Lawyer,Yes,Winter,United States
+66,Male,22,Shorts,Clothing,99,Next Day Air,Entertainment,No,Winter,United States
+67,Female,22,Coat,Outerwear,65,Next Day Air,Doctor,Yes,Winter,United States
+68,Female,22,Handbag,Accessories,35,Next Day Air,Artist,No,Winter,United States
+69,Male,22,Sunglasses,Accessories,85,Next Day Air,Artist,Yes,Winter,United States
+70,Female,22,Scarf,Accessories,96,Next Day Air,Homemaker,No,Winter,United States
+71,Male,22,Blouse,Clothing,74,Next Day Air,Healthcare,Yes,Winter,United States
+72,Female,22,Sweater,Clothing,52,Next Day Air,Entertainment,No,Winter,United States
+73,Female,22,Jeans,Clothing,22,Next Day Air,Artist,Yes,Winter,United States
+74,Female,22,Sandals,Footwear,21,Next Day Air,Healthcare,No,Winter,United States
+75,Male,22,Blouse,Clothing,45,Next Day Air,Artist,Yes,Winter,United States
+76,Male,22,Sneakers,Footwear,77,Next Day Air,Homemaker,No,Winter,United States
+77,Female,22,Shirt,Clothing,50,Next Day Air,Doctor,Yes,Winter,United States
+78,Male,22,Shorts,Clothing,25,Next Day Air,Artist,No,Winter,United States
+79,Female,22,Coat,Outerwear,15,Next Day Air,Engineer,Yes,Winter,United States
+80,Female,22,Handbag,Accessories,69,Next Day Air,,No,Winter,United States
+81,Male,22,Sunglasses,Accessories,85,Next Day Air,Healthcare,Yes,Winter,United States
+82,Male,22,Scarf,Accessories,12,Next Day Air,Healthcare,No,Winter,United States
+83,Male,22,Blouse,Clothing,100,Next Day Air,Artist,Yes,Winter,United States
+84,Female,22,Sweater,Clothing,23,Next Day Air,Entertainment,No,Winter,United States
+85,Female,22,Jeans,Clothing,14,Next Day Air,Marketing,Yes,Winter,United States
+86,Male,22,Sandals,Footwear,25,Next Day Air,Healthcare,No,Winter,United States
+87,Female,22,Blouse,Clothing,41,Next Day Air,Artist,Yes,Winter,United States
+88,Female,22,Sneakers,Footwear,22,Next Day Air,Artist,No,Winter,United States
+89,Female,22,Shirt,Clothing,63,Next Day Air,Entertainment,Yes,Winter,France
+89,Female,22,Shorts,Clothing,55,Next Day Air,Entertainment,No,Winter,France
+90,Female,22,Coat,Outerwear,98,Next Day Air,Doctor,Yes,,France
+91,Female,22,Handbag,Accessories,99,Next Day Air,Entertainment,No,,France
+92,Male,22,Sunglasses,Accessories,65,Next Day Air,Artist,Yes,,France
+93,Male,22,Scarf,Accessories,35,Next Day Air,Artist,No,,France
+94,Female,22,Blouse,Clothing,85,Next Day Air,Entertainment,Yes,,France
+95,Female,22,Sweater,Clothing,96,Next Day Air,Artist,No,,Brazil
+96,Male,22,Jeans,Clothing,74,Next Day Air,Artist,Yes,,Brazil
+97,Female,22,Sandals,Footwear,52,Next Day Air,Artist,No,,Brazil
+98,Female,22,Blouse,Clothing,22,Next Day Air,Artist,Yes,Winter,Brazil
+99,Male,22,Sneakers,Footwear,21,Next Day Air,Doctor,No,Winter,Brazil
+100,Male,22,Shirt,Clothing,45,Next Day Air,Engineer,Yes,Winter,Brazil
+101,Female,22,Shorts,Clothing,77,Next Day Air,Artist,No,Winter,France
+102,Female,22,Coat,Outerwear,50,Next Day Air,Executive,Yes,Winter,France
+103,Male,22,Handbag,Accessories,25,Next Day Air,Artist,No,Winter,France
+104,Male,22,Sunglasses,Accessories,15,Next Day Air,Executive,Yes,Winter,France
+105,Male,22,Scarf,Accessories,69,Next Day Air,Healthcare,No,Winter,France
+106,Female,22,Blouse,Clothing,85,Next Day Air,Doctor,Yes,Winter,France
+107,Female,22,Sweater,Clothing,12,Next Day Air,Homemaker,No,Winter,France
+108,Male,22,Jeans,Clothing,100,Next Day Air,Lawyer,Yes,Winter,France
+109,Male,22,Sandals,Footwear,23,Next Day Air,Healthcare,No,Winter,France
+110,Male,22,Blouse,Clothing,14,Next Day Air,Healthcare,Yes,Winter,France
+111,Male,22,Sneakers,Footwear,25,Next Day Air,Entertainment,No,Winter,France
+112,Female,22,Shirt,Clothing,41,Next Day Air,Artist,Yes,Winter,France
+113,Female,22,Shorts,Clothing,22,Next Day Air,Doctor,No,Winter,France
+114,Male,22,Coat,Outerwear,63,Next Day Air,Artist,Yes,Winter,France
+115,Female,22,Handbag,Accessories,55,Next Day Air,Executive,No,Winter,France
+116,Female,22,Sunglasses,Accessories,98,Next Day Air,Executive,Yes,Winter,France
+117,Female,22,Scarf,Accessories,99,Next Day Air,Lawyer,No,Winter,France
+118,Female,22,Blouse,Clothing,65,Next Day Air,Artist,Yes,Winter,Brazil
+119,Female,22,Sweater,Clothing,35,Next Day Air,,No,Winter,Brazil
+120,Female,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Winter,Brazil
+121,Male,22,Sandals,Footwear,96,Next Day Air,Executive,No,Winter,Brazil
+122,Female,22,Blouse,Clothing,74,Next Day Air,Executive,Yes,Winter,Brazil
+123,Female,22,Sneakers,Footwear,52,Next Day Air,Engineer,No,Winter,Brazil
+124,Male,22,Shirt,Clothing,22,Next Day Air,Healthcare,Yes,Winter,Brazil
+125,Female,22,Shorts,Clothing,21,Next Day Air,Entertainment,No,Winter,Brazil
+125,Female,22,Coat,Outerwear,45,Next Day Air,Entertainment,Yes,Winter,Brazil
+126,Female,22,Handbag,Accessories,77,Next Day Air,Marketing,No,Winter,Brazil
+127,Male,22,Sunglasses,Accessories,50,Next Day Air,Engineer,Yes,Winter,Brazil
+128,Male,22,Scarf,Accessories,25,Next Day Air,Artist,No,,Brazil
+129,Male,22,Scarf,Accessories,15,Next Day Air,Engineer,Yes,Winter,Brazil
+130,Male,22,Blouse,Clothing,69,Next Day Air,Entertainment,No,Winter,Brazil
+131,Male,22,Sweater,Footwear,85,Next Day Air,Executive,Yes,Winter,Brazil
+132,Male,22,Jeans,Clothing,12,Next Day Air,Lawyer,No,Winter,Brazil
+133,Female,22,Sandals,Clothing,100,Next Day Air,Healthcare,Yes,Winter,Brazil
+134,Female,22,Blouse,Outerwear,23,Next Day Air,Artist,No,Winter,Brazil
+134,Female,22,Sneakers,Accessories,14,Next Day Air,Artist,Yes,Winter,Brazil
+135,Male,22,Shirt,Accessories,25,Next Day Air,Engineer,No,Winter,Brazil
+136,Female,22,Shorts,Accessories,41,Next Day Air,Executive,Yes,Winter,Brazil
+137,Female,22,Coat,Outerwear,22,Next Day Air,Artist,No,Winter,Brazil
+138,Male,22,Handbag,Accessories,63,Next Day Air,Artist,Yes,Winter,Brazil
+139,Male,22,Sunglasses,Accessories,55,Free Shipping,Marketing,No,Winter,Brazil
+140,Female,22,Scarf,Accessories,98,Free Shipping,Artist,Yes,Winter,Brazil
+141,Female,22,Scarf,Accessories,99,Free Shipping,Engineer,No,Winter,Brazil
+142,Male,22,Scarf,Accessories,65,Free Shipping,Artist,Yes,Winter,Brazil
+143,Female,22,Scarf,Accessories,35,Free Shipping,Doctor,No,Winter,Brazil
+144,Female,22,Scarf,Accessories,85,Free Shipping,Lawyer,Yes,Winter,Brazil
+145,Male,22,Scarf,Accessories,96,Free Shipping,Engineer,No,Winter,United States
+146,Male,22,Scarf,Accessories,74,Free Shipping,Marketing,Yes,Winter,United States
+147,Male,22,Scarf,Accessories,52,Free Shipping,Engineer,No,Winter,United States
+148,Female,22,Scarf,Accessories,22,Free Shipping,Lawyer,Yes,Winter,United States
+149,Female,22,Scarf,Accessories,21,Free Shipping,Healthcare,No,Winter,United States
+150,Male,22,Scarf,Accessories,45,Free Shipping,Artist,Yes,Winter,United States
+151,Male,22,Scarf,Accessories,77,Free Shipping,Lawyer,No,Winter,United States
+152,Male,22,Scarf,Accessories,50,Free Shipping,Engineer,Yes,Winter,United States
+153,Female,22,Scarf,Accessories,25,Free Shipping,Engineer,No,Winter,United States
+154,Female,22,Scarf,Accessories,15,Free Shipping,Artist,Yes,Winter,United States
+155,Female,22,Scarf,Accessories,69,Free Shipping,Healthcare,No,Winter,United States
+156,Female,22,Scarf,Accessories,85,Free Shipping,Marketing,Yes,Winter,United States
+157,Male,22,Sunglasses,Accessories,12,Free Shipping,Executive,No,Winter,United States
+158,Female,22,Sunglasses,Accessories,100,Free Shipping,Artist,Yes,Winter,United States
+159,Male,22,Sunglasses,Accessories,23,Free Shipping,Lawyer,No,Winter,United States
+160,Female,22,Sunglasses,Accessories,14,Free Shipping,Artist,Yes,Winter,United States
+161,Female,22,Sunglasses,Accessories,25,Free Shipping,Artist,No,Winter,United States
+162,Female,22,Sunglasses,Accessories,41,Free Shipping,Healthcare,Yes,,United States
+163,Male,22,Sunglasses,Accessories,22,Free Shipping,Executive,No,,United States
+164,Female,22,Sunglasses,Accessories,63,Free Shipping,Healthcare,Yes,,United States
+165,Male,22,Sunglasses,Accessories,55,Free Shipping,Doctor,No,,United States
+166,Female,22,Sunglasses,Accessories,98,Free Shipping,Artist,Yes,,United States
+167,Male,22,Sunglasses,Accessories,99,Free Shipping,Homemaker,No,,United States
+168,Female,22,Sunglasses,Accessories,65,Free Shipping,Artist,Yes,,United States
+169,Female,22,Sunglasses,Accessories,35,Free Shipping,Artist,No,,United States
+170,Male,22,Sunglasses,Accessories,85,Free Shipping,Artist,Yes,,United States
+171,Male,22,Sunglasses,Accessories,96,Free Shipping,Artist,No,Winter,United States
+172,Male,22,Sunglasses,Accessories,74,Free Shipping,Executive,Yes,Winter,United States
+173,Male,22,Sunglasses,Accessories,52,Free Shipping,Lawyer,No,Winter,United States
+174,Male,22,Sunglasses,Accessories,22,Free Shipping,Artist,Yes,Winter,United States
+175,Female,22,Sunglasses,Accessories,21,Free Shipping,Lawyer,No,Winter,United States
+176,Female,22,Sunglasses,Accessories,45,Free Shipping,Artist,Yes,Winter,United States
+177,Male,22,Sunglasses,Accessories,77,Free Shipping,Engineer,No,Winter,United States
+178,Male,22,Sunglasses,Accessories,50,Free Shipping,Healthcare,Yes,Winter,Turkey
+179,Male,22,Handbag,Accessories,25,Free Shipping,Healthcare,No,Winter,Turkey
+180,Male,22,Handbag,Accessories,15,Free Shipping,Engineer,Yes,Winter,Turkey
+181,Female,22,Handbag,Accessories,69,Free Shipping,Artist,No,Winter,Turkey
+182,Female,22,Handbag,Accessories,85,Free Shipping,Entertainment,Yes,Winter,Turkey
+183,Male,22,Handbag,Accessories,12,Free Shipping,Artist,No,Winter,Turkey
+184,Female,22,Handbag,Accessories,100,Free Shipping,Artist,Yes,Winter,Turkey
+185,Female,22,Handbag,Accessories,23,Free Shipping,Artist,No,Winter,Turkey
+186,Male,22,Handbag,Accessories,14,Free Shipping,Artist,Yes,Winter,Turkey
+187,Female,22,Handbag,Accessories,25,Free Shipping,Lawyer,No,Winter,Turkey
+188,Male,22,Handbag,Accessories,41,Free Shipping,Doctor,Yes,Winter,Turkey
+189,Female,22,Handbag,Accessories,22,Free Shipping,Engineer,No,Winter,Turkey
+190,Female,22,Handbag,Accessories,63,Free Shipping,Artist,Yes,Winter,Turkey
+191,Female,22,Handbag,Accessories,55,Free Shipping,Artist,No,Winter,Brazil
+192,Female,22,Handbag,Accessories,98,Free Shipping,Artist,Yes,Winter,Brazil
+193,Male,22,Handbag,Accessories,99,Free Shipping,Executive,No,Winter,Brazil
+194,Female,22,Handbag,Accessories,65,Free Shipping,Artist,Yes,Winter,Brazil
+195,Female,22,Handbag,Accessories,35,Free Shipping,Artist,No,Winter,Brazil
+196,Female,22,Handbag,Accessories,85,Free Shipping,Executive,Yes,,Brazil
+197,Female,22,Handbag,Accessories,96,Free Shipping,Artist,No,Winter,Brazil
+198,Male,22,Coat,Outerwear,74,Free Shipping,Artist,Yes,Winter,Brazil
+199,Male,22,Coat,Outerwear,52,Free Shipping,Executive,No,,Brazil
+200,Male,22,Coat,Outerwear,22,Free Shipping,Artist,Yes,Winter,Brazil
+201,Female,22,Coat,Outerwear,21,Free Shipping,Healthcare,No,,Brazil
+202,Male,22,Coat,Outerwear,45,Free Shipping,Healthcare,Yes,Winter,Brazil
+203,Female,22,Coat,Outerwear,77,Free Shipping,Engineer,No,Winter,Brazil
+204,Female,22,Coat,Outerwear,50,Free Shipping,Healthcare,Yes,Winter,Brazil
+205,Female,22,Coat,Outerwear,25,Free Shipping,Entertainment,No,Winter,Brazil
+206,Female,22,Coat,Outerwear,15,Free Shipping,Healthcare,Yes,,Brazil
+207,Female,22,Coat,Outerwear,69,Free Shipping,Healthcare,No,Winter,Brazil
+208,Male,22,Coat,Outerwear,85,Free Shipping,Artist,Yes,Winter,Brazil
+209,Female,22,Coat,Outerwear,12,Free Shipping,Doctor,No,Winter,Brazil
+210,Female,22,Coat,Outerwear,100,Free Shipping,Engineer,Yes,Winter,Brazil
+211,Female,22,Coat,Outerwear,23,Free Shipping,Engineer,No,Winter,Brazil
+212,Female,22,Coat,Outerwear,14,Free Shipping,Artist,Yes,Winter,Brazil
+213,Male,22,Coat,Outerwear,25,Free Shipping,Marketing,No,Winter,Brazil
+214,Male,22,Coat,Outerwear,41,Free Shipping,Lawyer,Yes,,Brazil
+215,Male,22,Coat,Outerwear,22,Free Shipping,Doctor,No,,Brazil
+216,Female,22,Coat,Outerwear,63,Free Shipping,Healthcare,Yes,Winter,Brazil
+217,Male,22,Coat,Outerwear,55,Free Shipping,Doctor,No,Winter,Brazil
+218,Female,22,Coat,Outerwear,98,Free Shipping,Doctor,Yes,Winter,Brazil
+219,Female,22,Coat,Outerwear,99,Free Shipping,Executive,No,Winter,Brazil
+220,Female,22,Coat,Outerwear,65,Free Shipping,,Yes,,Brazil
+221,Female,22,Coat,Outerwear,35,Free Shipping,Artist,No,Winter,Brazil
+222,Female,22,Coat,Outerwear,85,Free Shipping,Engineer,Yes,Winter,Brazil
+223,Male,22,Coat,Outerwear,96,Free Shipping,Artist,No,Winter,Brazil
+224,Female,22,Coat,Outerwear,74,Free Shipping,Healthcare,Yes,Winter,Brazil
+225,Female,22,Coat,Outerwear,52,Free Shipping,Homemaker,No,Winter,Brazil
+226,Female,22,Coat,Outerwear,22,Free Shipping,Engineer,Yes,Winter,Algeria
+227,Female,22,Coat,Outerwear,21,Free Shipping,Artist,No,Winter,Algeria
+228,Male,22,Coat,Outerwear,45,Free Shipping,Healthcare,Yes,Winter,Algeria
+229,Male,22,Coat,Outerwear,77,Express,Marketing,No,Winter,Algeria
+230,Male,22,Coat,Outerwear,50,Free Shipping,Healthcare,Yes,Winter,Algeria
+231,Female,22,Coat,Outerwear,25,Next Day Air,Lawyer,No,Winter,Algeria
+232,Male,22,Coat,Outerwear,15,2-Day Shipping,Healthcare,Yes,Winter,Algeria
+233,Female,22,Coat,Outerwear,69,2-Day Shipping,Lawyer,No,Winter,Australia
+234,Female,22,Coat,Outerwear,85,2-Day Shipping,Healthcare,Yes,Winter,Australia
+235,Female,22,Coat,Outerwear,12,2-Day Shipping,Artist,No,Winter,Australia
+236,Female,22,Coat,Outerwear,100,2-Day Shipping,Healthcare,Yes,Winter,Australia
+237,Male,22,Coat,Outerwear,23,2-Day Shipping,Healthcare,No,Winter,Australia
+238,Male,22,Coat,Outerwear,14,2-Day Shipping,,Yes,Winter,Australia
+239,Male,22,Coat,Outerwear,25,2-Day Shipping,Lawyer,No,,Australia
+240,Female,22,Coat,Outerwear,41,2-Day Shipping,Artist,Yes,,Australia
+241,Male,22,Coat,Outerwear,22,2-Day Shipping,Executive,No,Winter,Australia
+242,Female,22,Coat,Outerwear,63,2-Day Shipping,Artist,Yes,Winter,Australia
+243,Female,22,Coat,Outerwear,55,2-Day Shipping,Healthcare,No,Winter,Australia
+244,Female,22,Coat,Outerwear,98,2-Day Shipping,Artist,Yes,Winter,Australia
+245,Female,22,Coat,Outerwear,99,2-Day Shipping,Artist,No,Winter,Australia
+246,Female,22,Coat,Outerwear,65,2-Day Shipping,Entertainment,Yes,Winter,Australia
+247,Male,23,Coat,Outerwear,35,2-Day Shipping,Doctor,No,Winter,Australia
+248,Female,25,Coat,Outerwear,85,2-Day Shipping,Artist,Yes,Winter,Australia
+249,Female,46,Coat,Outerwear,96,2-Day Shipping,Artist,No,Winter,Australia
+250,Female,28,Coat,Outerwear,74,Express,Engineer,Yes,Winter,Australia
+251,Male,24,Coat,Outerwear,52,Express,Engineer,No,Winter,Australia
+252,Female,27,Coat,Outerwear,22,Express,Doctor,Yes,Winter,Afghanistan
+253,Female,22,Coat,Outerwear,21,Express,Artist,No,Winter,Argentina
+254,Female,22,Coat,Outerwear,45,Express,Lawyer,Yes,Winter,Argentina
+255,Female,22,Coat,Outerwear,77,Express,Engineer,No,Winter,Argentina
+256,Male,22,Coat,Outerwear,50,Express,Lawyer,Yes,Winter,Argentina
+257,Male,22,Coat,Outerwear,25,Express,Executive,No,Winter,Argentina
+258,Male,22,Coat,Outerwear,15,Express,Homemaker,Yes,Winter,Argentina
+259,Female,22,Coat,Outerwear,69,Express,Artist,No,Winter,Argentina
+260,Male,22,Coat,Outerwear,85,Express,Executive,Yes,Winter,Argentina
+261,Female,22,Coat,Outerwear,12,Express,Artist,No,Winter,Argentina
+262,Female,22,Coat,Outerwear,100,Next Day Air,Doctor,Yes,Winter,Argentina
+263,Female,22,Coat,Outerwear,23,Next Day Air,Lawyer,No,Winter,Argentina
+264,Female,22,Coat,Outerwear,14,Next Day Air,Engineer,Yes,Winter,Turkey
+265,Female,22,Coat,Outerwear,25,Next Day Air,Homemaker,No,Winter,Turkey
+266,Male,22,Coat,Outerwear,41,Next Day Air,Entertainment,Yes,Winter,Turkey
+267,Female,22,Coat,Outerwear,22,Next Day Air,Artist,No,Winter,Turkey
+268,Female,22,Coat,Outerwear,63,Next Day Air,Artist,Yes,Winter,Turkey
+269,Female,22,Coat,Outerwear,55,Next Day Air,Entertainment,No,Winter,Turkey
+270,Female,22,Coat,Outerwear,98,Next Day Air,Artist,Yes,Winter,Turkey
+271,Male,22,Coat,Outerwear,99,Next Day Air,Entertainment,No,Winter,Turkey
+272,Female,22,Coat,Outerwear,65,Next Day Air,Doctor,Yes,Winter,Afghanistan
+273,Female,22,Coat,Outerwear,35,Next Day Air,Entertainment,No,Winter,Afghanistan
+274,Female,22,Coat,Outerwear,85,Next Day Air,Artist,Yes,Winter,Afghanistan
+275,Female,33,Coat,Outerwear,96,Next Day Air,Artist,No,Winter,Afghanistan
+276,Male,33,Coat,Outerwear,74,Next Day Air,Lawyer,Yes,Winter,Afghanistan
+277,Male,33,Coat,Outerwear,52,Next Day Air,Executive,No,Winter,Afghanistan
+278,Male,33,Coat,Outerwear,22,Next Day Air,Artist,Yes,Winter,Afghanistan
+279,Female,33,Coat,Outerwear,21,Next Day Air,Engineer,No,Winter,Pakistan
+280,Male,33,Coat,Outerwear,45,Next Day Air,Healthcare,Yes,Winter,Pakistan
+281,Female,33,Coat,Outerwear,77,Next Day Air,Executive,No,Winter,Pakistan
+282,Female,33,Coat,Outerwear,50,Next Day Air,Marketing,Yes,Winter,Pakistan
+283,Female,33,Coat,Outerwear,25,Next Day Air,Artist,No,Winter,Pakistan
+284,Female,33,Coat,Outerwear,15,Next Day Air,Artist,Yes,Winter,Pakistan
+285,Female,33,Coat,Outerwear,69,Next Day Air,Healthcare,No,Winter,Pakistan
+286,Male,33,Coat,Outerwear,85,Next Day Air,Artist,Yes,Winter,Pakistan
+287,Female,33,Coat,Outerwear,12,Next Day Air,Entertainment,No,Winter,Pakistan
+288,Female,33,Coat,Outerwear,100,Next Day Air,Healthcare,Yes,Winter,Pakistan
+289,Female,33,Coat,Outerwear,23,Next Day Air,Marketing,No,Winter,Pakistan
+290,Female,33,Coat,Outerwear,14,Next Day Air,Engineer,Yes,Winter,Pakistan
+291,Male,33,Coat,Outerwear,25,Next Day Air,Entertainment,No,Winter,Pakistan
+292,Female,33,Coat,Outerwear,41,Next Day Air,Doctor,Yes,Winter,Pakistan
+293,Male,33,Coat,Outerwear,22,Next Day Air,Artist,No,Winter,Pakistan
+294,Female,33,Coat,Outerwear,63,Next Day Air,Engineer,Yes,Winter,Pakistan
+295,Female,33,Coat,Outerwear,55,Next Day Air,Entertainment,No,Winter,Afghanistan
+296,Female,60,Coat,Outerwear,98,Next Day Air,Executive,Yes,Winter,Afghanistan
+297,Female,60,Coat,Outerwear,99,Next Day Air,Engineer,No,Winter,Afghanistan
+298,Male,60,Coat,Outerwear,65,Next Day Air,Doctor,Yes,Winter,Afghanistan
+299,Male,60,Coat,Outerwear,35,Next Day Air,Artist,No,Winter,Afghanistan
+300,Male,60,Coat,Outerwear,85,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+301,Male,60,Coat,Outerwear,96,Next Day Air,Entertainment,No,Winter,Afghanistan
+302,Male,60,Coat,Outerwear,74,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+303,Female,60,Coat,Outerwear,52,Next Day Air,Healthcare,No,Winter,Afghanistan
+304,Female,60,Coat,Outerwear,22,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+305,Female,60,Coat,Outerwear,21,Next Day Air,Lawyer,No,Winter,Afghanistan
+306,Female,60,Coat,Outerwear,45,Next Day Air,Marketing,Yes,Winter,Afghanistan
+307,Female,60,Coat,Outerwear,77,Next Day Air,Artist,No,Winter,Afghanistan
+308,Female,60,Coat,Outerwear,50,Next Day Air,Doctor,Yes,Winter,Afghanistan
+309,Male,60,Coat,Outerwear,25,Next Day Air,Engineer,No,Winter,Afghanistan
+310,Female,55,Coat,Outerwear,15,Next Day Air,Engineer,Yes,Winter,Afghanistan
+311,Male,55,Coat,Outerwear,69,Next Day Air,Executive,No,Winter,Afghanistan
+312,Female,55,Coat,Outerwear,85,Next Day Air,Engineer,Yes,Winter,Afghanistan
+313,Female,55,Coat,Outerwear,12,Next Day Air,Lawyer,No,Winter,Afghanistan
+314,Female,55,Coat,Outerwear,100,Next Day Air,Executive,Yes,Winter,Afghanistan
+315,Male,55,Coat,Outerwear,23,Next Day Air,Doctor,No,Winter,Afghanistan
+316,Male,55,Coat,Outerwear,14,Next Day Air,Lawyer,Yes,Winter,Afghanistan
+317,Female,55,Coat,Outerwear,25,Next Day Air,Homemaker,No,Winter,Afghanistan
+318,Male,55,Coat,Outerwear,41,Next Day Air,Artist,Yes,Winter,Afghanistan
+319,Male,55,Coat,Outerwear,22,Next Day Air,Marketing,No,Winter,Afghanistan
+320,Female,55,Coat,Outerwear,63,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+321,Male,55,Coat,Outerwear,55,Next Day Air,Engineer,No,Winter,Afghanistan
+322,Male,55,Coat,Outerwear,98,Next Day Air,Lawyer,Yes,Winter,Afghanistan
+323,Female,55,Coat,Outerwear,99,Next Day Air,Healthcare,No,Winter,Afghanistan
+324,Male,55,Coat,Outerwear,65,Next Day Air,Doctor,Yes,Winter,Afghanistan
+325,Female,55,Coat,Outerwear,35,Next Day Air,Artist,No,Winter,Afghanistan
+326,Male,55,Coat,Outerwear,85,Next Day Air,Artist,Yes,Winter,Afghanistan
+327,Female,55,Coat,Outerwear,96,Next Day Air,Engineer,No,Winter,Afghanistan
+328,Male,18,Coat,Outerwear,74,Next Day Air,Engineer,Yes,Winter,Afghanistan
+329,Female,20,Coat,Outerwear,52,Next Day Air,Healthcare,No,Winter,Afghanistan
+330,Female,35,Coat,Outerwear,22,Next Day Air,Artist,Yes,Winter,Afghanistan
+331,Male,45,Coat,Outerwear,21,Next Day Air,Engineer,No,Winter,Afghanistan
+332,Female,60,Coat,Outerwear,45,Next Day Air,Engineer,Yes,Winter,Afghanistan
+333,Male,22,Coat,Outerwear,77,Next Day Air,Healthcare,No,Winter,Afghanistan
+334,Male,24,Coat,Outerwear,50,Next Day Air,Artist,Yes,Winter,Afghanistan
+335,Female,68,Coat,Outerwear,25,Next Day Air,Entertainment,No,Winter,Afghanistan
+336,Female,53,Coat,Outerwear,15,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+337,Female,74,Coat,Outerwear,69,Next Day Air,Healthcare,No,Winter,Afghanistan
+338,Female,55,Coat,Outerwear,85,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+339,Female,51,Coat,Outerwear,12,Next Day Air,Doctor,No,Winter,Afghanistan
+340,Female,42,Coat,Outerwear,100,Next Day Air,Artist,Yes,Winter,Afghanistan
+341,Female,43,Coat,Outerwear,23,Next Day Air,Artist,No,Winter,Afghanistan
+342,Male,47,Coat,Outerwear,14,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+343,Male,48,Coat,Outerwear,25,Next Day Air,Artist,No,Winter,Afghanistan
+344,Female,60,Coat,Outerwear,41,Next Day Air,Engineer,Yes,Winter,Afghanistan
+345,Female,22,Coat,Outerwear,22,Next Day Air,Healthcare,No,Winter,Afghanistan
+346,Female,21,Coat,Outerwear,63,Next Day Air,Lawyer,Yes,Winter,Afghanistan
+347,Female,19,Coat,Outerwear,55,Next Day Air,Healthcare,No,Winter,Afghanistan
+348,Female,23,Coat,Outerwear,98,Next Day Air,Artist,Yes,Winter,Afghanistan
+349,Female,25,Coat,Outerwear,99,Next Day Air,Marketing,No,Winter,Afghanistan
+350,Female,25,Coat,Outerwear,65,Next Day Air,Artist,Yes,Winter,Afghanistan
+351,Female,26,Coat,Outerwear,35,Next Day Air,Artist,No,Winter,Afghanistan
+352,Male,28,Coat,Outerwear,85,Next Day Air,Engineer,Yes,Winter,Afghanistan
+353,Female,27,Coat,Outerwear,96,Next Day Air,Lawyer,No,Winter,Afghanistan
+354,Male,29,Coat,Outerwear,74,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+355,Female,21,Coat,Outerwear,52,Next Day Air,Doctor,No,Winter,Afghanistan
+356,Male,24,Coat,Outerwear,22,Next Day Air,Engineer,Yes,Winter,Afghanistan
+357,Female,25,Coat,Outerwear,21,Next Day Air,Homemaker,No,Winter,Afghanistan
+358,Male,26,Coat,Outerwear,45,Next Day Air,Marketing,Yes,Winter,Afghanistan
+359,Female,23,Coat,Outerwear,77,Next Day Air,Lawyer,No,Winter,Afghanistan
+360,Male,25,Coat,Outerwear,50,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+361,Male,33,Coat,Outerwear,25,Next Day Air,Artist,No,Winter,Afghanistan
+362,Male,33,Coat,Outerwear,15,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+363,Female,36,Coat,Outerwear,69,Next Day Air,Engineer,No,Winter,Afghanistan
+364,Female,25,Coat,Outerwear,85,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+365,Male,36,Coat,Outerwear,12,Next Day Air,Artist,No,Winter,Afghanistan
+366,Male,39,Coat,Outerwear,100,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+367,Female,38,Coat,Outerwear,23,Next Day Air,Artist,No,Winter,Afghanistan
+368,Female,22,Coat,Outerwear,14,Next Day Air,Executive,Yes,Winter,Afghanistan
+369,Male,22,Coat,Outerwear,25,Next Day Air,Healthcare,No,Winter,Afghanistan
+370,Female,22,Coat,Outerwear,41,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+371,Male,22,Coat,Outerwear,22,Next Day Air,Artist,No,Winter,Afghanistan
+372,Female,22,Coat,Outerwear,63,Free Shipping,Entertainment,Yes,Winter,Afghanistan
+373,Female,22,Coat,Outerwear,55,Free Shipping,Lawyer,No,Winter,Afghanistan
+374,Female,22,Coat,Outerwear,98,Free Shipping,Doctor,Yes,Winter,Afghanistan
+375,Male,22,Coat,Outerwear,99,Free Shipping,Doctor,No,Winter,Afghanistan
+376,Male,22,Coat,Outerwear,65,Free Shipping,Artist,Yes,Winter,Afghanistan
+377,Female,22,Coat,Outerwear,35,Free Shipping,Doctor,No,Winter,Afghanistan
+378,Male,22,Coat,Outerwear,85,Free Shipping,Artist,Yes,Winter,Afghanistan
+379,Female,22,Coat,Outerwear,96,Free Shipping,Artist,No,Winter,Afghanistan
+380,Female,22,Coat,Outerwear,74,Free Shipping,Entertainment,Yes,Winter,Afghanistan
+381,Male,22,Sneakers,Footwear,52,Free Shipping,Artist,No,Winter,Afghanistan
+382,Male,22,Shirt,Clothing,22,Free Shipping,Engineer,Yes,Winter,Afghanistan
+383,Male,22,Shirt,Clothing,21,Free Shipping,Artist,No,Winter,Afghanistan
+384,Female,22,Shirt,Clothing,45,Free Shipping,Artist,Yes,Winter,Afghanistan
+385,Female,22,Shirt,Clothing,77,Free Shipping,Artist,No,Winter,Afghanistan
+386,Male,22,Shirt,Clothing,50,Free Shipping,Artist,Yes,Winter,Afghanistan
+387,Female,22,Shirt,Clothing,25,Free Shipping,Artist,No,Winter,Afghanistan
+388,Female,22,Shirt,Clothing,15,Free Shipping,Artist,Yes,Winter,Afghanistan
+389,Female,22,Shirt,Clothing,69,Free Shipping,Healthcare,No,Winter,Afghanistan
+390,Female,22,Shirt,Clothing,85,Free Shipping,Doctor,Yes,Winter,Afghanistan
+391,Female,22,Shirt,Clothing,12,Free Shipping,Artist,No,Winter,Afghanistan
+392,Male,22,Shirt,Clothing,100,Free Shipping,Doctor,Yes,Winter,Afghanistan
+393,Male,22,Shirt,Clothing,23,Free Shipping,Artist,No,Winter,Afghanistan
+394,Female,22,Sneakers,Footwear,14,Free Shipping,Artist,Yes,Winter,Afghanistan
+395,Female,22,Sneakers,Footwear,25,Free Shipping,Artist,No,Winter,Afghanistan
+396,Male,22,Sneakers,Footwear,41,Free Shipping,Lawyer,Yes,Winter,Afghanistan
+397,Female,22,Sneakers,Footwear,22,Free Shipping,Homemaker,No,Winter,Afghanistan
+398,Female,22,Sneakers,Footwear,63,Free Shipping,Entertainment,Yes,Winter,Afghanistan
+399,Male,22,Sneakers,Footwear,55,Free Shipping,Executive,No,Winter,Afghanistan
+400,Male,22,Sneakers,Footwear,98,Free Shipping,Artist,Yes,Winter,Afghanistan
+401,Female,22,Sneakers,Footwear,99,Free Shipping,Engineer,No,Winter,Afghanistan
+402,Female,22,Sneakers,Footwear,65,Free Shipping,Healthcare,Yes,Winter,Afghanistan
+403,Male,22,Sneakers,Footwear,35,Free Shipping,Doctor,No,Winter,Afghanistan
+404,Male,22,Sneakers,Footwear,85,Free Shipping,Doctor,Yes,Winter,Afghanistan
+405,Male,22,Sneakers,Footwear,96,Free Shipping,Engineer,No,Winter,Afghanistan
+406,Female,22,Sneakers,Footwear,74,Free Shipping,Artist,Yes,Winter,Afghanistan
+407,Female,22,Sneakers,Footwear,52,Free Shipping,Executive,No,Winter,Afghanistan
+408,Male,22,Sneakers,Footwear,22,Free Shipping,Executive,Yes,Winter,Afghanistan
+409,Male,22,Sneakers,Footwear,21,Free Shipping,Healthcare,No,Winter,Afghanistan
+410,Male,22,Sneakers,Footwear,45,Free Shipping,Healthcare,Yes,Winter,Afghanistan
+411,Male,22,Sneakers,Footwear,77,Free Shipping,Entertainment,No,Winter,Afghanistan
+412,Female,22,Sneakers,Footwear,50,Free Shipping,Lawyer,Yes,Winter,Afghanistan
+413,Female,22,Sneakers,Footwear,25,Free Shipping,Artist,No,Winter,Afghanistan
+414,Male,22,Sneakers,Footwear,15,Free Shipping,Marketing,Yes,Winter,Afghanistan
+415,Female,22,Sneakers,Footwear,69,Free Shipping,Lawyer,No,Winter,Afghanistan
+416,Female,22,Sneakers,Footwear,85,Free Shipping,Engineer,Yes,Winter,Afghanistan
+417,Female,22,Sneakers,Footwear,12,Free Shipping,Artist,No,Winter,Afghanistan
+418,Female,22,Sneakers,Footwear,100,Free Shipping,Artist,Yes,Winter,Afghanistan
+419,Female,22,Sneakers,Footwear,23,Free Shipping,Homemaker,No,Winter,Afghanistan
+420,Female,22,Sneakers,Footwear,14,Free Shipping,Entertainment,Yes,Winter,Afghanistan
+421,Male,22,Sneakers,Footwear,25,Free Shipping,Healthcare,No,Winter,Afghanistan
+422,Female,22,Sneakers,Footwear,41,Free Shipping,Entertainment,Yes,Winter,Afghanistan
+423,Female,22,Sneakers,Footwear,22,Free Shipping,Artist,No,Winter,Afghanistan
+424,Male,22,Sneakers,Footwear,63,Free Shipping,Artist,Yes,Winter,Afghanistan
+425,Female,22,Sneakers,Footwear,55,Free Shipping,Entertainment,No,Winter,Afghanistan
+426,Female,22,Sneakers,Footwear,98,Free Shipping,Artist,Yes,Winter,Afghanistan
+427,Male,22,Sneakers,Footwear,99,Free Shipping,Entertainment,No,Winter,Afghanistan
+428,Male,22,Sneakers,Footwear,65,Free Shipping,Doctor,Yes,Winter,Afghanistan
+429,Male,22,Sneakers,Footwear,35,Free Shipping,Entertainment,No,Winter,Afghanistan
+430,Male,22,Sneakers,Footwear,85,Free Shipping,Engineer,Yes,Winter,Afghanistan
+431,Male,22,Sneakers,Footwear,96,Free Shipping,Healthcare,No,Winter,Afghanistan
+432,Male,22,Sneakers,Footwear,74,Free Shipping,Executive,Yes,Winter,Afghanistan
+433,Female,22,Sneakers,Footwear,52,Free Shipping,Artist,No,Winter,Afghanistan
+434,Female,22,Sneakers,Footwear,22,Free Shipping,Artist,Yes,Winter,Afghanistan
+435,Male,22,Sneakers,Footwear,21,Free Shipping,Engineer,No,Winter,Afghanistan
+436,Female,22,Sneakers,Footwear,45,Free Shipping,Doctor,Yes,Winter,Afghanistan
+437,Female,22,Sneakers,Footwear,77,Free Shipping,Lawyer,No,Winter,Afghanistan
+438,Male,22,Sneakers,Footwear,50,Free Shipping,,Yes,Winter,Afghanistan
+439,Male,22,Sneakers,Footwear,25,Free Shipping,Entertainment,No,Winter,Afghanistan
+440,Female,22,Sneakers,Footwear,15,Free Shipping,Artist,Yes,Winter,Afghanistan
+441,Female,22,Sneakers,Footwear,69,Free Shipping,,No,Winter,Afghanistan
+442,Male,22,Sneakers,Footwear,85,Free Shipping,Artist,Yes,Winter,Afghanistan
+443,Female,22,Sneakers,Footwear,12,Free Shipping,Artist,No,Winter,Afghanistan
+444,Female,22,Sneakers,Footwear,100,Free Shipping,Lawyer,Yes,Winter,Afghanistan
+445,Male,22,Sneakers,Footwear,23,Free Shipping,Artist,No,Winter,Afghanistan
+446,Male,22,Sneakers,Footwear,14,Free Shipping,Artist,Yes,Winter,Afghanistan
+447,Male,22,Sneakers,Footwear,25,Free Shipping,Engineer,No,Winter,Afghanistan
+448,Female,22,Sneakers,Footwear,41,Free Shipping,Engineer,Yes,Winter,Afghanistan
+449,Female,22,Sneakers,Footwear,22,Free Shipping,Artist,No,Winter,Afghanistan
+450,Male,22,Sneakers,Footwear,63,Free Shipping,Healthcare,Yes,Winter,Afghanistan
+451,Male,22,Sneakers,Footwear,55,Free Shipping,Healthcare,No,Winter,Afghanistan
+452,Male,22,Sneakers,Footwear,98,Free Shipping,Engineer,Yes,Winter,Afghanistan
+453,Female,22,Sneakers,Footwear,99,Free Shipping,Healthcare,No,Winter,Afghanistan
+454,Female,22,Sneakers,Footwear,65,Free Shipping,Lawyer,Yes,Winter,Afghanistan
+455,Female,22,Sneakers,Footwear,35,Free Shipping,Artist,No,Winter,Afghanistan
+456,Female,22,Sneakers,Footwear,85,Free Shipping,Artist,Yes,Winter,Afghanistan
+457,Male,22,Blouse,Clothing,96,Free Shipping,Artist,No,Winter,Afghanistan
+458,Female,22,Sweater,Clothing,74,Free Shipping,Artist,Yes,Winter,Afghanistan
+459,Male,22,Jeans,Clothing,52,Free Shipping,Marketing,No,Winter,Afghanistan
+460,Female,22,Sandals,Footwear,22,Free Shipping,Doctor,Yes,Winter,Afghanistan
+461,Female,22,Blouse,Clothing,21,Free Shipping,Lawyer,No,Winter,Afghanistan
+462,Female,22,Sneakers,Footwear,45,Express,Healthcare,Yes,Winter,Afghanistan
+463,Male,22,Shirt,Clothing,77,Free Shipping,Artist,No,Winter,Afghanistan
+464,Female,22,Shorts,Clothing,50,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+465,Male,22,Coat,Outerwear,25,2-Day Shipping,Marketing,No,Winter,Afghanistan
+466,Female,22,Handbag,Accessories,15,2-Day Shipping,Engineer,Yes,Winter,Afghanistan
+467,Male,22,Sunglasses,Accessories,69,2-Day Shipping,Doctor,No,Winter,Afghanistan
+468,Female,22,Scarf,Accessories,85,2-Day Shipping,Executive,Yes,Winter,Afghanistan
+469,Female,22,Blouse,Clothing,12,2-Day Shipping,Artist,No,Winter,Afghanistan
+470,Male,22,Sweater,Clothing,100,2-Day Shipping,Healthcare,Yes,Winter,Afghanistan
+471,Male,22,Jeans,Clothing,23,2-Day Shipping,Homemaker,No,Winter,Afghanistan
+472,Male,22,Sandals,Footwear,14,2-Day Shipping,Artist,Yes,Winter,Afghanistan
+473,Male,22,Blouse,Clothing,25,2-Day Shipping,Healthcare,No,Winter,Afghanistan
+474,Male,22,Sneakers,Footwear,41,2-Day Shipping,Artist,Yes,Winter,Afghanistan
+475,Female,22,Shirt,Clothing,22,2-Day Shipping,Healthcare,No,Winter,Afghanistan
+476,Female,22,Shorts,Clothing,63,2-Day Shipping,Lawyer,Yes,Winter,Afghanistan
+477,Male,22,Coat,Outerwear,55,2-Day Shipping,Artist,No,Winter,Afghanistan
+478,Male,22,Handbag,Accessories,98,2-Day Shipping,Lawyer,Yes,Winter,Afghanistan
+479,Male,22,Sunglasses,Accessories,99,2-Day Shipping,Healthcare,No,Winter,Afghanistan
+480,Male,22,Scarf,Accessories,65,2-Day Shipping,Entertainment,Yes,Winter,Afghanistan
+481,Female,22,Blouse,Clothing,35,2-Day Shipping,Artist,No,Winter,Afghanistan
+482,Female,22,Sweater,Clothing,85,2-Day Shipping,Healthcare,Yes,Winter,Afghanistan
+483,Male,22,Jeans,Clothing,96,Express,Healthcare,No,Winter,Afghanistan
+484,Female,22,Sandals,Footwear,74,Express,Healthcare,Yes,Winter,Afghanistan
+485,Female,22,Blouse,Clothing,52,Express,Healthcare,No,Winter,Afghanistan
+486,Male,22,Sneakers,Footwear,22,Express,Homemaker,Yes,Winter,Afghanistan
+487,Female,22,Shirt,Clothing,21,Express,Artist,No,Winter,Afghanistan
+488,Male,22,Shorts,Clothing,45,Express,Artist,Yes,Winter,Afghanistan
+489,Female,22,Coat,Outerwear,77,Express,Artist,No,Winter,Afghanistan
+490,Female,22,Handbag,Accessories,50,Express,Healthcare,Yes,Winter,Afghanistan
+491,Female,22,Sunglasses,Accessories,25,Express,Artist,No,Winter,Afghanistan
+492,Female,22,Scarf,Accessories,15,Express,Lawyer,Yes,Winter,Afghanistan
+493,Male,22,Blouse,Clothing,69,Express,Artist,No,Winter,Afghanistan
+494,Female,22,Sweater,Clothing,85,Express,Artist,Yes,Winter,Afghanistan
+495,Female,22,Jeans,Clothing,12,Next Day Air,Entertainment,No,Winter,Afghanistan
+496,Female,22,Sandals,Footwear,100,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+497,Female,22,Blouse,Clothing,23,Next Day Air,Doctor,No,Winter,Afghanistan
+498,Male,22,Sneakers,Footwear,14,Next Day Air,Homemaker,Yes,Winter,Afghanistan
+499,Male,22,Shirt,Clothing,25,Next Day Air,,No,Winter,Afghanistan
+500,Male,22,Shorts,Clothing,41,Next Day Air,Artist,Yes,Winter,Afghanistan
+501,Female,22,Coat,Outerwear,22,Next Day Air,Healthcare,No,Winter,Afghanistan
+502,Male,22,Handbag,Accessories,63,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+503,Female,22,Sunglasses,Accessories,55,Next Day Air,Healthcare,No,Winter,Afghanistan
+504,Female,22,Scarf,Accessories,98,Next Day Air,Artist,Yes,Winter,Afghanistan
+505,Female,22,Blouse,Clothing,99,Next Day Air,Doctor,No,Winter,Afghanistan
+506,Female,22,Sweater,Clothing,65,Next Day Air,Executive,Yes,Winter,Afghanistan
+507,Female,22,Jeans,Clothing,35,Next Day Air,Executive,No,Winter,Afghanistan
+508,Male,22,Blouse,Clothing,85,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+509,Female,22,Sweater,Clothing,96,Next Day Air,Artist,No,Winter,Afghanistan
+510,Female,22,Jeans,Clothing,74,Next Day Air,Artist,Yes,Winter,Afghanistan
+511,Female,22,Sandals,Footwear,52,Next Day Air,Artist,No,Winter,Afghanistan
+512,Female,22,Blouse,Clothing,22,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+513,Male,22,Sneakers,Footwear,21,Next Day Air,Marketing,No,Winter,Afghanistan
+514,Male,22,Shirt,Clothing,45,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+515,Male,22,Shorts,Clothing,77,Next Day Air,Artist,No,Winter,Afghanistan
+516,Female,22,Coat,Outerwear,50,Next Day Air,Artist,Yes,Winter,Afghanistan
+517,Male,22,Handbag,Accessories,25,Next Day Air,Entertainment,No,Winter,Afghanistan
+518,Female,22,Sunglasses,Accessories,15,Next Day Air,Homemaker,Yes,Winter,Afghanistan
+519,Female,22,Scarf,Accessories,69,Next Day Air,Entertainment,No,Winter,Afghanistan
+520,Female,22,Blouse,Clothing,85,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+521,Female,22,Sweater,Clothing,12,Next Day Air,Entertainment,No,Winter,Afghanistan
+522,Female,22,Jeans,Clothing,100,Next Day Air,Engineer,Yes,Winter,Afghanistan
+523,Male,22,Sandals,Footwear,23,Next Day Air,Healthcare,No,Winter,Afghanistan
+524,Female,22,Blouse,Clothing,14,Next Day Air,Doctor,Yes,Winter,Afghanistan
+525,Female,22,Sneakers,Footwear,25,Next Day Air,Healthcare,No,Winter,Afghanistan
+526,Female,22,Shirt,Clothing,41,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+527,Female,22,Shorts,Clothing,22,Next Day Air,Healthcare,No,Winter,Afghanistan
+528,Male,22,Coat,Outerwear,63,Next Day Air,Artist,Yes,Winter,Afghanistan
+529,Male,22,Handbag,Accessories,55,Next Day Air,Doctor,No,Winter,Afghanistan
+530,Male,22,Sunglasses,Accessories,98,Next Day Air,Artist,Yes,Winter,Afghanistan
+531,Female,22,Scarf,Accessories,99,Next Day Air,Artist,No,Winter,Afghanistan
+532,Male,22,Blouse,Clothing,65,Next Day Air,Doctor,Yes,Winter,Afghanistan
+533,Female,22,Sweater,Clothing,35,Next Day Air,Engineer,No,Winter,Afghanistan
+534,Female,22,Jeans,Clothing,85,Next Day Air,Doctor,Yes,Winter,Afghanistan
+535,Female,22,Sandals,Footwear,96,Next Day Air,Artist,No,Winter,Afghanistan
+536,Female,22,Blouse,Clothing,74,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+537,Male,22,Sneakers,Footwear,52,Next Day Air,Doctor,No,Winter,Afghanistan
+538,Male,22,Shirt,Clothing,22,Next Day Air,Engineer,Yes,Winter,Afghanistan
+539,Male,22,Shorts,Clothing,21,Next Day Air,Artist,No,Winter,Afghanistan
+540,Female,22,Coat,Outerwear,45,Next Day Air,Artist,Yes,Winter,Afghanistan
+541,Male,22,Handbag,Accessories,77,Next Day Air,Executive,No,Winter,Afghanistan
+542,Female,22,Sunglasses,Accessories,50,Next Day Air,Executive,Yes,Winter,Afghanistan
+543,Female,22,Scarf,Accessories,25,Next Day Air,Artist,No,Winter,Afghanistan
+544,Female,22,Blouse,Clothing,15,Next Day Air,Artist,Yes,Winter,Afghanistan
+545,Female,22,Sweater,Clothing,69,Next Day Air,Entertainment,No,Winter,Afghanistan
+546,Female,22,Jeans,Clothing,85,Next Day Air,,Yes,Winter,Afghanistan
+547,Male,22,Sandals,Footwear,12,Next Day Air,Engineer,No,Winter,Afghanistan
+548,Female,22,Blouse,Clothing,100,Next Day Air,Artist,Yes,Winter,Afghanistan
+549,Female,22,Sneakers,Footwear,23,Next Day Air,Entertainment,No,Winter,Afghanistan
+550,Female,22,Shirt,Clothing,14,Next Day Air,Homemaker,Yes,Winter,Afghanistan
+551,Male,22,Shorts,Clothing,25,Next Day Air,Marketing,No,Winter,Afghanistan
+552,Female,22,Coat,Outerwear,41,Next Day Air,Doctor,Yes,Winter,Afghanistan
+553,Female,22,Handbag,Accessories,22,Next Day Air,Homemaker,No,Winter,Afghanistan
+554,Female,22,Sunglasses,Accessories,63,Next Day Air,Marketing,Yes,Winter,Afghanistan
+555,Female,22,Scarf,Accessories,55,Next Day Air,Healthcare,No,Winter,Afghanistan
+556,Male,22,Blouse,Clothing,98,Next Day Air,Artist,Yes,Winter,Afghanistan
+557,Male,22,Sweater,Clothing,99,Next Day Air,Engineer,No,Winter,Afghanistan
+558,Male,22,Jeans,Clothing,65,Next Day Air,Artist,Yes,Winter,Afghanistan
+559,Female,22,Blouse,Clothing,35,Next Day Air,Healthcare,No,Winter,Afghanistan
+560,Male,22,Sweater,Clothing,85,Next Day Air,Artist,Yes,Winter,Afghanistan
+561,Female,22,Jeans,Clothing,96,Next Day Air,Artist,No,Winter,Afghanistan
+562,Female,22,Sandals,Footwear,74,Next Day Air,Lawyer,Yes,Winter,Afghanistan
+563,Female,22,Blouse,Clothing,52,Next Day Air,Entertainment,No,Winter,Afghanistan
+564,Female,22,Sneakers,Footwear,22,Next Day Air,Entertainment,Yes,Winter,Afghanistan
+565,Female,22,Shirt,Clothing,21,Next Day Air,Healthcare,No,Winter,Afghanistan
+566,Male,22,Shorts,Clothing,45,Next Day Air,Healthcare,Yes,Winter,Afghanistan
+567,Female,22,Coat,Outerwear,77,Next Day Air,Artist,No,Winter,Afghanistan
+568,Female,22,Handbag,Accessories,50,Next Day Air,Engineer,Yes,Winter,Afghanistan
+569,Female,22,Sunglasses,Accessories,25,Next Day Air,Healthcare,No,Winter,Albania
+570,Female,22,Scarf,Accessories,15,Next Day Air,Engineer,Yes,Winter,Albania
+571,Male,22,Blouse,Clothing,69,Next Day Air,Artist,No,Winter,Albania
+572,Female,22,Sweater,Clothing,85,Next Day Air,Executive,Yes,Winter,Albania
+573,Female,22,Jeans,Clothing,12,Next Day Air,Artist,No,Winter,Albania
+574,Female,22,Sandals,Footwear,100,Next Day Air,Artist,Yes,Winter,Albania
+575,Female,22,Blouse,Clothing,23,Next Day Air,Artist,No,Winter,Albania
+576,Male,22,Sneakers,Footwear,14,Next Day Air,Artist,Yes,Winter,Albania
+577,Male,22,Shirt,Clothing,25,Next Day Air,Engineer,No,Winter,Albania
+578,Male,22,Shorts,Clothing,41,Next Day Air,Artist,Yes,Winter,Albania
+579,Female,23,Coat,Outerwear,22,Next Day Air,Healthcare,No,Winter,Albania
+580,Male,25,Handbag,Accessories,63,Next Day Air,Lawyer,Yes,Winter,Albania
+581,Female,46,Sunglasses,Accessories,55,Next Day Air,Marketing,No,Winter,Albania
+582,Female,28,Scarf,Accessories,98,Next Day Air,Artist,Yes,Winter,Albania
+583,Female,24,Blouse,Clothing,99,Next Day Air,Entertainment,No,Winter,Albania
+584,Female,27,Sweater,Clothing,65,Next Day Air,Doctor,Yes,Winter,Albania
+585,Female,22,Jeans,Clothing,35,Next Day Air,Marketing,No,Winter,Albania
+586,Male,22,Sandals,Footwear,85,Next Day Air,Artist,Yes,Winter,Albania
+587,Female,22,Blouse,Clothing,96,Next Day Air,Executive,No,Winter,Albania
+588,Female,22,Sneakers,Footwear,74,Next Day Air,Lawyer,Yes,Winter,Albania
+589,Female,22,Shirt,Clothing,52,Next Day Air,Healthcare,No,Winter,Albania
+590,Female,22,Shorts,Clothing,22,Next Day Air,Healthcare,Yes,Winter,Albania
+591,Male,22,Coat,Outerwear,21,Next Day Air,Artist,No,Winter,Albania
+592,Female,22,Handbag,Accessories,45,Next Day Air,Entertainment,Yes,Winter,Albania
+593,Male,22,Sunglasses,Accessories,77,Next Day Air,Executive,No,Winter,Albania
+594,Female,22,Scarf,Accessories,50,Next Day Air,Doctor,Yes,Winter,Albania
+595,Female,22,Blouse,Clothing,25,Next Day Air,Engineer,No,Winter,Albania
+596,Female,22,Sweater,Clothing,15,Next Day Air,Executive,Yes,Winter,Albania
+597,Female,22,Jeans,Clothing,69,Next Day Air,Entertainment,No,Winter,Albania
+598,Male,22,Sandals,Footwear,85,Next Day Air,Entertainment,Yes,Winter,Albania
+599,Male,22,Blouse,Clothing,12,Next Day Air,Entertainment,No,Winter,Albania
+600,Male,22,Sneakers,Footwear,100,Next Day Air,Healthcare,Yes,Winter,Albania
+601,Male,22,Shirt,Clothing,23,Next Day Air,Doctor,No,Winter,Albania
+602,Male,22,Shorts,Clothing,14,Next Day Air,,Yes,Winter,Albania
+603,Female,22,Coat,Outerwear,25,Next Day Air,Artist,No,Winter,Albania
+604,Female,22,Handbag,Accessories,41,Next Day Air,Lawyer,Yes,Winter,Albania
+605,Female,22,Sunglasses,Accessories,22,Free Shipping,Executive,No,Winter,Albania
+606,Female,22,Scarf,Accessories,63,Free Shipping,Healthcare,Yes,Winter,Albania
+607,Female,33,Blouse,Clothing,55,Free Shipping,Artist,No,Winter,Albania
+608,Female,33,Sweater,Clothing,98,Free Shipping,Executive,Yes,Winter,Albania
+609,Male,33,Jeans,Clothing,99,Free Shipping,Artist,No,Winter,Albania
+610,Female,33,Blouse,Clothing,65,Free Shipping,Doctor,Yes,Winter,Albania
+611,Male,33,Sweater,Clothing,35,Free Shipping,Artist,No,Winter,Albania
+612,Female,33,Jeans,Clothing,85,Free Shipping,Artist,Yes,Winter,Albania
+613,Female,33,Sandals,Footwear,96,Free Shipping,Lawyer,No,Winter,Albania
+614,Female,33,Blouse,Clothing,74,Free Shipping,Healthcare,Yes,Winter,Albania
+615,Male,33,Sneakers,Footwear,52,Free Shipping,Engineer,No,Winter,Albania
+616,Male,33,Shirt,Clothing,22,Free Shipping,Healthcare,Yes,Winter,Albania
+617,Female,33,Shorts,Clothing,21,Free Shipping,Artist,No,Winter,Albania
+618,Male,33,Coat,Outerwear,45,Free Shipping,Lawyer,Yes,Winter,Albania
+619,Male,33,Handbag,Accessories,77,Free Shipping,Marketing,No,Winter,Albania
+620,Female,33,Sunglasses,Accessories,50,Free Shipping,Artist,Yes,Winter,Albania
+621,Male,33,Scarf,Accessories,25,Free Shipping,Entertainment,No,Winter,Albania
+622,Male,33,Blouse,Clothing,15,Free Shipping,Healthcare,Yes,Winter,Albania
+623,Female,33,Sweater,Clothing,69,Free Shipping,Entertainment,No,Winter,Albania
+624,Male,33,Jeans,Clothing,85,Free Shipping,Artist,Yes,Winter,Albania
+625,Female,33,Sandals,Footwear,12,Free Shipping,Doctor,No,Winter,Albania
+626,Male,33,Blouse,Clothing,100,Free Shipping,Healthcare,Yes,Winter,Albania
+627,Female,33,Sneakers,Footwear,23,Free Shipping,Healthcare,No,Winter,Albania
+628,Male,60,Shirt,Clothing,14,Free Shipping,Lawyer,Yes,Winter,Albania
+629,Female,60,Shorts,Clothing,25,Free Shipping,Artist,No,Winter,Albania
+630,Female,60,Coat,Outerwear,41,Free Shipping,Lawyer,Yes,Winter,Albania
+631,Male,60,Handbag,Accessories,22,Free Shipping,Artist,No,Winter,Albania
+632,Female,60,Sunglasses,Accessories,63,Free Shipping,Healthcare,Yes,Winter,Albania
+633,Male,60,Scarf,Accessories,55,Free Shipping,Artist,No,Winter,Albania
+634,Male,60,Blouse,Clothing,98,Free Shipping,Artist,Yes,Winter,Albania
+635,Female,60,Sweater,Clothing,99,Free Shipping,Executive,No,Winter,Albania
+636,Female,60,Jeans,Clothing,65,Free Shipping,Healthcare,Yes,Winter,Albania
+637,Female,60,Sandals,Footwear,35,Free Shipping,Healthcare,No,Winter,Albania
+638,Female,60,Blouse,Clothing,85,Free Shipping,Entertainment,Yes,Winter,Albania
+639,Female,60,Sneakers,Footwear,96,Free Shipping,Doctor,No,Winter,Albania
+640,Female,60,Shirt,Clothing,74,Free Shipping,Artist,Yes,Winter,Albania
+641,Female,60,Shorts,Clothing,52,Free Shipping,Marketing,No,Winter,Albania
+642,Male,55,Coat,Outerwear,22,Free Shipping,,Yes,Winter,Albania
+643,Male,55,Handbag,Accessories,21,Free Shipping,Healthcare,No,Winter,Albania
+644,Female,55,Sunglasses,Accessories,45,Free Shipping,Healthcare,Yes,Winter,Albania
+645,Female,55,Scarf,Accessories,77,Free Shipping,Artist,No,Winter,Albania
+646,Female,55,Blouse,Clothing,50,Free Shipping,Doctor,Yes,Winter,Albania
+647,Female,55,Sweater,Clothing,25,Free Shipping,Artist,No,Winter,Albania
+648,Female,55,Jeans,Clothing,15,Free Shipping,Lawyer,Yes,Winter,Albania
+649,Female,55,Sandals,Footwear,69,Free Shipping,Healthcare,No,Winter,Albania
+650,Female,55,Blouse,Clothing,85,Free Shipping,Lawyer,Yes,Winter,Albania
+651,Female,55,Sneakers,Footwear,12,Free Shipping,Doctor,No,Winter,Albania
+652,Male,55,Shirt,Clothing,100,Free Shipping,Entertainment,Yes,Winter,Albania
+653,Female,55,Shorts,Clothing,23,Free Shipping,Artist,No,Winter,Albania
+654,Male,55,Coat,Outerwear,14,Free Shipping,Executive,Yes,Winter,Albania
+655,Female,55,Handbag,Accessories,25,Free Shipping,Executive,No,Winter,Albania
+656,Male,55,Sunglasses,Accessories,41,Free Shipping,Marketing,Yes,Winter,Albania
+657,Female,55,Scarf,Accessories,22,Free Shipping,Executive,No,Winter,Albania
+658,Male,55,Blouse,Clothing,63,Free Shipping,Artist,Yes,Winter,Albania
+659,Female,55,Sweater,Clothing,55,Free Shipping,Artist,No,Winter,Albania
+660,Male,55,Jeans,Clothing,98,Free Shipping,Artist,Yes,Winter,Albania
+661,Male,55,Blouse,Clothing,99,Free Shipping,Executive,No,Winter,Albania
+662,Male,55,Sweater,Clothing,65,Free Shipping,Doctor,Yes,Winter,Albania
+663,Female,55,Jeans,Clothing,35,Free Shipping,Healthcare,No,Winter,Albania
+664,Female,55,Sandals,Footwear,85,Free Shipping,Doctor,Yes,Winter,Albania
+665,Male,55,Blouse,Clothing,96,Free Shipping,Marketing,No,Winter,Albania
+666,Male,55,Sneakers,Footwear,74,Free Shipping,,Yes,Winter,Albania
+667,Female,55,Shirt,Clothing,52,Free Shipping,Entertainment,No,Winter,Albania
+668,Female,55,Shorts,Clothing,22,Free Shipping,Artist,Yes,Winter,Albania
+669,Male,55,Coat,Outerwear,21,Free Shipping,Artist,No,Winter,Albania
+670,Female,55,Handbag,Accessories,45,Free Shipping,Engineer,Yes,Winter,Albania
+671,Male,55,Sunglasses,Accessories,77,Free Shipping,Marketing,No,Winter,Albania
+672,Female,55,Scarf,Accessories,50,Free Shipping,Artist,Yes,Winter,Albania
+673,Female,55,Blouse,Clothing,25,Free Shipping,Doctor,No,Winter,Albania
+674,Female,55,Sweater,Clothing,15,Free Shipping,Lawyer,Yes,Winter,Albania
+675,Male,55,Jeans,Clothing,69,Free Shipping,Doctor,No,Winter,Albania
+676,Male,55,Sandals,Footwear,85,Free Shipping,Artist,Yes,Winter,Albania
+677,Female,55,Blouse,Clothing,12,Free Shipping,Artist,No,Winter,Albania
+678,Male,55,Sneakers,Footwear,100,Free Shipping,Entertainment,Yes,Winter,Albania
+679,Female,55,Shirt,Clothing,23,Free Shipping,Healthcare,No,Winter,Albania
+680,Female,55,Shorts,Clothing,14,Free Shipping,Doctor,Yes,Winter,Albania
+681,Male,55,Coat,Outerwear,25,Free Shipping,Artist,No,Winter,Albania
+682,Male,55,Handbag,Accessories,41,Free Shipping,Entertainment,Yes,Winter,Albania
+683,Male,55,Sunglasses,Accessories,22,Free Shipping,Executive,No,Winter,Albania
+684,Female,55,Scarf,Accessories,63,Free Shipping,Entertainment,Yes,Winter,Albania
+685,Female,55,Blouse,Clothing,55,Free Shipping,Artist,No,Winter,Albania
+686,Male,55,Sweater,Clothing,98,Free Shipping,Artist,Yes,Winter,Albania
+687,Female,55,Jeans,Clothing,99,Free Shipping,Healthcare,No,Winter,Albania
+688,Female,55,Sandals,Footwear,65,Free Shipping,Engineer,Yes,Winter,Albania
+689,Female,55,Blouse,Clothing,35,Free Shipping,Healthcare,No,Winter,Albania
+690,Female,55,Sneakers,Footwear,85,Free Shipping,Healthcare,Yes,Winter,Albania
+691,Female,55,Shirt,Clothing,96,Free Shipping,Healthcare,No,Winter,Albania
+692,Male,55,Shorts,Clothing,74,Free Shipping,Doctor,Yes,Winter,Albania
+693,Male,55,Coat,Outerwear,52,Free Shipping,Entertainment,No,Winter,Albania
+694,Female,55,Handbag,Accessories,22,Free Shipping,Lawyer,Yes,Winter,Albania
+695,Female,55,Sunglasses,Accessories,21,Express,Entertainment,No,Winter,Albania
+696,Male,55,Scarf,Accessories,45,Free Shipping,Healthcare,Yes,Winter,Albania
+697,Female,55,Blouse,Clothing,77,Next Day Air,Artist,No,Winter,Albania
+698,Female,55,Sweater,Clothing,50,2-Day Shipping,Executive,Yes,Winter,Albania
+699,Male,55,Jeans,Clothing,25,2-Day Shipping,Artist,No,Winter,Albania
+700,Male,55,Sandals,Footwear,15,2-Day Shipping,Executive,Yes,Winter,Albania
+701,Female,55,Blouse,Clothing,69,2-Day Shipping,Healthcare,No,Winter,Albania
+702,Female,55,Sneakers,Footwear,85,2-Day Shipping,Artist,Yes,Winter,Albania
+703,Male,55,Shirt,Clothing,12,2-Day Shipping,Healthcare,No,Winter,Albania
+704,Male,55,Shorts,Clothing,100,2-Day Shipping,,Yes,Winter,Albania
+705,Male,55,Coat,Outerwear,23,2-Day Shipping,Entertainment,No,Winter,Albania
+706,Female,55,Handbag,Accessories,14,2-Day Shipping,Artist,Yes,Winter,Albania
+707,Female,55,Sunglasses,Accessories,25,2-Day Shipping,Engineer,No,Winter,Albania
+708,Male,55,Scarf,Accessories,41,2-Day Shipping,Artist,Yes,Winter,Albania
+709,Male,55,Blouse,Clothing,22,2-Day Shipping,Executive,No,Winter,Albania
+710,Male,55,Sweater,Clothing,63,2-Day Shipping,Homemaker,Yes,Winter,Albania
+711,Male,55,Jeans,Clothing,55,2-Day Shipping,Entertainment,No,Winter,Albania
+712,Female,55,Blouse,Clothing,98,2-Day Shipping,Lawyer,Yes,Winter,Albania
+713,Female,55,Sweater,Clothing,99,2-Day Shipping,Healthcare,No,Winter,Albania
+714,Male,55,Jeans,Clothing,65,2-Day Shipping,Doctor,Yes,Winter,Albania
+715,Female,55,Sandals,Footwear,35,2-Day Shipping,Artist,No,Winter,Albania
+716,Female,55,Blouse,Clothing,85,Express,Marketing,Yes,Winter,Albania
+717,Female,55,Sneakers,Footwear,96,Express,Artist,No,Winter,Albania
+718,Female,55,Shirt,Clothing,74,Express,Healthcare,Yes,Winter,Albania
+719,Female,55,Shorts,Clothing,52,Express,Healthcare,No,Winter,Albania
+720,Female,55,Coat,Outerwear,22,Express,Healthcare,Yes,Winter,Albania
+721,Male,55,Handbag,Accessories,21,Express,Executive,No,Winter,Albania
+722,Female,22,Sunglasses,Accessories,45,Express,Entertainment,Yes,Winter,Albania
+723,Female,25,Scarf,Accessories,77,Express,Engineer,No,Winter,Albania
+724,Male,32,Blouse,Clothing,50,Express,Entertainment,Yes,Winter,Albania
+725,Female,35,Sweater,Clothing,25,Express,Marketing,No,Winter,Albania
+726,Female,36,Jeans,Clothing,15,Express,Doctor,Yes,Winter,Albania
+727,Male,39,Sandals,Footwear,69,Express,Executive,No,Winter,Albania
+728,Male,38,Blouse,Clothing,85,Next Day Air,Engineer,Yes,Winter,Albania
+729,Male,37,Sneakers,Footwear,12,Next Day Air,Healthcare,No,Winter,Albania
+730,Male,34,Shirt,Clothing,100,Next Day Air,Artist,Yes,Winter,Albania
+731,Male,34,Shorts,Clothing,23,Next Day Air,Entertainment,No,Winter,Albania
+732,Male,32,Coat,Outerwear,14,Next Day Air,Healthcare,Yes,Winter,Albania
+733,Female,19,Handbag,Accessories,25,Next Day Air,Artist,No,Winter,Albania
+734,Female,18,Sunglasses,Accessories,41,Next Day Air,Entertainment,Yes,Winter,Albania
+735,Male,19,Scarf,Accessories,22,Next Day Air,Healthcare,No,Winter,Albania
+736,Female,18,Blouse,Clothing,63,Next Day Air,Executive,Yes,Winter,Albania
+737,Female,19,Sweater,Clothing,55,Next Day Air,Executive,No,Winter,Albania
+738,Male,18,Jeans,Clothing,98,Next Day Air,Healthcare,Yes,Winter,Albania
+739,Male,19,Sandals,Footwear,99,Next Day Air,Engineer,No,Winter,Albania
+740,Female,22,Blouse,Clothing,65,Next Day Air,Artist,Yes,Winter,Albania
+741,Female,25,Sneakers,Footwear,35,Next Day Air,Engineer,No,Winter,Albania
+742,Male,26,Shirt,Clothing,85,Next Day Air,Engineer,Yes,Winter,Albania
+743,Female,28,Shorts,Clothing,96,Next Day Air,Entertainment,No,Winter,Albania
+744,Female,28,Coat,Outerwear,74,Next Day Air,Engineer,Yes,Winter,Albania
+745,Male,27,Handbag,Accessories,52,Next Day Air,Healthcare,No,Winter,Albania
+746,Male,23,Sunglasses,Accessories,22,Next Day Air,Entertainment,Yes,Winter,Albania
+747,Male,30,Scarf,Accessories,21,Next Day Air,Artist,No,Winter,Albania
+748,Female,33,Blouse,Clothing,45,Next Day Air,Entertainment,Yes,Winter,Albania
+749,Female,31,Sweater,Clothing,77,Next Day Air,Artist,No,Fall,Albania
+750,Male,32,Jeans,Clothing,50,Next Day Air,Artist,Yes,Fall,Albania
+751,Male,32,Sandals,Footwear,25,Next Day Air,Healthcare,No,Fall,Albania
+752,Male,32,Blouse,Clothing,15,Next Day Air,Healthcare,Yes,Fall,Albania
+753,Female,32,Sneakers,Footwear,69,Next Day Air,Entertainment,No,Fall,Albania
+754,Female,32,Shirt,Clothing,85,Next Day Air,Lawyer,Yes,Fall,Albania
+755,Female,32,Shorts,Clothing,12,Next Day Air,Marketing,No,Fall,Albania
+756,Female,32,Coat,Outerwear,100,Next Day Air,Artist,Yes,Fall,Albania
+757,Male,32,Handbag,Accessories,23,Next Day Air,Engineer,No,Fall,Albania
+758,Female,32,Sunglasses,Accessories,14,Next Day Air,Engineer,Yes,Fall,Albania
+759,Male,32,Scarf,Accessories,25,Next Day Air,Artist,No,Fall,Albania
+760,Female,55,Blouse,Clothing,41,Next Day Air,Entertainment,Yes,Fall,Albania
+761,Female,33,Sweater,Clothing,22,Next Day Air,Healthcare,No,Fall,Albania
+762,Female,36,Jeans,Clothing,63,Next Day Air,Artist,Yes,Fall,Albania
+763,Male,39,Blouse,Clothing,55,Next Day Air,Lawyer,No,Fall,Albania
+764,Female,38,Sweater,Clothing,98,Next Day Air,Doctor,Yes,Fall,Albania
+765,Male,34,Jeans,Clothing,99,Next Day Air,Artist,No,Fall,Albania
+766,Female,35,Sandals,Footwear,65,Next Day Air,Engineer,Yes,Fall,Albania
+767,Male,36,Blouse,Clothing,35,Next Day Air,Entertainment,No,Fall,Albania
+768,Female,36,Sneakers,Footwear,85,Next Day Air,Marketing,Yes,Fall,Albania
+769,Female,36,Shirt,Clothing,96,Next Day Air,Engineer,No,Fall,Albania
+770,Male,38,Shorts,Clothing,74,Next Day Air,Healthcare,Yes,Fall,Albania
+771,Male,18,Coat,Outerwear,52,Next Day Air,Engineer,No,Fall,Albania
+772,Male,19,Handbag,Accessories,22,Next Day Air,Entertainment,Yes,Fall,Albania
+773,Male,19,Sunglasses,Accessories,21,Next Day Air,Artist,No,Fall,Albania
+774,Male,19,Scarf,Accessories,45,Next Day Air,Entertainment,Yes,Fall,Albania
+775,Female,19,Blouse,Clothing,77,Next Day Air,Artist,No,Fall,Albania
+776,Female,19,Sweater,Clothing,50,Next Day Air,Artist,Yes,Fall,Albania
+777,Male,18,Jeans,Clothing,25,Next Day Air,Entertainment,No,Fall,Albania
+778,Male,18,Sandals,Footwear,15,Next Day Air,Engineer,Yes,Fall,Albania
+779,Male,18,Blouse,Clothing,69,Next Day Air,Marketing,No,Fall,Albania
+780,Male,18,Sneakers,Footwear,85,Next Day Air,Entertainment,Yes,Fall,Albania
+781,Female,18,Shirt,Clothing,12,Next Day Air,Healthcare,No,Fall,Albania
+782,Female,18,Shorts,Clothing,100,Next Day Air,Artist,Yes,Fall,Albania
+783,Male,18,Coat,Outerwear,23,Next Day Air,Engineer,No,Fall,Albania
+784,Female,18,Handbag,Accessories,14,Next Day Air,Artist,Yes,Fall,Albania
+785,Female,19,Sunglasses,Accessories,25,Next Day Air,Homemaker,No,Fall,Albania
+786,Male,19,Scarf,Accessories,41,Next Day Air,Artist,Yes,Fall,Albania
+787,Female,19,Blouse,Clothing,22,Next Day Air,Entertainment,No,Fall,Albania
+788,Male,18,Sweater,Clothing,63,Next Day Air,Artist,Yes,Fall,Albania
+789,Female,20,Jeans,Clothing,55,Next Day Air,Homemaker,No,Fall,Albania
+790,Female,35,Sandals,Footwear,98,Next Day Air,Entertainment,Yes,Fall,Albania
+791,Female,45,Blouse,Clothing,99,Next Day Air,Lawyer,No,Fall,Albania
+792,Female,60,Sneakers,Footwear,65,Next Day Air,Artist,Yes,Fall,Albania
+793,Male,22,Shirt,Clothing,35,Next Day Air,Entertainment,No,Fall,Albania
+794,Female,24,Shorts,Clothing,85,Next Day Air,Healthcare,Yes,Fall,Albania
+795,Female,68,Coat,Outerwear,96,Next Day Air,Lawyer,No,Fall,Albania
+796,Female,53,Handbag,Accessories,74,Next Day Air,Doctor,Yes,Fall,Albania
+797,Female,74,Sunglasses,Accessories,52,Next Day Air,Entertainment,No,Fall,Albania
+798,Male,55,Scarf,Accessories,22,Next Day Air,Executive,Yes,Fall,Albania
+799,Male,51,Blouse,Clothing,21,Next Day Air,Artist,No,Fall,Albania
+800,Male,42,Sweater,Clothing,45,Next Day Air,Executive,Yes,Fall,Albania
+801,Female,43,Jeans,Clothing,77,Next Day Air,Artist,No,Fall,Albania
+802,Male,47,Sandals,Footwear,50,Next Day Air,,Yes,Fall,Albania
+803,Female,48,Blouse,Clothing,25,Next Day Air,Marketing,No,Fall,Albania
+804,Female,60,Sneakers,Footwear,15,Next Day Air,Artist,Yes,Fall,Albania
+805,Female,22,Shirt,Clothing,69,Next Day Air,Healthcare,No,Fall,Albania
+806,Female,21,Shorts,Clothing,85,Next Day Air,Healthcare,Yes,Fall,Albania
+807,Female,19,Coat,Outerwear,12,Next Day Air,Artist,No,Fall,Albania
+808,Male,23,Handbag,Accessories,100,Next Day Air,Entertainment,Yes,Fall,Albania
+809,Female,25,Sunglasses,Accessories,23,Next Day Air,Healthcare,No,Fall,Albania
+810,Female,25,Scarf,Accessories,14,Next Day Air,Executive,Yes,Fall,Albania
+811,Female,26,Blouse,Clothing,25,Next Day Air,Artist,No,Fall,Albania
+812,Female,28,Sweater,Clothing,41,Next Day Air,Executive,Yes,Fall,Albania
+813,Male,27,Jeans,Clothing,22,Next Day Air,Executive,No,Fall,Albania
+814,Male,29,Blouse,Clothing,63,Next Day Air,Entertainment,Yes,Fall,Albania
+815,Male,21,Sweater,Clothing,55,Next Day Air,Doctor,No,Fall,Albania
+816,Female,24,Jeans,Clothing,98,Next Day Air,Entertainment,Yes,Fall,Albania
+817,Male,25,Sandals,Footwear,99,Next Day Air,Homemaker,No,Fall,Albania
+818,Female,26,Blouse,Clothing,65,Next Day Air,,Yes,Fall,Albania
+819,Female,23,Sneakers,Footwear,35,Next Day Air,Doctor,No,Fall,Albania
+820,Female,25,Shirt,Clothing,85,Next Day Air,Healthcare,Yes,Fall,Albania
+821,Female,33,Shorts,Clothing,96,Next Day Air,Artist,No,Fall,Albania
+822,Female,33,Coat,Outerwear,74,Next Day Air,Marketing,Yes,Fall,Albania
+823,Male,36,Handbag,Accessories,52,Next Day Air,Entertainment,No,Spring,Albania
+824,Female,25,Sunglasses,Accessories,22,Next Day Air,Entertainment,Yes,Spring,Albania
+825,Female,36,Scarf,Accessories,21,Next Day Air,Healthcare,No,Spring,Albania
+826,Female,39,Blouse,Clothing,45,Next Day Air,Artist,Yes,Spring,Albania
+827,Female,38,Sweater,Clothing,77,Next Day Air,Homemaker,No,Spring,Albania
+828,Male,22,Jeans,Clothing,50,Next Day Air,Engineer,Yes,Spring,Albania
+829,Male,22,Sandals,Footwear,25,Next Day Air,Artist,No,Spring,Albania
+830,Male,22,Blouse,Clothing,15,Next Day Air,Artist,Yes,Spring,Albania
+831,Female,22,Sneakers,Footwear,69,Next Day Air,Executive,No,Spring,Albania
+832,Male,22,Shirt,Clothing,85,Next Day Air,Marketing,Yes,Spring,Albania
+833,Female,22,Shorts,Clothing,12,Next Day Air,Engineer,No,Spring,Albania
+834,Female,22,Coat,Outerwear,100,Next Day Air,Lawyer,Yes,Spring,Albania
+835,Female,22,Handbag,Accessories,23,Next Day Air,Executive,No,Spring,Albania
+836,Female,22,Sunglasses,Accessories,14,Next Day Air,Healthcare,Yes,Spring,Albania
+837,Male,22,Scarf,Accessories,25,Next Day Air,Healthcare,No,Spring,Albania
+838,Male,22,Blouse,Clothing,41,Free Shipping,Artist,Yes,Spring,Albania
+839,Male,22,Sweater,Clothing,22,Free Shipping,Doctor,No,Spring,Albania
+840,Female,22,Jeans,Clothing,63,Free Shipping,Healthcare,Yes,Spring,Albania
+841,Male,22,Sandals,Footwear,55,Free Shipping,Healthcare,No,Spring,Albania
+842,Female,22,Blouse,Clothing,98,Free Shipping,Healthcare,Yes,Spring,Albania
+843,Female,22,Sneakers,Footwear,99,Free Shipping,Doctor,No,Spring,Albania
+844,Female,22,Shirt,Clothing,65,Free Shipping,Artist,Yes,Spring,Albania
+845,Female,22,Shorts,Clothing,35,Free Shipping,Healthcare,No,Spring,Albania
+846,Female,22,Coat,Outerwear,85,Free Shipping,Healthcare,Yes,Spring,Albania
+847,Male,22,Handbag,Accessories,96,Free Shipping,Entertainment,No,Spring,Albania
+848,Female,22,Sunglasses,Accessories,74,Free Shipping,Lawyer,Yes,Spring,Albania
+849,Female,22,Scarf,Accessories,52,Free Shipping,Healthcare,No,Spring,Albania
+850,Female,22,Blouse,Clothing,22,Free Shipping,Healthcare,Yes,Spring,Albania
+851,Male,22,Sweater,Clothing,21,Free Shipping,,No,Spring,Albania
+852,Female,22,Jeans,Clothing,45,Free Shipping,Healthcare,Yes,Spring,Albania
+853,Female,22,Sandals,Footwear,77,Free Shipping,Lawyer,No,Spring,Albania
+854,Female,22,Blouse,Clothing,50,Free Shipping,Executive,Yes,Spring,Albania
+855,Female,22,Sneakers,Footwear,25,Free Shipping,Artist,No,Spring,Albania
+856,Male,22,Shirt,Clothing,15,Free Shipping,Lawyer,Yes,Spring,Albania
+857,Male,22,Shorts,Clothing,69,Free Shipping,Engineer,No,Spring,Albania
+858,Male,22,Coat,Outerwear,85,Free Shipping,Marketing,Yes,Spring,Albania
+859,Female,22,Handbag,Accessories,12,Free Shipping,Healthcare,No,Spring,Albania
+860,Male,22,Sunglasses,Accessories,100,Free Shipping,Healthcare,Yes,Spring,Albania
+861,Female,22,Scarf,Accessories,23,Free Shipping,Lawyer,No,Spring,Albania
+862,Female,22,Blouse,Clothing,14,Free Shipping,Marketing,Yes,Spring,Albania
+863,Female,22,Sweater,Clothing,25,Free Shipping,Artist,No,Spring,Albania
+864,Female,22,Jeans,Clothing,41,Free Shipping,Engineer,Yes,Spring,Albania
+865,Female,22,Blouse,Clothing,22,Free Shipping,Marketing,No,Spring,Albania
+866,Male,22,Sweater,Clothing,63,Free Shipping,Artist,Yes,Spring,Albania
+867,Female,22,Jeans,Clothing,55,Free Shipping,Doctor,No,Spring,Albania
+868,Female,22,Sandals,Footwear,98,Free Shipping,Marketing,Yes,Spring,Albania
+869,Female,22,Blouse,Clothing,99,Free Shipping,Healthcare,No,Spring,Albania
+870,Female,22,Sneakers,Footwear,65,Free Shipping,Entertainment,Yes,Spring,Albania
+871,Male,22,Shirt,Clothing,35,Free Shipping,Engineer,No,Spring,Albania
+872,Female,22,Shorts,Clothing,85,Free Shipping,Artist,Yes,Spring,Albania
+873,Female,22,Coat,Outerwear,96,Free Shipping,Homemaker,No,Spring,Albania
+874,Female,22,Handbag,Accessories,74,Free Shipping,Healthcare,Yes,Spring,Albania
+875,Female,22,Sunglasses,Accessories,52,Free Shipping,Artist,No,Spring,Albania
+876,Male,22,Scarf,Accessories,22,Free Shipping,Entertainment,Yes,Spring,Albania
+877,Male,22,Blouse,Clothing,21,Free Shipping,Artist,No,Spring,Albania
+878,Male,22,Sweater,Clothing,45,Free Shipping,Artist,Yes,Spring,Albania
+879,Female,22,Jeans,Clothing,77,Free Shipping,Healthcare,No,Spring,Albania
+880,Male,22,Sandals,Footwear,50,Free Shipping,Executive,Yes,Spring,Albania
+881,Female,22,Blouse,Clothing,25,Free Shipping,Artist,No,Spring,Albania
+882,Female,22,Sneakers,Footwear,15,Free Shipping,Artist,Yes,Spring,Albania
+883,Female,22,Shirt,Clothing,69,Free Shipping,Doctor,No,Spring,Albania
+884,Female,22,Shorts,Clothing,85,Free Shipping,Healthcare,Yes,Spring,Albania
+885,Female,22,Coat,Outerwear,12,Free Shipping,Executive,No,Spring,Albania
+886,Male,22,Handbag,Accessories,100,Free Shipping,Artist,Yes,Spring,Albania
+887,Female,22,Sunglasses,Accessories,23,Free Shipping,Artist,No,Spring,Albania
+888,Female,22,Scarf,Accessories,14,Free Shipping,Executive,Yes,Spring,Albania
+889,Female,22,Blouse,Clothing,25,Free Shipping,Engineer,No,Spring,Albania
+890,Female,22,Sweater,Clothing,41,Free Shipping,Marketing,Yes,Spring,Albania
+891,Male,22,Jeans,Clothing,22,Free Shipping,Artist,No,Spring,Albania
+892,Female,22,Sandals,Footwear,63,Free Shipping,Engineer,Yes,Spring,Albania
+893,Male,22,Blouse,Clothing,55,Free Shipping,Entertainment,Yes,Spring,Albania
+894,Female,22,Sneakers,Footwear,98,Free Shipping,Artist,Yes,Spring,Albania
+895,Female,22,Shirt,Clothing,99,Free Shipping,Doctor,Yes,Spring,Albania
+896,Female,22,Shorts,Clothing,65,Free Shipping,Artist,Yes,Spring,Albania
+897,Female,22,Coat,Outerwear,35,Free Shipping,Marketing,Yes,Spring,Albania
+898,Male,22,Handbag,Accessories,85,Free Shipping,Lawyer,Yes,Spring,Albania
+899,Male,22,Sunglasses,Accessories,96,Free Shipping,Lawyer,Yes,Spring,Albania
+900,Male,22,Scarf,Accessories,74,Free Shipping,Healthcare,Yes,Spring,Albania
+901,Male,22,Blouse,Clothing,52,Free Shipping,Lawyer,Yes,Spring,Albania
+902,Male,22,Sweater,Clothing,22,Free Shipping,Doctor,Yes,Spring,Albania
+903,Female,22,Jeans,Clothing,21,Free Shipping,Artist,Yes,Spring,Albania
+904,Female,22,Sandals,Footwear,45,Free Shipping,,Yes,Spring,Albania
+905,Female,22,Blouse,Clothing,77,Free Shipping,Healthcare,Yes,Spring,Albania
+906,Female,22,Sneakers,Footwear,50,Free Shipping,Healthcare,Yes,Spring,Albania
+907,Female,22,Shirt,Clothing,25,Free Shipping,Artist,Yes,Spring,Albania
+908,Female,22,Shorts,Clothing,15,Free Shipping,Artist,Yes,Spring,Albania
+909,Male,22,Coat,Outerwear,69,Free Shipping,Marketing,Yes,Spring,Albania
+910,Female,22,Handbag,Accessories,85,Free Shipping,Homemaker,Yes,Spring,Albania
+911,Male,22,Sunglasses,Accessories,12,Free Shipping,Artist,Yes,Spring,Albania
+912,Female,22,Scarf,Accessories,100,Free Shipping,Homemaker,Yes,Spring,Albania
+913,Female,22,Blouse,Clothing,23,Free Shipping,Engineer,Yes,Spring,Albania
+914,Female,22,Sweater,Clothing,14,Free Shipping,Artist,Yes,Spring,Albania
+915,Male,22,Jeans,Clothing,25,Free Shipping,Healthcare,Yes,Spring,Albania
+916,Male,22,Blouse,Clothing,41,Free Shipping,Engineer,Yes,Spring,Albania
+917,Female,22,Sweater,Clothing,22,Free Shipping,Artist,Yes,Spring,Albania
+918,Male,22,Jeans,Clothing,63,Free Shipping,Artist,Yes,Spring,Albania
+919,Male,22,Sandals,Footwear,55,Free Shipping,Artist,Yes,Spring,Albania
+920,Female,22,Blouse,Clothing,98,Free Shipping,Engineer,Yes,Spring,Albania
+921,Male,22,Sneakers,Footwear,99,Free Shipping,Lawyer,Yes,Spring,Albania
+922,Male,22,Shirt,Clothing,65,Free Shipping,Artist,Yes,Spring,Albania
+923,Female,22,Shorts,Clothing,35,Free Shipping,Artist,Yes,Spring,Albania
+924,Male,22,Coat,Outerwear,85,Free Shipping,Artist,Yes,Spring,Albania
+925,Female,22,Handbag,Accessories,96,Free Shipping,Artist,Yes,Spring,Albania
+926,Male,22,Sunglasses,Accessories,74,Free Shipping,Healthcare,Yes,Spring,Albania
+927,Female,22,Scarf,Accessories,52,Free Shipping,Healthcare,Yes,Spring,Albania
+928,Male,22,Blouse,Clothing,22,Express,,Yes,Spring,Albania
+929,Female,22,Sweater,Clothing,21,Express,Entertainment,Yes,Spring,Albania
+930,Female,22,Jeans,Clothing,45,Express,Executive,Yes,Spring,Albania
+931,Male,22,Sandals,Footwear,77,Express,Entertainment,Yes,Spring,Albania
+932,Female,22,Blouse,Clothing,50,Express,Artist,Yes,Spring,Albania
+933,Male,22,Sneakers,Footwear,25,Express,Engineer,Yes,Spring,Albania
+934,Male,22,Shirt,Clothing,15,Express,Healthcare,Yes,Spring,Albania
+935,Female,22,Shorts,Clothing,69,Express,Artist,Yes,Spring,Albania
+936,Female,22,Coat,Outerwear,85,Express,Artist,Yes,Spring,Albania
+937,Female,22,Handbag,Accessories,12,Express,Healthcare,Yes,Spring,Albania
+938,Female,22,Sunglasses,Accessories,100,Express,Entertainment,Yes,Spring,Albania
+939,Female,22,Scarf,Accessories,23,Express,Artist,Yes,Spring,Albania
+940,Female,22,Blouse,Clothing,14,Express,Entertainment,Yes,Spring,Albania
+941,Female,22,Sweater,Clothing,25,Express,Healthcare,Yes,Spring,Albania
+942,Male,22,Jeans,Clothing,41,Express,Artist,Yes,Spring,Albania
+943,Male,22,Sandals,Footwear,22,Express,Artist,Yes,Spring,Albania
+944,Female,22,Blouse,Clothing,63,Express,Lawyer,Yes,Spring,Albania
+945,Female,22,Sneakers,Footwear,55,Express,Lawyer,Yes,Spring,Albania
+946,Female,22,Shirt,Clothing,98,Express,Artist,Yes,Spring,Albania
+947,Female,22,Shorts,Clothing,99,Express,Marketing,Yes,Spring,Albania
+948,Female,22,Coat,Outerwear,65,Express,Artist,Yes,Spring,Albania
+949,Female,22,Handbag,Accessories,35,Express,Artist,Yes,Spring,Albania
+950,Female,22,Sunglasses,Accessories,85,Express,Healthcare,Yes,Spring,Albania
+951,Female,22,Scarf,Accessories,96,Express,Entertainment,Yes,Spring,Albania
+952,Male,22,Blouse,Clothing,74,Express,Entertainment,Yes,Spring,Albania
+953,Female,22,Sweater,Clothing,52,Express,Artist,Yes,Spring,Albania
+954,Male,22,Jeans,Clothing,22,Express,Doctor,Yes,Spring,Albania
+955,Female,22,Sandals,Footwear,21,Express,Artist,Yes,Spring,Albania
+956,Male,22,Blouse,Clothing,45,Express,Entertainment,Yes,Spring,Albania
+957,Female,22,Sneakers,Footwear,77,Express,Healthcare,Yes,Spring,Albania
+958,Male,22,Shirt,Clothing,50,Express,Healthcare,Yes,Spring,Albania
+959,Female,22,Shorts,Clothing,25,Express,Entertainment,Yes,Spring,Albania
+960,Male,22,Coat,Outerwear,15,Express,Engineer,Yes,Spring,Albania
+961,Male,22,Handbag,Accessories,69,Next Day Air,Artist,Yes,Spring,Albania
+962,Male,22,Sunglasses,Accessories,85,Next Day Air,Lawyer,Yes,Spring,Albania
+963,Female,22,Scarf,Accessories,12,Next Day Air,Artist,Yes,Spring,Albania
+964,Female,22,Blouse,Clothing,100,Next Day Air,Homemaker,Yes,Spring,Albania
+965,Male,22,Sweater,Clothing,23,Next Day Air,Healthcare,Yes,Spring,Albania
+966,Male,22,Jeans,Clothing,14,Next Day Air,Engineer,Yes,Spring,Albania
+967,Female,22,Jeans,Clothing,25,Next Day Air,Homemaker,Yes,Spring,Albania
+968,Female,22,Jeans,Clothing,41,Next Day Air,Doctor,Yes,Spring,Albania
+969,Male,22,Jeans,Clothing,22,Next Day Air,Healthcare,Yes,Spring,Albania
+970,Female,22,Jeans,Clothing,63,Next Day Air,Engineer,Yes,Spring,Albania
+971,Male,22,Jeans,Clothing,55,Next Day Air,Artist,Yes,Spring,Albania
+972,Female,22,Jeans,Clothing,98,Next Day Air,Artist,Yes,Spring,Albania
+973,Female,22,Jeans,Clothing,99,Next Day Air,Entertainment,Yes,Spring,Albania
+974,Female,22,Jeans,Clothing,65,Next Day Air,Marketing,Yes,Spring,Albania
+975,Male,22,Jeans,Clothing,35,Next Day Air,Engineer,Yes,Spring,Albania
+976,Male,22,Jeans,Clothing,85,Next Day Air,Entertainment,Yes,Spring,Albania
+977,Female,22,Jeans,Clothing,96,Next Day Air,Artist,Yes,Spring,Albania
+978,Male,22,Jeans,Clothing,74,Next Day Air,Doctor,Yes,Spring,Albania
+979,Female,22,Jeans,Clothing,52,Next Day Air,Artist,Yes,Spring,Albania
+980,Female,22,Jeans,Clothing,22,Next Day Air,Engineer,Yes,Spring,Albania
+981,Male,22,Jeans,Clothing,21,Next Day Air,Lawyer,Yes,Spring,Albania
+982,Male,22,Jeans,Clothing,45,Next Day Air,Healthcare,Yes,Spring,Albania
+983,Male,22,Jeans,Clothing,77,Next Day Air,Executive,Yes,Spring,Albania
+984,Female,22,Jeans,Clothing,50,Next Day Air,Homemaker,Yes,Spring,Albania
+985,Female,22,Jeans,Clothing,25,Next Day Air,Healthcare,Yes,Spring,Albania
+986,Male,22,Jeans,Clothing,15,Next Day Air,Artist,Yes,Spring,Albania
+987,Female,22,Jeans,Clothing,69,Next Day Air,Entertainment,Yes,Spring,Albania
+988,Female,22,Jeans,Clothing,85,Next Day Air,Entertainment,Yes,Spring,Albania
+989,Female,22,Jeans,Clothing,12,Next Day Air,Executive,Yes,Spring,Albania
+990,Female,22,Jeans,Clothing,100,Next Day Air,Artist,Yes,Spring,Albania
+991,Female,22,Jeans,Clothing,23,Next Day Air,Executive,Yes,Spring,Albania
+992,Male,22,Jeans,Clothing,14,Next Day Air,Artist,Yes,Spring,Albania
+993,Male,22,Jeans,Clothing,25,Next Day Air,Doctor,Yes,Spring,Albania
+994,Female,22,Jeans,Clothing,41,Next Day Air,Artist,Yes,Spring,Albania
+995,Female,22,Jeans,Clothing,22,Next Day Air,Engineer,Yes,Spring,Albania
+996,Male,22,Jeans,Clothing,63,Next Day Air,Healthcare,Yes,Spring,Albania
+997,Female,22,Jeans,Clothing,55,Next Day Air,Artist,Yes,Spring,Albania
+998,Female,22,Jeans,Clothing,98,Next Day Air,Entertainment,Yes,Spring,Albania
+999,Male,22,Jeans,Clothing,99,Next Day Air,Artist,Yes,Spring,Albania
+1000,Male,22,Jeans,Clothing,65,Next Day Air,Entertainment,Yes,Spring,Albania
+1001,Female,22,Jeans,Clothing,35,Next Day Air,Entertainment,Yes,Spring,Albania
+1002,Female,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Albania
+1003,Male,22,Jeans,Clothing,96,Next Day Air,Healthcare,Yes,Spring,Albania
+1004,Male,22,Jeans,Clothing,74,Next Day Air,Lawyer,Yes,Spring,Albania
+1005,Male,22,Jeans,Clothing,52,Next Day Air,Healthcare,Yes,Spring,Albania
+1006,Female,22,Jeans,Clothing,22,Next Day Air,Artist,Yes,Spring,Albania
+1007,Female,22,Jeans,Clothing,21,Next Day Air,Lawyer,Yes,Spring,Albania
+1008,Male,22,Jeans,Clothing,45,Next Day Air,Artist,Yes,Spring,Albania
+1009,Male,22,Jeans,Clothing,77,Next Day Air,Healthcare,Yes,Spring,Albania
+1010,Male,22,Jeans,Clothing,50,Next Day Air,,Yes,Spring,Albania
+1011,Male,22,Jeans,Clothing,25,Next Day Air,Entertainment,Yes,Spring,Albania
+1012,Female,22,Jeans,Clothing,15,Next Day Air,Executive,Yes,Spring,Albania
+1013,Female,22,Jeans,Clothing,69,Next Day Air,Artist,Yes,Spring,Albania
+1014,Male,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Albania
+1015,Female,22,Jeans,Clothing,12,Next Day Air,Executive,Yes,Spring,Albania
+1016,Female,22,Jeans,Clothing,100,Next Day Air,Entertainment,Yes,Spring,Albania
+1017,Female,22,Jeans,Clothing,23,Next Day Air,Entertainment,Yes,Spring,Albania
+1018,Female,22,Jeans,Clothing,14,Next Day Air,Artist,Yes,Spring,Albania
+1019,Female,22,Jeans,Clothing,25,Next Day Air,Lawyer,Yes,Spring,Albania
+1020,Female,22,Jeans,Clothing,41,Next Day Air,Executive,Yes,Spring,Albania
+1021,Male,22,Jeans,Clothing,22,Next Day Air,Healthcare,Yes,Spring,Albania
+1022,Female,22,Jeans,Clothing,63,Next Day Air,Artist,Yes,Spring,Albania
+1023,Female,22,Jeans,Clothing,55,Next Day Air,Healthcare,Yes,Spring,Albania
+1024,Male,22,Jeans,Clothing,98,Next Day Air,Healthcare,Yes,Spring,Albania
+1025,Female,22,Jeans,Clothing,99,Next Day Air,Marketing,Yes,Spring,Albania
+1026,Female,22,Jeans,Clothing,65,Next Day Air,Artist,Yes,Spring,Albania
+1027,Male,22,Jeans,Clothing,35,Next Day Air,Entertainment,Yes,Spring,Albania
+1028,Male,22,Jeans,Clothing,85,Next Day Air,Engineer,Yes,Spring,Albania
+1029,Male,22,Jeans,Clothing,96,Next Day Air,Artist,Yes,Spring,Albania
+1030,Male,22,Jeans,Clothing,74,Next Day Air,Doctor,Yes,Spring,Albania
+1031,Male,22,Jeans,Clothing,52,Next Day Air,Artist,Yes,Spring,Albania
+1032,Male,22,Jeans,Clothing,22,Next Day Air,Artist,Yes,Spring,Albania
+1033,Female,22,Jeans,Clothing,21,Next Day Air,Executive,Yes,Spring,Albania
+1034,Female,22,Jeans,Clothing,45,Next Day Air,Doctor,Yes,Spring,Albania
+1035,Male,22,Jeans,Clothing,77,Next Day Air,Healthcare,Yes,Spring,Albania
+1036,Female,22,Jeans,Clothing,50,Next Day Air,Healthcare,Yes,Spring,Albania
+1037,Female,22,Jeans,Clothing,25,Next Day Air,Marketing,Yes,Spring,Albania
+1038,Male,22,Jeans,Clothing,15,Next Day Air,Engineer,Yes,Spring,Albania
+1039,Male,23,Jeans,Clothing,69,Next Day Air,Entertainment,Yes,Spring,Albania
+1040,Female,25,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Albania
+1041,Female,46,Jeans,Clothing,12,Next Day Air,Entertainment,Yes,Spring,Albania
+1042,Male,28,Jeans,Clothing,100,Next Day Air,Artist,Yes,Spring,Albania
+1043,Female,24,Jeans,Clothing,23,Next Day Air,Artist,Yes,Spring,Albania
+1044,Female,27,Jeans,Clothing,14,Next Day Air,Artist,Yes,Spring,Albania
+1045,Male,22,Jeans,Clothing,25,Next Day Air,Healthcare,Yes,Spring,Albania
+1046,Male,22,Jeans,Clothing,41,Next Day Air,Entertainment,Yes,Spring,Albania
+1047,Male,22,Jeans,Clothing,22,Next Day Air,Engineer,Yes,Spring,Albania
+1048,Female,22,Jeans,Clothing,63,Next Day Air,Doctor,Yes,Spring,Albania
+1049,Female,22,Jeans,Clothing,55,Next Day Air,Artist,Yes,Spring,Albania
+1050,Male,22,Jeans,Clothing,98,Next Day Air,Entertainment,Yes,Spring,Albania
+1051,Male,22,Jeans,Clothing,99,Next Day Air,Entertainment,Yes,Spring,Albania
+1052,Male,22,Jeans,Clothing,65,Next Day Air,Doctor,Yes,Spring,Albania
+1053,Female,22,Jeans,Clothing,35,Next Day Air,Entertainment,Yes,Spring,Albania
+1054,Female,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Albania
+1055,Female,22,Jeans,Clothing,96,Next Day Air,Artist,Yes,Spring,Albania
+1056,Female,22,Jeans,Clothing,74,Next Day Air,Artist,Yes,Spring,Albania
+1057,Male,22,Jeans,Clothing,52,Next Day Air,Healthcare,Yes,Spring,Albania
+1058,Female,22,Jeans,Clothing,22,Next Day Air,Homemaker,Yes,Spring,Albania
+1059,Male,22,Jeans,Clothing,21,Next Day Air,Doctor,Yes,Spring,Albania
+1060,Female,22,Jeans,Clothing,45,Next Day Air,Artist,Yes,Spring,Albania
+1061,Female,22,Jeans,Clothing,77,Next Day Air,Healthcare,Yes,Spring,Albania
+1062,Female,22,Jeans,Clothing,50,Next Day Air,Executive,Yes,Spring,Albania
+1063,Male,22,Jeans,Clothing,25,Next Day Air,Artist,Yes,Spring,Albania
+1064,Female,22,Jeans,Clothing,15,Next Day Air,Doctor,Yes,Spring,Albania
+1065,Male,22,Jeans,Clothing,69,Next Day Air,Marketing,Yes,Spring,Albania
+1066,Female,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Albania
+1067,Male,33,Jeans,Clothing,12,Next Day Air,Doctor,Yes,Spring,Albania
+1068,Female,33,Jeans,Clothing,100,Next Day Air,,Yes,Spring,Albania
+1069,Female,33,Jeans,Clothing,23,Next Day Air,Artist,Yes,Spring,Albania
+1070,Male,33,Jeans,Clothing,14,Next Day Air,Artist,Yes,Spring,Albania
+1071,Male,33,Jeans,Clothing,25,Free Shipping,Entertainment,Yes,Spring,Albania
+1072,Male,33,Jeans,Clothing,41,Free Shipping,Artist,Yes,Spring,Albania
+1073,Male,33,Jeans,Clothing,22,Free Shipping,Healthcare,Yes,Spring,Albania
+1074,Male,33,Jeans,Clothing,63,Free Shipping,Entertainment,Yes,Spring,Albania
+1075,Female,33,Jeans,Clothing,55,Free Shipping,Doctor,Yes,Spring,Albania
+1076,Female,33,Jeans,Clothing,98,Free Shipping,Entertainment,Yes,Spring,Albania
+1077,Male,33,Jeans,Clothing,99,Free Shipping,Entertainment,Yes,Spring,Albania
+1078,Male,33,Jeans,Clothing,65,Free Shipping,Entertainment,Yes,Spring,Albania
+1079,Male,33,Jeans,Clothing,35,Free Shipping,Engineer,Yes,Spring,Albania
+1080,Male,33,Jeans,Clothing,85,Free Shipping,Engineer,Yes,Spring,Albania
+1081,Female,33,Jeans,Clothing,96,Free Shipping,Engineer,Yes,Spring,Albania
+1082,Female,33,Jeans,Clothing,74,Free Shipping,Artist,Yes,Spring,Albania
+1083,Male,33,Jeans,Clothing,52,Free Shipping,Entertainment,Yes,Spring,Albania
+1084,Female,33,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Albania
+1085,Female,33,Jeans,Clothing,21,Free Shipping,Lawyer,Yes,Spring,Albania
+1086,Male,33,Jeans,Clothing,45,Free Shipping,Healthcare,Yes,Spring,Albania
+1087,Female,33,Jeans,Clothing,77,Free Shipping,Engineer,Yes,Spring,Albania
+1088,Male,60,Jeans,Clothing,50,Free Shipping,Engineer,Yes,Spring,Albania
+1089,Female,60,Jeans,Clothing,25,Free Shipping,,Yes,Spring,Albania
+1090,Female,60,Jeans,Clothing,15,Free Shipping,Artist,Yes,Spring,Albania
+1091,Female,60,Jeans,Clothing,69,Free Shipping,Executive,Yes,Spring,Albania
+1092,Female,60,Jeans,Clothing,85,Free Shipping,Artist,Yes,Spring,Albania
+1093,Male,60,Jeans,Clothing,12,Free Shipping,,Yes,Spring,Albania
+1094,Female,60,Jeans,Clothing,100,Free Shipping,Artist,Yes,Spring,Albania
+1095,Female,60,Jeans,Clothing,23,Free Shipping,Healthcare,Yes,Spring,Albania
+1096,Female,60,Jeans,Clothing,14,Free Shipping,Healthcare,Yes,Spring,Albania
+1097,Female,60,Jeans,Clothing,25,Free Shipping,Healthcare,Yes,Spring,Albania
+1098,Male,60,Jeans,Clothing,41,Free Shipping,Doctor,Yes,Spring,Albania
+1099,Male,60,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Albania
+1100,Male,60,Jeans,Clothing,63,Free Shipping,Artist,Yes,Spring,Albania
+1101,Female,60,Jeans,Clothing,55,Free Shipping,Entertainment,Yes,Spring,Albania
+1102,Male,55,Jeans,Clothing,98,Free Shipping,Entertainment,Yes,Spring,Albania
+1103,Female,55,Jeans,Clothing,99,Free Shipping,Engineer,Yes,Spring,Albania
+1104,Female,55,Jeans,Clothing,65,Free Shipping,Entertainment,Yes,Spring,Albania
+1105,Female,55,Jeans,Clothing,35,Free Shipping,Entertainment,Yes,Spring,Albania
+1106,Female,55,Jeans,Clothing,85,Free Shipping,Artist,Yes,Spring,Albania
+1107,Female,55,Jeans,Clothing,96,Free Shipping,Executive,Yes,Spring,Albania
+1108,Male,55,Jeans,Clothing,74,Free Shipping,Engineer,Yes,Spring,United states
+1109,Female,55,Jeans,Clothing,52,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1110,Female,55,Jeans,Clothing,22,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1111,Female,55,Jeans,Clothing,21,Free Shipping,Engineer,Yes,Spring,Afghanistan
+1112,Female,55,Jeans,Clothing,45,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1113,Male,55,Jeans,Clothing,77,Free Shipping,Artist,Yes,Spring,Afghanistan
+1114,Male,55,Jeans,Clothing,50,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1115,Male,55,Jeans,Clothing,25,Free Shipping,Engineer,Yes,Spring,Afghanistan
+1116,Female,55,Jeans,Clothing,15,Free Shipping,Artist,Yes,Spring,Afghanistan
+1117,Male,55,Jeans,Clothing,69,Free Shipping,Executive,Yes,Spring,Afghanistan
+1118,Female,55,Jeans,Clothing,85,Free Shipping,Engineer,Yes,Spring,Afghanistan
+1119,Female,55,Jeans,Clothing,12,Free Shipping,Executive,Yes,Spring,Afghanistan
+1120,Female,18,Jeans,Clothing,100,Free Shipping,Executive,Yes,Spring,Afghanistan
+1121,Female,20,Jeans,Clothing,23,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1122,Female,35,Jeans,Clothing,14,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1123,Male,45,Jeans,Clothing,25,Free Shipping,Artist,Yes,Spring,Afghanistan
+1124,Female,60,Jeans,Clothing,41,Free Shipping,Artist,Yes,Spring,Afghanistan
+1125,Female,22,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Afghanistan
+1126,Female,24,Jeans,Clothing,63,Free Shipping,Marketing,Yes,Spring,Afghanistan
+1127,Female,68,Jeans,Clothing,55,Free Shipping,Artist,Yes,Spring,Afghanistan
+1128,Male,53,Jeans,Clothing,98,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1129,Male,74,Jeans,Clothing,99,Free Shipping,Artist,Yes,Spring,Afghanistan
+1130,Male,55,Jeans,Clothing,65,Free Shipping,Artist,Yes,Spring,Afghanistan
+1131,Female,51,Jeans,Clothing,35,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1132,Male,42,Jeans,Clothing,85,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1133,Female,43,Jeans,Clothing,96,Free Shipping,Artist,Yes,Spring,Afghanistan
+1134,Female,47,Jeans,Clothing,74,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1135,Female,48,Jeans,Clothing,52,Free Shipping,Artist,Yes,Spring,Afghanistan
+1136,Female,60,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Afghanistan
+1137,Male,22,Jeans,Clothing,21,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1138,Male,21,Jeans,Clothing,45,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1139,Male,19,Jeans,Clothing,77,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1140,Female,23,Jeans,Clothing,50,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1141,Male,25,Jeans,Clothing,25,Free Shipping,Marketing,Yes,Spring,Afghanistan
+1142,Female,25,Jeans,Clothing,15,Free Shipping,Artist,Yes,Spring,Afghanistan
+1143,Female,26,Jeans,Clothing,69,Free Shipping,Executive,Yes,Spring,Afghanistan
+1144,Female,28,Jeans,Clothing,85,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1145,Female,27,Jeans,Clothing,12,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1146,Female,29,Jeans,Clothing,100,Free Shipping,Marketing,Yes,Spring,Afghanistan
+1147,Male,21,Jeans,Clothing,23,Free Shipping,Artist,Yes,Spring,Afghanistan
+1148,Female,24,Jeans,Clothing,14,Free Shipping,Homemaker,Yes,Spring,Afghanistan
+1149,Female,25,Jeans,Clothing,25,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1150,Female,26,Jeans,Clothing,41,Free Shipping,Marketing,Yes,Spring,Afghanistan
+1151,Male,23,Jeans,Clothing,22,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1152,Female,25,Jeans,Clothing,63,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1153,Female,33,Jeans,Clothing,55,Free Shipping,Executive,Yes,Spring,Afghanistan
+1154,Female,33,Jeans,Clothing,98,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1155,Female,36,Jeans,Clothing,99,Free Shipping,Artist,Yes,Spring,Afghanistan
+1156,Male,25,Jeans,Clothing,65,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1157,Male,36,Jeans,Clothing,35,Free Shipping,Engineer,Yes,Spring,Afghanistan
+1158,Male,39,Jeans,Clothing,85,Free Shipping,Doctor,Yes,Spring,Afghanistan
+1159,Female,38,Jeans,Clothing,96,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1160,Male,22,Jeans,Clothing,74,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1161,Female,22,Jeans,Clothing,52,Express,Doctor,Yes,Spring,Afghanistan
+1162,Female,22,Jeans,Clothing,22,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1163,Female,22,Jeans,Clothing,21,Next Day Air,Artist,Yes,Spring,Afghanistan
+1164,Female,22,Jeans,Clothing,45,Express,Healthcare,Yes,Spring,Afghanistan
+1165,Female,22,Jeans,Clothing,77,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1166,Male,22,Jeans,Clothing,50,Next Day Air,Artist,Yes,Spring,Afghanistan
+1167,Female,22,Jeans,Clothing,25,Express,Artist,Yes,Spring,Afghanistan
+1168,Female,22,Jeans,Clothing,15,Free Shipping,Artist,Yes,Spring,Afghanistan
+1169,Female,22,Jeans,Clothing,69,Next Day Air,Artist,Yes,Spring,Afghanistan
+1170,Female,22,Jeans,Clothing,85,Express,Engineer,Yes,Spring,Afghanistan
+1171,Male,22,Jeans,Clothing,12,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1172,Female,22,Jeans,Clothing,100,Next Day Air,Lawyer,Yes,Spring,Afghanistan
+1173,Female,22,Jeans,Clothing,23,Express,Executive,Yes,Spring,Afghanistan
+1174,Female,22,Jeans,Clothing,14,Free Shipping,Artist,Yes,Spring,Afghanistan
+1175,Female,22,Jeans,Clothing,25,Next Day Air,Artist,Yes,Spring,Afghanistan
+1176,Male,22,Jeans,Clothing,41,Express,Executive,Yes,Spring,Afghanistan
+1177,Male,22,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Afghanistan
+1178,Male,22,Jeans,Clothing,63,Next Day Air,Engineer,Yes,Spring,Afghanistan
+1179,Female,22,Jeans,Clothing,55,Express,Artist,Yes,Spring,Afghanistan
+1180,Male,22,Jeans,Clothing,98,Free Shipping,Lawyer,Yes,Spring,Afghanistan
+1181,Female,22,Jeans,Clothing,99,Next Day Air,Artist,Yes,Spring,Afghanistan
+1182,Female,22,Jeans,Clothing,65,Express,Executive,Yes,Spring,Afghanistan
+1183,Female,22,Jeans,Clothing,35,Free Shipping,Entertainment,Yes,Spring,Afghanistan
+1184,Female,22,Jeans,Clothing,85,Next Day Air,Healthcare,Yes,Spring,Afghanistan
+1185,Female,22,Jeans,Clothing,96,Express,Doctor,Yes,Spring,Afghanistan
+1186,Male,22,Jeans,Clothing,74,Free Shipping,Healthcare,Yes,Spring,Afghanistan
+1187,Female,22,Jeans,Clothing,52,Next Day Air,Artist,Yes,Spring,Afghanistan
+1188,Female,22,Jeans,Clothing,22,Express,Entertainment,Yes,Spring,Afghanistan
+1189,Female,22,Jeans,Clothing,21,Free Shipping,,Yes,Spring,Afghanistan
+1190,Female,22,Jeans,Clothing,45,Next Day Air,Entertainment,Yes,Spring,Afghanistan
+1191,Male,22,Jeans,Clothing,77,Express,Artist,Yes,Spring,Afghanistan
+1192,Female,22,Jeans,Clothing,50,Free Shipping,Artist,Yes,Spring,Afghanistan
+1193,Male,22,Jeans,Clothing,25,Next Day Air,Artist,Yes,Spring,Afghanistan
+1194,Female,22,Jeans,Clothing,15,Express,Executive,Yes,Spring,Afghanistan
+1195,Female,22,Jeans,Clothing,69,Free Shipping,Doctor,Yes,Spring,Afghanistan
+1196,Female,22,Jeans,Clothing,85,Next Day Air,Doctor,Yes,Spring,Australia
+1197,Female,22,Jeans,Clothing,12,Express,Entertainment,Yes,Spring,Australia
+1198,Male,22,Jeans,Clothing,100,Free Shipping,Artist,Yes,Spring,Australia
+1199,Male,22,Jeans,Clothing,23,Next Day Air,Artist,Yes,Spring,Australia
+1200,Male,22,Jeans,Clothing,14,Express,Executive,Yes,Spring,Australia
+1201,Male,22,Jeans,Clothing,25,Free Shipping,Artist,Yes,Spring,Australia
+1202,Male,22,Jeans,Clothing,41,Next Day Air,Healthcare,Yes,Spring,Australia
+1203,Female,22,Jeans,Clothing,22,Express,Artist,Yes,Spring,Australia
+1204,Female,22,Jeans,Clothing,63,Free Shipping,Entertainment,Yes,Spring,Australia
+1205,Female,22,Jeans,Clothing,55,Next Day Air,Doctor,Yes,Spring,Australia
+1206,Female,22,Jeans,Clothing,98,Express,Healthcare,Yes,Spring,Australia
+1207,Female,22,Jeans,Clothing,99,Free Shipping,Executive,Yes,Spring,Australia
+1208,Female,22,Jeans,Clothing,65,Next Day Air,Healthcare,Yes,Spring,Australia
+1209,Male,22,Jeans,Clothing,35,Express,Doctor,Yes,Spring,Australia
+1210,Female,22,Jeans,Clothing,85,Free Shipping,Artist,Yes,Spring,Australia
+1211,Male,22,Jeans,Clothing,96,Next Day Air,Artist,Yes,Spring,Australia
+1212,Female,22,Jeans,Clothing,74,Express,Artist,Yes,Spring,Australia
+1213,Female,22,Jeans,Clothing,52,Free Shipping,Healthcare,Yes,Spring,Australia
+1214,Female,22,Jeans,Clothing,22,Next Day Air,Lawyer,Yes,Spring,Australia
+1215,Male,22,Jeans,Clothing,21,Express,Entertainment,Yes,Spring,Australia
+1216,Male,22,Jeans,Clothing,45,Free Shipping,Artist,Yes,Spring,Australia
+1217,Female,22,Jeans,Clothing,77,Next Day Air,Artist,Yes,Spring,Australia
+1218,Male,22,Jeans,Clothing,50,Express,Artist,Yes,Spring,Australia
+1219,Male,22,Jeans,Clothing,25,Free Shipping,Healthcare,Yes,Spring,Australia
+1220,Female,22,Jeans,Clothing,15,Next Day Air,Artist,Yes,Spring,Australia
+1221,Male,22,Jeans,Clothing,69,Express,Lawyer,Yes,Spring,Australia
+1222,Male,22,Jeans,Clothing,85,Free Shipping,Artist,Yes,Spring,Australia
+1223,Female,22,Jeans,Clothing,12,Next Day Air,Healthcare,Yes,Spring,Australia
+1224,Male,22,Jeans,Clothing,100,Express,,Yes,Spring,Australia
+1225,Female,22,Jeans,Clothing,23,Free Shipping,Executive,Yes,Spring,Australia
+1226,Male,22,Jeans,Clothing,14,Next Day Air,Homemaker,Yes,Spring,Australia
+1227,Female,22,Jeans,Clothing,25,Express,Entertainment,Yes,Spring,Australia
+1228,Male,22,Jeans,Clothing,41,Free Shipping,Healthcare,Yes,Spring,Australia
+1229,Female,22,Jeans,Clothing,22,Next Day Air,Engineer,Yes,Spring,Australia
+1230,Female,22,Jeans,Clothing,63,Express,Artist,Yes,Spring,Australia
+1231,Male,22,Jeans,Clothing,55,Free Shipping,Artist,Yes,Spring,Australia
+1232,Female,22,Jeans,Clothing,98,Next Day Air,Healthcare,Yes,Spring,Australia
+1233,Male,22,Jeans,Clothing,99,Express,Doctor,Yes,Spring,Australia
+1234,Male,22,Jeans,Clothing,65,Free Shipping,Entertainment,Yes,Spring,Australia
+1235,Female,22,Jeans,Clothing,35,Next Day Air,Artist,Yes,Spring,Australia
+1236,Female,22,Jeans,Clothing,85,Express,Healthcare,Yes,Spring,Australia
+1237,Female,22,Jeans,Clothing,96,Free Shipping,Marketing,Yes,Spring,Australia
+1238,Female,22,Jeans,Clothing,74,Next Day Air,Executive,Yes,Spring,Australia
+1239,Female,22,Jeans,Clothing,52,Express,Executive,Yes,Spring,Australia
+1240,Female,22,Jeans,Clothing,22,Free Shipping,Homemaker,Yes,Spring,Australia
+1241,Female,22,Jeans,Clothing,21,Next Day Air,Marketing,Yes,Spring,Australia
+1242,Male,22,Jeans,Clothing,45,Express,Doctor,Yes,Spring,Australia
+1243,Male,22,Jeans,Clothing,77,Free Shipping,Artist,Yes,Spring,Australia
+1244,Female,22,Jeans,Clothing,50,Next Day Air,Healthcare,Yes,Spring,Australia
+1245,Female,22,Jeans,Clothing,25,Express,Engineer,Yes,Spring,Australia
+1246,Female,22,Jeans,Clothing,15,Free Shipping,Engineer,Yes,Spring,Australia
+1247,Female,22,Jeans,Clothing,69,Next Day Air,Lawyer,Yes,Spring,Australia
+1248,Female,22,Jeans,Clothing,85,Express,Doctor,Yes,Spring,Australia
+1249,Female,22,Jeans,Clothing,12,Free Shipping,Entertainment,Yes,Spring,Australia
+1250,Female,22,Jeans,Clothing,100,Next Day Air,Artist,Yes,Spring,Australia
+1251,Female,22,Jeans,Clothing,23,Express,Doctor,Yes,Spring,Australia
+1252,Male,22,Jeans,Clothing,14,Free Shipping,Executive,Yes,Spring,Australia
+1253,Female,22,Jeans,Clothing,25,Next Day Air,Entertainment,Yes,Spring,Australia
+1254,Male,22,Jeans,Clothing,41,Express,Doctor,Yes,Spring,Australia
+1255,Female,22,Jeans,Clothing,22,Free Shipping,Engineer,Yes,Spring,Australia
+1256,Male,22,Jeans,Clothing,63,Next Day Air,Engineer,Yes,Spring,Australia
+1257,Female,22,Jeans,Clothing,55,Express,Healthcare,Yes,Spring,Australia
+1258,Male,22,Jeans,Clothing,98,Free Shipping,Engineer,Yes,Spring,Australia
+1259,Female,22,Jeans,Clothing,99,Next Day Air,Lawyer,Yes,Spring,Australia
+1260,Male,22,Jeans,Clothing,65,Express,Artist,Yes,Spring,Australia
+1261,Male,22,Jeans,Clothing,35,Free Shipping,Homemaker,Yes,Spring,Australia
+1262,Male,22,Jeans,Clothing,85,Next Day Air,Healthcare,Yes,Spring,Australia
+1263,Female,22,Jeans,Clothing,96,Express,Homemaker,Yes,Spring,Australia
+1264,Female,22,Jeans,Clothing,74,Free Shipping,Lawyer,Yes,Spring,Australia
+1265,Male,22,Jeans,Clothing,52,Next Day Air,Artist,Yes,Spring,Australia
+1266,Male,22,Jeans,Clothing,22,Express,Lawyer,Yes,Spring,Australia
+1267,Female,22,Jeans,Clothing,21,Free Shipping,Artist,Yes,Spring,Australia
+1268,Female,22,Jeans,Clothing,45,Next Day Air,Entertainment,Yes,Spring,Australia
+1269,Male,22,Jeans,Clothing,77,Express,Artist,Yes,Spring,Australia
+1270,Female,22,Jeans,Clothing,50,Free Shipping,Doctor,Yes,Spring,Australia
+1271,Male,22,Jeans,Clothing,25,Next Day Air,Entertainment,Yes,Spring,Australia
+1272,Female,22,Jeans,Clothing,15,Express,Entertainment,Yes,Spring,Australia
+1273,Female,22,Jeans,Clothing,69,Free Shipping,Healthcare,Yes,Spring,Australia
+1274,Female,22,Jeans,Clothing,85,Next Day Air,Artist,Yes,Spring,Australia
+1275,Male,22,Jeans,Clothing,12,Express,Doctor,Yes,Spring,Australia
+1276,Male,22,Jeans,Clothing,100,Free Shipping,Engineer,Yes,Spring,Australia
+1277,Female,22,Jeans,Clothing,23,Next Day Air,Artist,Yes,Spring,Australia
+1278,Male,22,Jeans,Clothing,14,Express,Engineer,Yes,Spring,Australia
+1279,Female,22,Jeans,Clothing,25,Free Shipping,Healthcare,Yes,Spring,Australia
+1280,Female,22,Jeans,Clothing,41,Next Day Air,Healthcare,Yes,Spring,Australia
+1281,Male,22,Jeans,Clothing,22,Express,Healthcare,Yes,Spring,Australia
+1282,Male,22,Jeans,Clothing,63,Free Shipping,Artist,Yes,Spring,Australia
+1283,Male,22,Jeans,Clothing,55,Next Day Air,Executive,Yes,Spring,Australia
+1284,Female,22,Jeans,Clothing,98,Express,Engineer,Yes,Spring,Australia
+1285,Female,22,Jeans,Clothing,99,Free Shipping,Entertainment,Yes,Spring,Australia
+1286,Male,22,Jeans,Clothing,65,Next Day Air,Artist,Yes,Spring,Australia
+1287,Female,22,Jeans,Clothing,35,Express,Entertainment,Yes,Spring,Australia
+1288,Female,22,Jeans,Clothing,85,Free Shipping,Homemaker,Yes,Spring,Australia
+1289,Female,22,Jeans,Clothing,96,Next Day Air,Artist,Yes,Spring,Australia
+1290,Female,22,Jeans,Clothing,74,Express,Executive,Yes,Spring,Australia
+1291,Female,22,Jeans,Clothing,52,Free Shipping,Artist,Yes,Spring,Australia
+1292,Male,22,Jeans,Clothing,22,Next Day Air,Entertainment,Yes,Spring,Australia
+1293,Male,22,Jeans,Clothing,21,Express,Artist,Yes,Spring,Australia
+1294,Female,22,Jeans,Clothing,45,Free Shipping,Artist,Yes,Spring,Australia
+1295,Female,22,Jeans,Clothing,77,Next Day Air,Engineer,Yes,Spring,Australia
+1296,Male,22,Jeans,Clothing,50,Express,Artist,Yes,Spring,Australia
+1297,Female,22,Jeans,Clothing,25,Free Shipping,Artist,Yes,Spring,Australia
+1298,Female,22,Jeans,Clothing,15,Next Day Air,Healthcare,Yes,Spring,Australia
+1299,Male,22,Jeans,Clothing,69,Express,Lawyer,Yes,Spring,Australia
+1300,Male,22,Jeans,Clothing,85,Free Shipping,Artist,Yes,Spring,Australia
+1301,Female,22,Jeans,Clothing,12,Next Day Air,Artist,Yes,Spring,Australia
+1302,Female,22,Jeans,Clothing,100,Express,Healthcare,Yes,Spring,Australia
+1303,Male,22,Jeans,Clothing,23,Free Shipping,Doctor,Yes,Spring,Australia
+1304,Male,22,Jeans,Clothing,14,Next Day Air,Doctor,Yes,Spring,Australia
+1305,Male,22,Jeans,Clothing,25,Express,Artist,Yes,Spring,Australia
+1306,Female,22,Jeans,Clothing,41,Free Shipping,Healthcare,Yes,Spring,Australia
+1307,Female,22,Jeans,Clothing,22,Next Day Air,Artist,Yes,Spring,Australia
+1308,Male,22,Jeans,Clothing,63,Express,Lawyer,Yes,Spring,Australia
+1309,Male,22,Jeans,Clothing,55,Free Shipping,Healthcare,Yes,Spring,Australia
+1310,Male,22,Jeans,Clothing,98,Next Day Air,Entertainment,Yes,Spring,Australia
+1311,Male,22,Jeans,Clothing,99,Express,Doctor,Yes,Spring,Australia
+1312,Female,22,Jeans,Clothing,65,Free Shipping,Entertainment,Yes,Spring,Australia
+1313,Female,22,Jeans,Clothing,35,Next Day Air,Healthcare,Yes,Spring,Australia
+1314,Male,22,Jeans,Clothing,85,Express,Entertainment,Yes,Spring,Australia
+1315,Female,22,Jeans,Clothing,96,Free Shipping,Healthcare,Yes,Spring,Australia
+1316,Female,22,Jeans,Clothing,74,Next Day Air,Healthcare,Yes,Spring,Australia
+1317,Female,22,Jeans,Clothing,52,Express,,Yes,Spring,Australia
+1318,Female,22,Jeans,Clothing,22,Free Shipping,Artist,Yes,Spring,Australia
+1319,Female,22,Jeans,Clothing,21,Next Day Air,Lawyer,Yes,Spring,Australia
+1320,Female,22,Jeans,Clothing,45,Express,Doctor,Yes,Spring,Australia
+1321,Male,22,Jeans,Clothing,77,Free Shipping,Artist,Yes,Spring,Australia
+1322,Female,22,Jeans,Clothing,50,Next Day Air,Artist,Yes,Spring,Australia
+1323,Female,22,Blouse,Clothing,25,Express,Marketing,Yes,Spring,Australia
+1324,Male,22,Blouse,Clothing,15,Free Shipping,Artist,Yes,Spring,Australia
+1325,Female,22,Blouse,Clothing,69,Next Day Air,Lawyer,Yes,Spring,Australia
+1326,Female,22,Blouse,Clothing,85,Express,Artist,Yes,Spring,Australia
+1327,Male,22,Blouse,Clothing,12,Free Shipping,Executive,Yes,Spring,Australia
+1328,Male,22,Blouse,Clothing,100,Next Day Air,Artist,Yes,Spring,Australia
+1329,Male,22,Blouse,Clothing,23,Express,Artist,Yes,Spring,Australia
+1330,Male,22,Blouse,Clothing,14,Free Shipping,Homemaker,Yes,Spring,Australia
+1331,Male,22,Blouse,Clothing,25,Next Day Air,Lawyer,Yes,Spring,Australia
+1332,Male,22,Blouse,Clothing,41,Express,Artist,Yes,Spring,Australia
+1333,Female,22,Blouse,Clothing,22,Free Shipping,Healthcare,Yes,Spring,Australia
+1334,Female,22,Blouse,Clothing,63,Next Day Air,Artist,Yes,Spring,United States
+1335,Male,22,Blouse,Clothing,55,Express,,Yes,Spring,United States
+1336,Female,22,Blouse,Clothing,98,Free Shipping,Doctor,Yes,Spring,United States
+1337,Female,22,Blouse,Clothing,99,Next Day Air,Healthcare,Yes,Spring,United States
+1338,Male,22,Blouse,Clothing,65,Express,Doctor,Yes,Spring,United States
+1339,Male,22,Blouse,Clothing,35,Free Shipping,Healthcare,Yes,Spring,United States
+1340,Female,22,Blouse,Clothing,85,Next Day Air,Entertainment,Yes,Spring,United States
+1341,Female,22,Blouse,Clothing,96,Express,Artist,Yes,Spring,United States
+1342,Male,22,Blouse,Clothing,74,Free Shipping,Executive,Yes,Spring,United States
+1343,Female,22,Blouse,Clothing,52,Next Day Air,Artist,Yes,Spring,United States
+1344,Female,22,Blouse,Clothing,22,Express,Artist,Yes,Spring,United States
+1345,Male,22,Blouse,Clothing,21,Free Shipping,Entertainment,Yes,Spring,United States
+1346,Male,22,Blouse,Clothing,45,Next Day Air,Entertainment,Yes,Spring,United States
+1347,Male,22,Blouse,Clothing,77,Express,Healthcare,Yes,Spring,United States
+1348,Female,22,Blouse,Clothing,50,Free Shipping,Healthcare,Yes,Spring,United States
+1349,Female,22,Blouse,Clothing,25,Next Day Air,Healthcare,Yes,Spring,United States
+1350,Male,22,Blouse,Clothing,15,Express,Artist,Yes,Spring,Australia
+1351,Male,22,Blouse,Clothing,69,Free Shipping,Engineer,Yes,Spring,Australia
+1352,Male,22,Blouse,Clothing,85,Next Day Air,Lawyer,Yes,Spring,Australia
+1353,Female,22,Blouse,Clothing,12,Express,Doctor,Yes,Spring,Australia
+1354,Female,22,Blouse,Clothing,100,Free Shipping,Artist,Yes,Spring,Australia
+1355,Female,22,Blouse,Clothing,23,Next Day Air,Marketing,Yes,Spring,Australia
+1356,Female,22,Blouse,Clothing,14,Express,Artist,Yes,Spring,Australia
+1357,Male,22,Blouse,Clothing,25,Free Shipping,Entertainment,Yes,Spring,Australia
+1358,Female,22,Blouse,Clothing,41,Next Day Air,Doctor,Yes,Spring,Australia
+1359,Male,22,Blouse,Clothing,22,Express,Artist,Yes,Spring,Australia
+1360,Female,22,Blouse,Clothing,63,Free Shipping,Artist,Yes,Spring,Australia
+1361,Female,22,Blouse,Clothing,55,Next Day Air,Doctor,Yes,Spring,Australia
+1362,Female,22,Blouse,Clothing,98,Express,Engineer,Yes,Spring,Australia
+1363,Male,22,Blouse,Clothing,99,Free Shipping,Healthcare,Yes,Spring,Australia
+1364,Female,22,Blouse,Clothing,65,Next Day Air,Artist,Yes,Spring,Australia
+1365,Male,22,Blouse,Clothing,35,Express,Healthcare,Yes,Summer,Australia
+1366,Female,22,Blouse,Clothing,85,Free Shipping,Doctor,Yes,Summer,Australia
+1367,Male,22,Blouse,Clothing,96,Next Day Air,Healthcare,Yes,Summer,Australia
+1368,Female,22,Blouse,Clothing,74,Express,Lawyer,Yes,Summer,Australia
+1369,Female,22,Blouse,Clothing,52,Free Shipping,Engineer,Yes,Summer,Australia
+1370,Male,22,Blouse,Clothing,22,Next Day Air,Doctor,Yes,Summer,Australia
+1371,Male,23,Blouse,Clothing,21,Express,Lawyer,Yes,Summer,Australia
+1372,Male,25,Blouse,Clothing,45,Free Shipping,Lawyer,Yes,Summer,Australia
+1373,Male,46,Blouse,Clothing,77,Next Day Air,Artist,Yes,Summer,Australia
+1374,Male,28,Blouse,Clothing,50,Express,Artist,Yes,Summer,Australia
+1375,Female,24,Blouse,Clothing,25,Free Shipping,Lawyer,Yes,Summer,Australia
+1376,Female,27,Blouse,Clothing,15,Next Day Air,Healthcare,Yes,Summer,Australia
+1377,Male,22,Blouse,Clothing,69,Express,Engineer,Yes,Summer,Australia
+1378,Male,22,Blouse,Clothing,85,Free Shipping,Doctor,Yes,Summer,Australia
+1379,Male,22,Blouse,Clothing,12,Next Day Air,Artist,Yes,Summer,Australia
+1380,Male,22,Blouse,Clothing,100,Express,Artist,Yes,Summer,Australia
+1381,Female,22,Blouse,Clothing,23,Free Shipping,Artist,Yes,Summer,Australia
+1382,Female,22,Blouse,Clothing,14,Next Day Air,Artist,Yes,Summer,Australia
+1383,Male,22,Blouse,Clothing,25,Express,Entertainment,Yes,Summer,Australia
+1384,Female,22,Blouse,Clothing,41,Free Shipping,Marketing,Yes,Summer,Australia
+1385,Female,22,Blouse,Clothing,22,Next Day Air,,Yes,Summer,Australia
+1386,Male,22,Blouse,Clothing,63,Express,Artist,Yes,Summer,Australia
+1387,Female,22,Blouse,Clothing,55,Free Shipping,Lawyer,Yes,Summer,Australia
+1388,Male,22,Blouse,Clothing,98,Next Day Air,Lawyer,Yes,Summer,Australia
+1389,Female,22,Blouse,Clothing,99,Express,Artist,Yes,Summer,Australia
+1390,Female,22,Blouse,Clothing,65,Free Shipping,Healthcare,Yes,Summer,Australia
+1391,Female,22,Blouse,Clothing,35,Next Day Air,Healthcare,Yes,Summer,Australia
+1392,Female,22,Blouse,Clothing,85,Express,Doctor,Yes,Summer,Australia
+1393,Male,22,Blouse,Clothing,96,Free Shipping,Healthcare,Yes,Summer,Australia
+1394,Female,22,Blouse,Clothing,74,Next Day Air,Engineer,Yes,Summer,Australia
+1395,Female,22,Blouse,Clothing,52,Express,Artist,Yes,Summer,Australia
+1396,Female,22,Blouse,Clothing,22,Free Shipping,Artist,Yes,Summer,Australia
+1397,Female,22,Blouse,Clothing,21,Next Day Air,Healthcare,Yes,Summer,Australia
+1398,Male,22,Blouse,Clothing,45,Express,Healthcare,Yes,Summer,Australia
+1399,Male,33,Blouse,Clothing,77,Free Shipping,Artist,Yes,Summer,Australia
+1400,Male,33,Blouse,Clothing,50,Next Day Air,Executive,Yes,Summer,Australia
+1401,Female,33,Blouse,Clothing,25,Express,Executive,Yes,Summer,Australia
+1402,Male,33,Blouse,Clothing,15,Free Shipping,Healthcare,Yes,Summer,Australia
+1403,Female,33,Blouse,Clothing,69,Next Day Air,Entertainment,Yes,Summer,Australia
+1404,Female,33,Blouse,Clothing,85,Express,Engineer,Yes,Summer,Australia
+1405,Female,33,Blouse,Clothing,12,Free Shipping,Doctor,Yes,Summer,Australia
+1406,Female,33,Blouse,Clothing,100,Next Day Air,Doctor,Yes,Summer,Australia
+1407,Female,33,Blouse,Clothing,23,Express,Engineer,Yes,Summer,Australia
+1408,Male,33,Blouse,Clothing,14,Free Shipping,Artist,Yes,Summer,Australia
+1409,Female,33,Blouse,Clothing,25,Next Day Air,Entertainment,Yes,Summer,Australia
+1410,Female,33,Blouse,Clothing,41,Express,Doctor,Yes,Summer,Australia
+1411,Female,33,Blouse,Clothing,22,Free Shipping,Executive,Yes,Summer,Australia
+1412,Female,33,Blouse,Clothing,63,Next Day Air,Executive,Yes,Summer,Australia
+1413,Male,33,Blouse,Clothing,55,Express,Artist,Yes,Summer,Australia
+1414,Male,33,Blouse,Clothing,98,Free Shipping,Entertainment,Yes,Summer,Australia
+1415,Male,33,Blouse,Clothing,99,Next Day Air,Engineer,Yes,Summer,Australia
+1416,Female,33,Blouse,Clothing,65,Express,Healthcare,Yes,Summer,Australia
+1417,Male,33,Blouse,Clothing,35,Free Shipping,Healthcare,Yes,Summer,Australia
+1418,Female,33,Blouse,Clothing,85,Next Day Air,,Yes,Summer,Australia
+1419,Female,33,Blouse,Clothing,96,Express,Healthcare,Yes,Summer,Australia
+1420,Female,60,Blouse,Clothing,74,Free Shipping,Engineer,Yes,Summer,Australia
+1421,Female,60,Blouse,Clothing,52,Next Day Air,Executive,Yes,Summer,Australia
+1422,Female,60,Blouse,Clothing,22,Express,Healthcare,Yes,Summer,United States
+1423,Male,60,Blouse,Clothing,21,Free Shipping,Executive,Yes,Summer,United States
+1424,Female,60,Blouse,Clothing,45,Next Day Air,Executive,Yes,Summer,United States
+1425,Female,60,Blouse,Clothing,77,Express,Artist,Yes,Summer,United States
+1426,Female,60,Blouse,Clothing,50,Free Shipping,Entertainment,Yes,Summer,United States
+1427,Female,60,Blouse,Clothing,25,Next Day Air,Artist,Yes,Summer,United States
+1428,Male,60,Blouse,Clothing,15,Express,Executive,Yes,Summer,United States
+1429,Male,60,Blouse,Clothing,69,Free Shipping,Doctor,Yes,Summer,United States
+1430,Male,60,Blouse,Clothing,85,Next Day Air,Marketing,Yes,Summer,United States
+1431,Female,60,Blouse,Clothing,12,Express,Lawyer,Yes,Summer,United States
+1432,Male,60,Blouse,Clothing,100,Free Shipping,Doctor,Yes,Summer,United States
+1433,Female,60,Blouse,Clothing,23,Next Day Air,Artist,Yes,Summer,United States
+1434,Female,55,Blouse,Clothing,14,Express,Artist,Yes,Summer,United States
+1435,Female,55,Blouse,Clothing,25,Free Shipping,Healthcare,Yes,Summer,United States
+1436,Female,55,Blouse,Clothing,41,Next Day Air,Artist,Yes,Summer,Australia
+1437,Male,55,Blouse,Clothing,22,Express,Entertainment,Yes,Summer,Australia
+1438,Male,55,Blouse,Clothing,63,Free Shipping,Healthcare,Yes,Summer,Australia
+1439,Male,55,Blouse,Clothing,55,Next Day Air,Artist,Yes,Summer,Australia
+1440,Female,55,Blouse,Clothing,98,Express,Artist,Yes,Summer,Australia
+1441,Male,55,Blouse,Clothing,99,Free Shipping,Artist,Yes,Summer,Australia
+1442,Female,55,Blouse,Clothing,65,Next Day Air,Healthcare,Yes,Summer,Australia
+1443,Female,55,Blouse,Clothing,35,Express,Engineer,Yes,Summer,Australia
+1444,Female,55,Blouse,Clothing,85,Free Shipping,Lawyer,Yes,Summer,Australia
+1445,Female,55,Blouse,Clothing,96,Next Day Air,Marketing,Yes,Summer,Australia
+1446,Female,55,Blouse,Clothing,74,Express,Artist,Yes,Summer,Australia
+1447,Male,55,Blouse,Clothing,52,Free Shipping,Artist,Yes,Summer,Australia
+1448,Female,55,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Summer,Australia
+1449,Female,55,Blouse,Clothing,21,Express,Artist,Yes,Summer,Australia
+1450,Female,55,Blouse,Clothing,45,Free Shipping,Healthcare,Yes,Summer,Australia
+1451,Male,55,Blouse,Clothing,77,Next Day Air,Artist,Yes,Summer,Australia
+1452,Female,55,Blouse,Clothing,50,Express,Artist,Yes,Summer,Australia
+1453,Female,55,Blouse,Clothing,25,Free Shipping,Healthcare,Yes,Summer,Australia
+1454,Female,55,Blouse,Clothing,15,Next Day Air,Artist,Yes,Summer,Australia
+1455,Female,55,Blouse,Clothing,69,Express,Artist,Yes,Summer,Australia
+1456,Male,55,Blouse,Clothing,85,Free Shipping,Healthcare,Yes,Summer,Australia
+1457,Male,55,Blouse,Clothing,12,Next Day Air,Artist,Yes,Summer,Australia
+1458,Male,55,Blouse,Clothing,100,Express,Executive,Yes,Summer,Australia
+1459,Female,55,Blouse,Clothing,23,Free Shipping,Artist,Yes,Summer,Australia
+1460,Male,55,Blouse,Clothing,14,Next Day Air,Entertainment,Yes,Summer,Australia
+1461,Female,55,Blouse,Clothing,25,Express,Entertainment,Yes,Summer,Australia
+1462,Female,55,Blouse,Clothing,41,Free Shipping,Artist,Yes,Summer,Australia
+1463,Female,55,Blouse,Clothing,22,Next Day Air,Engineer,Yes,Summer,Australia
+1464,Female,55,Blouse,Clothing,63,Express,Engineer,Yes,Summer,Australia
+1465,Female,55,Blouse,Clothing,55,Free Shipping,Entertainment,Yes,Summer,Australia
+1466,Male,55,Blouse,Clothing,98,Next Day Air,Artist,Yes,Summer,Australia
+1467,Female,55,Blouse,Clothing,99,Express,Engineer,Yes,Summer,Australia
+1468,Female,55,Blouse,Clothing,65,Free Shipping,Marketing,Yes,Summer,Australia
+1469,Female,55,Blouse,Clothing,35,Next Day Air,Artist,Yes,Summer,Australia
+1470,Female,55,Blouse,Clothing,85,Express,Marketing,Yes,Summer,Australia
+1471,Male,55,Blouse,Clothing,96,Free Shipping,Artist,Yes,Summer,Australia
+1472,Female,55,Blouse,Clothing,74,Next Day Air,Artist,Yes,Summer,Australia
+1473,Female,55,Blouse,Clothing,52,Express,Artist,Yes,Summer,Australia
+1474,Female,55,Blouse,Clothing,22,Free Shipping,Artist,Yes,Summer,Australia
+1475,Female,55,Blouse,Clothing,21,Next Day Air,Artist,Yes,Summer,Australia
+1476,Male,55,Blouse,Clothing,45,Express,Executive,Yes,Summer,Australia
+1477,Male,55,Blouse,Clothing,77,Free Shipping,Artist,Yes,Summer,Australia
+1478,Male,55,Blouse,Clothing,50,Next Day Air,Lawyer,Yes,Summer,Australia
+1479,Female,55,Blouse,Clothing,25,Express,Engineer,Yes,Summer,Australia
+1480,Male,55,Blouse,Clothing,15,Free Shipping,Executive,Yes,Summer,Australia
+1481,Female,55,Blouse,Clothing,69,Next Day Air,Engineer,Yes,Summer,Australia
+1482,Female,55,Blouse,Clothing,85,Express,Artist,Yes,Summer,Australia
+1483,Female,55,Blouse,Clothing,12,Free Shipping,Artist,Yes,Summer,Australia
+1484,Female,55,Blouse,Clothing,100,Next Day Air,,Yes,Summer,Australia
+1485,Female,55,Blouse,Clothing,23,Express,Doctor,Yes,Summer,Australia
+1486,Male,55,Blouse,Clothing,14,Free Shipping,Entertainment,Yes,Summer,Australia
+1487,Female,55,Blouse,Clothing,25,Next Day Air,Doctor,Yes,Summer,Australia
+1488,Female,55,Blouse,Clothing,41,Express,Artist,Yes,Summer,Australia
+1489,Female,55,Blouse,Clothing,22,Free Shipping,Marketing,Yes,Summer,Australia
+1490,Female,55,Blouse,Clothing,63,Next Day Air,Artist,Yes,Summer,Australia
+1491,Male,55,Blouse,Clothing,55,Express,Artist,Yes,Summer,Australia
+1492,Female,55,Blouse,Clothing,98,Free Shipping,Artist,Yes,Summer,Australia
+1493,Male,55,Blouse,Clothing,99,Next Day Air,Doctor,Yes,Summer,Australia
+1494,Female,55,Blouse,Clothing,65,Express,Artist,Yes,Summer,Australia
+1495,Female,55,Blouse,Clothing,35,Free Shipping,Engineer,Yes,Summer,Australia
+1496,Female,55,Blouse,Clothing,85,Next Day Air,Artist,Yes,Summer,Australia
+1497,Female,55,Blouse,Clothing,96,Express,Artist,Yes,Summer,Australia
+1498,Male,55,Blouse,Clothing,74,Free Shipping,Healthcare,Yes,Summer,Australia
+1499,Male,55,Blouse,Clothing,52,Next Day Air,Entertainment,Yes,Summer,Australia
+1500,Male,55,Blouse,Clothing,22,Express,Doctor,Yes,Summer,Australia
+1501,Male,55,Blouse,Clothing,21,Free Shipping,Doctor,Yes,Summer,Australia
+1502,Male,55,Blouse,Clothing,45,Next Day Air,Doctor,Yes,Summer,Australia
+1503,Female,55,Blouse,Clothing,77,Express,Executive,Yes,Summer,Australia
+1504,Female,55,Blouse,Clothing,50,Free Shipping,Doctor,Yes,Summer,Australia
+1505,Female,55,Blouse,Clothing,25,Next Day Air,Healthcare,Yes,Summer,Australia
+1506,Female,55,Blouse,Clothing,15,Express,Artist,Yes,Summer,Australia
+1507,Female,55,Blouse,Clothing,69,Free Shipping,,Yes,Summer,Australia
+1508,Female,55,Blouse,Clothing,85,Next Day Air,Artist,Yes,Summer,Australia
+1509,Male,55,Blouse,Clothing,12,Express,Entertainment,Yes,Summer,Australia
+1510,Female,55,Blouse,Clothing,100,Free Shipping,Engineer,Yes,Summer,Australia
+1511,Male,55,Blouse,Clothing,23,Next Day Air,Executive,Yes,Summer,Australia
+1512,Female,55,Blouse,Clothing,14,Express,Entertainment,Yes,Summer,Australia
+1513,Female,55,Blouse,Clothing,25,Free Shipping,Artist,Yes,Summer,Australia
+1514,Female,22,Blouse,Clothing,41,Next Day Air,Artist,Yes,Summer,Australia
+1515,Male,25,Blouse,Clothing,22,Express,Healthcare,Yes,Summer,Australia
+1516,Male,32,Blouse,Clothing,63,Free Shipping,Engineer,Yes,Summer,Australia
+1517,Female,35,Blouse,Clothing,55,Next Day Air,Healthcare,Yes,Summer,Australia
+1518,Male,36,Blouse,Clothing,98,Express,Artist,Yes,Summer,Australia
+1519,Male,39,Blouse,Clothing,99,Free Shipping,Homemaker,Yes,Summer,Australia
+1520,Female,38,Blouse,Clothing,65,Next Day Air,Healthcare,Yes,Summer,Australia
+1521,Male,37,Blouse,Clothing,35,Express,Artist,Yes,Summer,Australia
+1522,Male,34,Blouse,Clothing,85,Free Shipping,Entertainment,Yes,Summer,Australia
+1523,Female,34,Blouse,Clothing,96,Next Day Air,Executive,Yes,Summer,Australia
+1524,Male,32,Blouse,Clothing,74,Express,Lawyer,Yes,Summer,Australia
+1525,Female,19,Blouse,Clothing,52,Free Shipping,Executive,Yes,Summer,Australia
+1526,Male,18,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Summer,Australia
+1527,Female,19,Blouse,Clothing,21,Express,Entertainment,Yes,Summer,Australia
+1528,Male,18,Blouse,Clothing,45,Free Shipping,Healthcare,Yes,Summer,Australia
+1529,Female,19,Blouse,Clothing,77,Next Day Air,Healthcare,Yes,Summer,Australia
+1530,Female,18,Blouse,Clothing,50,Express,Artist,Yes,Summer,Australia
+1531,Male,19,Blouse,Clothing,25,Free Shipping,Doctor,Yes,Summer,Australia
+1532,Female,22,Blouse,Clothing,15,Next Day Air,Executive,Yes,Summer,Australia
+1533,Male,25,Blouse,Clothing,69,Express,Engineer,Yes,Summer,Australia
+1534,Male,26,Blouse,Clothing,85,Free Shipping,Entertainment,Yes,Summer,Australia
+1535,Female,28,Blouse,Clothing,12,Next Day Air,Entertainment,Yes,Summer,Australia
+1536,Female,28,Blouse,Clothing,100,Express,Artist,Yes,Summer,Australia
+1537,Female,27,Blouse,Clothing,23,Free Shipping,Engineer,Yes,Summer,Australia
+1538,Female,23,Blouse,Clothing,14,Next Day Air,Healthcare,Yes,Summer,Australia
+1539,Female,30,Blouse,Clothing,25,Express,Artist,Yes,Summer,Australia
+1540,Female,33,Blouse,Clothing,41,Free Shipping,Engineer,Yes,Summer,Australia
+1541,Female,31,Blouse,Clothing,22,Next Day Air,Engineer,Yes,Summer,Australia
+1542,Male,32,Blouse,Clothing,63,Express,Executive,Yes,Summer,Australia
+1543,Male,32,Blouse,Clothing,55,Free Shipping,Entertainment,Yes,Summer,Australia
+1544,Female,32,Blouse,Clothing,98,Next Day Air,Lawyer,Yes,Summer,Australia
+1545,Female,32,Blouse,Clothing,99,Express,Artist,Yes,Summer,Australia
+1546,Female,32,Blouse,Clothing,65,Free Shipping,Artist,Yes,Summer,Australia
+1547,Female,32,Blouse,Clothing,35,Next Day Air,Healthcare,Yes,Summer,Australia
+1548,Female,32,Blouse,Clothing,85,Express,Engineer,Yes,Summer,Australia
+1549,Female,32,Blouse,Clothing,96,Free Shipping,Entertainment,Yes,Summer,Australia
+1550,Female,32,Blouse,Clothing,74,Next Day Air,Artist,Yes,Summer,Australia
+1551,Female,32,Blouse,Clothing,52,Express,Artist,Yes,Summer,Australia
+1552,Male,55,Blouse,Clothing,22,Free Shipping,Lawyer,Yes,Summer,Australia
+1553,Female,33,Blouse,Clothing,21,Next Day Air,Healthcare,Yes,Summer,Australia
+1554,Male,36,Blouse,Clothing,45,Express,Doctor,Yes,Summer,Australia
+1555,Female,39,Blouse,Clothing,77,Free Shipping,Executive,Yes,Summer,Australia
+1556,Male,38,Blouse,Clothing,50,Next Day Air,Lawyer,Yes,Summer,Australia
+1557,Female,34,Blouse,Clothing,25,Express,Entertainment,Yes,Summer,Australia
+1558,Male,35,Blouse,Clothing,15,Free Shipping,Marketing,Yes,Summer,Australia
+1559,Female,36,Blouse,Clothing,69,Next Day Air,Entertainment,Yes,Summer,Australia
+1560,Male,36,Blouse,Clothing,85,Express,Marketing,Yes,Summer,Australia
+1561,Male,36,Blouse,Clothing,12,Free Shipping,Marketing,Yes,Summer,Australia
+1562,Male,38,Blouse,Clothing,100,Next Day Air,Artist,Yes,Summer,Australia
+1563,Female,18,Blouse,Clothing,23,Express,Engineer,Yes,Summer,Australia
+1564,Female,19,Blouse,Clothing,14,Free Shipping,Artist,Yes,Summer,Australia
+1565,Male,19,Blouse,Clothing,25,Next Day Air,Marketing,Yes,Summer,Australia
+1566,Male,19,Blouse,Clothing,41,Express,Healthcare,Yes,Summer,Australia
+1567,Female,19,Blouse,Clothing,22,Free Shipping,Doctor,Yes,Summer,Australia
+1568,Female,19,Blouse,Clothing,63,Next Day Air,Homemaker,Yes,Summer,Australia
+1569,Male,18,Blouse,Clothing,55,Express,Engineer,Yes,Summer,Australia
+1570,Female,18,Blouse,Clothing,98,Free Shipping,Artist,Yes,Summer,Australia
+1571,Male,18,Blouse,Clothing,99,Next Day Air,Artist,Yes,Summer,Australia
+1572,Female,18,Blouse,Clothing,65,Express,Homemaker,Yes,Summer,Australia
+1573,Female,18,Blouse,Clothing,35,Free Shipping,Artist,Yes,Summer,Australia
+1574,Female,18,Blouse,Clothing,85,Next Day Air,Healthcare,Yes,Summer,Australia
+1575,Male,18,Blouse,Clothing,96,Express,Healthcare,Yes,Summer,Australia
+1576,Male,18,Blouse,Clothing,74,Free Shipping,Healthcare,Yes,Summer,Australia
+1577,Female,19,Blouse,Clothing,52,Next Day Air,Healthcare,Yes,Summer,Australia
+1578,Male,19,Blouse,Clothing,22,Express,Artist,Yes,Summer,Australia
+1579,Female,19,Blouse,Clothing,21,Free Shipping,Artist,Yes,Summer,Australia
+1580,Female,18,Blouse,Clothing,45,Next Day Air,Marketing,Yes,Summer,Australia
+1581,Male,20,Blouse,Clothing,77,Express,Artist,Yes,Summer,Australia
+1582,Male,35,Blouse,Clothing,50,Free Shipping,Artist,Yes,Summer,Australia
+1583,Male,45,Blouse,Clothing,25,Next Day Air,Engineer,Yes,Summer,Australia
+1584,Female,60,Blouse,Clothing,15,Express,Marketing,Yes,Summer,Australia
+1585,Female,22,Blouse,Clothing,69,Free Shipping,Artist,Yes,Summer,Australia
+1586,Male,24,Blouse,Clothing,85,Next Day Air,Engineer,Yes,Summer,Australia
+1587,Female,68,Blouse,Clothing,12,Express,Healthcare,Yes,Summer,Australia
+1588,Female,53,Blouse,Clothing,100,Free Shipping,Healthcare,Yes,Summer,Australia
+1589,Female,74,Blouse,Clothing,23,Next Day Air,Engineer,Yes,Summer,Australia
+1590,Female,55,Blouse,Clothing,14,Express,Artist,Yes,Summer,Australia
+1591,Female,51,Blouse,Clothing,25,Free Shipping,Healthcare,Yes,Summer,Australia
+1592,Male,42,Blouse,Clothing,41,Next Day Air,Entertainment,Yes,Summer,Australia
+1593,Male,43,Blouse,Clothing,22,Express,Homemaker,Yes,Summer,Australia
+1594,Female,47,Blouse,Clothing,63,Free Shipping,Artist,Yes,Summer,Australia
+1595,Female,48,Blouse,Clothing,55,Next Day Air,Entertainment,Yes,Summer,Australia
+1596,Male,60,Blouse,Clothing,98,Express,Entertainment,Yes,Summer,Australia
+1597,Female,22,Blouse,Clothing,99,Free Shipping,Executive,Yes,Summer,Australia
+1598,Female,21,Blouse,Clothing,65,Next Day Air,Marketing,Yes,Summer,Australia
+1599,Male,19,Blouse,Clothing,35,Express,Entertainment,Yes,Summer,Australia
+1600,Male,23,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1601,Female,25,Blouse,Clothing,96,Next Day Air,Entertainment,Yes,Summer,Australia
+1602,Female,25,Blouse,Clothing,74,Express,Artist,Yes,Summer,Australia
+1603,Male,26,Blouse,Clothing,52,Free Shipping,Entertainment,Yes,Summer,Australia
+1604,Male,28,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Summer,Australia
+1605,Male,27,Blouse,Clothing,21,Express,Healthcare,Yes,Summer,Australia
+1606,Female,29,Blouse,Clothing,45,Free Shipping,Healthcare,Yes,Summer,Australia
+1607,Female,21,Blouse,Clothing,77,Next Day Air,Homemaker,Yes,Summer,Australia
+1608,Male,24,Blouse,Clothing,50,Express,Entertainment,Yes,Summer,Australia
+1609,Male,25,Blouse,Clothing,25,Free Shipping,Artist,Yes,Summer,Australia
+1610,Male,26,Blouse,Clothing,15,Next Day Air,Lawyer,Yes,Summer,Australia
+1611,Male,23,Blouse,Clothing,69,Express,Executive,Yes,Summer,Australia
+1612,Female,25,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1613,Female,33,Blouse,Clothing,12,Next Day Air,Entertainment,Yes,Summer,Australia
+1614,Male,33,Blouse,Clothing,100,Express,Artist,Yes,Summer,Australia
+1615,Female,36,Blouse,Clothing,23,Free Shipping,Lawyer,Yes,Summer,Australia
+1616,Female,25,Blouse,Clothing,14,Next Day Air,Healthcare,Yes,Summer,Australia
+1617,Female,36,Blouse,Clothing,25,Express,Artist,Yes,Summer,Australia
+1618,Female,39,Blouse,Clothing,41,Free Shipping,Entertainment,Yes,Summer,Australia
+1619,Female,38,Blouse,Clothing,22,Next Day Air,Engineer,Yes,Summer,Australia
+1620,Female,22,Blouse,Clothing,63,Express,Artist,Yes,Summer,Australia
+1621,Male,22,Blouse,Clothing,55,Free Shipping,Healthcare,Yes,Summer,Australia
+1622,Female,22,Blouse,Clothing,98,Next Day Air,Artist,Yes,Summer,Australia
+1623,Female,22,Blouse,Clothing,99,Express,Healthcare,Yes,Summer,Australia
+1624,Male,22,Blouse,Clothing,65,Free Shipping,Entertainment,Yes,Summer,Australia
+1625,Female,22,Blouse,Clothing,35,Next Day Air,Healthcare,Yes,Summer,Australia
+1626,Female,22,Blouse,Clothing,85,Express,,Yes,Summer,Australia
+1627,Male,22,Blouse,Clothing,96,Free Shipping,Doctor,Yes,Summer,Australia
+1628,Male,22,Blouse,Clothing,74,Next Day Air,Healthcare,Yes,Summer,Australia
+1629,Male,22,Blouse,Clothing,52,Express,Healthcare,Yes,Summer,Australia
+1630,Male,22,Blouse,Clothing,22,Free Shipping,Healthcare,Yes,Summer,Australia
+1631,Male,22,Blouse,Clothing,21,Next Day Air,Doctor,Yes,Summer,Australia
+1632,Male,22,Blouse,Clothing,45,Express,Lawyer,Yes,Summer,Australia
+1633,Female,22,Blouse,Clothing,77,Free Shipping,Engineer,Yes,Summer,Australia
+1634,Female,22,Blouse,Clothing,50,Next Day Air,Artist,Yes,Summer,Australia
+1635,Male,22,Blouse,Clothing,25,Express,,Yes,Summer,Australia
+1636,Female,22,Blouse,Clothing,15,Free Shipping,Entertainment,Yes,Summer,Australia
+1637,Female,22,Blouse,Clothing,69,Next Day Air,Healthcare,Yes,Summer,Australia
+1638,Male,22,Blouse,Clothing,85,Express,Doctor,Yes,Summer,Australia
+1639,Male,22,Blouse,Clothing,12,Free Shipping,Healthcare,Yes,Summer,Australia
+1640,Female,22,Blouse,Clothing,100,Next Day Air,Homemaker,Yes,Summer,Australia
+1641,Female,22,Blouse,Clothing,23,Express,Doctor,Yes,Summer,Australia
+1642,Male,22,Blouse,Clothing,14,Free Shipping,Homemaker,Yes,Summer,Australia
+1643,Female,22,Blouse,Clothing,25,Next Day Air,Lawyer,Yes,Summer,Australia
+1644,Female,22,Blouse,Clothing,41,Express,Healthcare,Yes,Summer,Australia
+1645,Male,22,Blouse,Clothing,22,Free Shipping,Artist,Yes,Summer,Australia
+1646,Male,22,Blouse,Clothing,63,Next Day Air,Entertainment,Yes,Summer,Australia
+1647,Male,22,Blouse,Clothing,55,Express,Executive,Yes,Summer,Australia
+1648,Female,22,Blouse,Clothing,98,Free Shipping,Doctor,Yes,Summer,Australia
+1649,Female,22,Blouse,Clothing,99,Next Day Air,Homemaker,Yes,Summer,Australia
+1650,Male,22,Blouse,Clothing,65,Express,Entertainment,Yes,Summer,Australia
+1651,Male,22,Blouse,Clothing,35,Free Shipping,Healthcare,Yes,Summer,Australia
+1652,Male,22,Blouse,Clothing,85,Next Day Air,Marketing,Yes,Summer,Australia
+1653,Female,22,Blouse,Clothing,96,Express,Entertainment,Yes,Summer,Australia
+1654,Female,22,Blouse,Clothing,74,Free Shipping,Marketing,Yes,Summer,Australia
+1655,Female,22,Blouse,Clothing,52,Next Day Air,Entertainment,Yes,Summer,Australia
+1656,Female,22,Blouse,Clothing,22,Express,Artist,Yes,Summer,Australia
+1657,Male,22,Blouse,Clothing,21,Free Shipping,Homemaker,Yes,Summer,Australia
+1658,Female,22,Blouse,Clothing,45,Next Day Air,Healthcare,Yes,Summer,Australia
+1659,Male,22,Blouse,Clothing,77,Express,Artist,Yes,Summer,Australia
+1660,Female,22,Blouse,Clothing,50,Free Shipping,Artist,Yes,Summer,Australia
+1661,Female,22,Blouse,Clothing,25,Next Day Air,Healthcare,Yes,Summer,Australia
+1662,Female,22,Blouse,Clothing,15,Express,Lawyer,Yes,Summer,Australia
+1663,Male,22,Blouse,Clothing,69,Free Shipping,Doctor,Yes,Summer,Australia
+1664,Female,22,Blouse,Clothing,85,Next Day Air,Executive,Yes,Summer,Australia
+1665,Male,22,Blouse,Clothing,12,Express,Lawyer,Yes,Summer,Australia
+1666,Female,22,Blouse,Clothing,100,Free Shipping,Artist,Yes,Summer,Australia
+1667,Male,22,Blouse,Clothing,23,Next Day Air,Artist,Yes,Summer,Australia
+1668,Female,22,Blouse,Clothing,14,Express,Doctor,Yes,Summer,Australia
+1669,Female,22,Blouse,Clothing,25,Free Shipping,Healthcare,Yes,Summer,Australia
+1670,Male,22,Blouse,Clothing,41,Next Day Air,Homemaker,Yes,Summer,Australia
+1671,Male,22,Blouse,Clothing,22,Express,Lawyer,Yes,Summer,Australia
+1672,Male,22,Blouse,Clothing,63,Free Shipping,Artist,Yes,Summer,Australia
+1673,Male,22,Blouse,Clothing,55,Next Day Air,Entertainment,Yes,Summer,Australia
+1674,Male,22,Blouse,Clothing,98,Express,Executive,Yes,Summer,Australia
+1675,Female,22,Blouse,Clothing,99,Free Shipping,Marketing,Yes,Summer,Australia
+1676,Female,22,Blouse,Clothing,65,Next Day Air,Artist,Yes,Summer,Australia
+1677,Male,22,Blouse,Clothing,35,Express,Artist,Yes,Summer,Australia
+1678,Male,22,Blouse,Clothing,85,Free Shipping,Doctor,Yes,Summer,Australia
+1679,Male,22,Blouse,Clothing,96,Next Day Air,Healthcare,Yes,Summer,Australia
+1680,Male,22,Blouse,Clothing,74,Express,Healthcare,Yes,Summer,Australia
+1681,Female,22,Blouse,Clothing,52,Free Shipping,Executive,Yes,Summer,Australia
+1682,Female,22,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Summer,Australia
+1683,Male,22,Blouse,Clothing,21,Express,Entertainment,Yes,Summer,Australia
+1684,Female,22,Blouse,Clothing,45,Free Shipping,Executive,Yes,Summer,Australia
+1685,Female,22,Blouse,Clothing,77,Next Day Air,Lawyer,Yes,Summer,Australia
+1686,Male,22,Blouse,Clothing,50,Express,Artist,Yes,Summer,Australia
+1687,Female,22,Blouse,Clothing,25,Free Shipping,Artist,Yes,Summer,Australia
+1688,Male,22,Blouse,Clothing,15,Next Day Air,Executive,Yes,Summer,Australia
+1689,Female,22,Blouse,Clothing,69,Express,Artist,Yes,Summer,Australia
+1690,Female,22,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1691,Female,22,Blouse,Clothing,12,Next Day Air,Artist,Yes,Summer,Australia
+1692,Female,22,Blouse,Clothing,100,Express,Artist,Yes,Summer,Australia
+1693,Male,22,Blouse,Clothing,23,Free Shipping,Artist,Yes,Summer,Australia
+1694,Female,22,Blouse,Clothing,14,Next Day Air,Engineer,Yes,Summer,Australia
+1695,Female,22,Blouse,Clothing,25,Express,Marketing,Yes,Summer,Australia
+1696,Female,22,Blouse,Clothing,41,Free Shipping,Doctor,Yes,Summer,Australia
+1697,Female,22,Blouse,Clothing,22,Next Day Air,Healthcare,Yes,Summer,Australia
+1698,Male,22,Blouse,Clothing,63,Express,Artist,Yes,Summer,Australia
+1699,Male,22,Blouse,Clothing,55,Free Shipping,Artist,Yes,Summer,Australia
+1700,Male,22,Blouse,Clothing,98,Next Day Air,Lawyer,Yes,Summer,Australia
+1701,Female,22,Blouse,Clothing,99,Express,Engineer,Yes,Summer,Australia
+1702,Male,22,Blouse,Clothing,65,Free Shipping,Executive,Yes,Summer,Australia
+1703,Female,22,Blouse,Clothing,35,Next Day Air,Entertainment,Yes,Summer,Australia
+1704,Female,22,Blouse,Clothing,85,Express,Homemaker,Yes,Summer,Australia
+1705,Female,22,Blouse,Clothing,96,Free Shipping,Entertainment,Yes,Summer,Australia
+1706,Female,22,Blouse,Clothing,74,Next Day Air,Entertainment,Yes,Summer,Australia
+1707,Female,22,Blouse,Clothing,52,Express,Engineer,Yes,Summer,Australia
+1708,Male,22,Blouse,Clothing,22,Free Shipping,Healthcare,Yes,Summer,Australia
+1709,Female,22,Blouse,Clothing,21,Next Day Air,Healthcare,Yes,Summer,Australia
+1710,Female,22,Blouse,Clothing,45,Express,Lawyer,Yes,Summer,Australia
+1711,Female,22,Blouse,Clothing,77,Free Shipping,Entertainment,Yes,Summer,Australia
+1712,Female,22,Blouse,Clothing,50,Next Day Air,Homemaker,Yes,Summer,Australia
+1713,Male,22,Blouse,Clothing,25,Express,Artist,Yes,Summer,Australia
+1714,Male,22,Blouse,Clothing,15,Free Shipping,Artist,Yes,Summer,Australia
+1715,Male,22,Blouse,Clothing,69,Next Day Air,Healthcare,Yes,Summer,Australia
+1716,Female,22,Blouse,Clothing,85,Express,Entertainment,Yes,Summer,Australia
+1717,Male,22,Blouse,Clothing,12,Free Shipping,Doctor,Yes,Summer,Australia
+1718,Female,22,Blouse,Clothing,100,Next Day Air,Artist,Yes,Summer,Australia
+1719,Female,22,Blouse,Clothing,23,Express,Entertainment,Yes,Summer,Australia
+1720,Female,22,Blouse,Clothing,14,Free Shipping,Entertainment,Yes,Summer,Australia
+1721,Female,22,Blouse,Clothing,25,Next Day Air,Lawyer,Yes,Summer,Australia
+1722,Female,22,Blouse,Clothing,41,Express,Executive,Yes,Summer,Australia
+1723,Male,22,Blouse,Clothing,22,Free Shipping,Engineer,Yes,Summer,Australia
+1724,Female,22,Blouse,Clothing,63,Next Day Air,Artist,Yes,Summer,Australia
+1725,Female,22,Blouse,Clothing,55,Express,Doctor,Yes,Summer,Australia
+1726,Female,22,Blouse,Clothing,98,Free Shipping,Executive,Yes,Summer,Australia
+1727,Female,22,Blouse,Clothing,99,Next Day Air,Marketing,Yes,Summer,Australia
+1728,Male,22,Blouse,Clothing,65,Express,Artist,Yes,Summer,Australia
+1729,Male,22,Blouse,Clothing,35,Free Shipping,Artist,Yes,Summer,Australia
+1730,Male,22,Blouse,Clothing,85,Next Day Air,Artist,Yes,Summer,Australia
+1731,Female,22,Blouse,Clothing,96,Express,Homemaker,Yes,Summer,Australia
+1732,Male,22,Blouse,Clothing,74,Free Shipping,Doctor,Yes,Summer,Australia
+1733,Female,22,Blouse,Clothing,52,Next Day Air,Executive,Yes,Summer,Australia
+1734,Female,22,Blouse,Clothing,22,Express,Artist,Yes,Summer,Australia
+1735,Female,22,Blouse,Clothing,21,Free Shipping,Artist,Yes,Summer,Australia
+1736,Female,22,Blouse,Clothing,45,Next Day Air,Engineer,Yes,Summer,Australia
+1737,Male,22,Blouse,Clothing,77,Express,Artist,Yes,Summer,Australia
+1738,Male,22,Blouse,Clothing,50,Free Shipping,Doctor,Yes,Summer,Australia
+1739,Male,22,Blouse,Clothing,25,Next Day Air,Lawyer,Yes,Summer,Australia
+1740,Female,22,Blouse,Clothing,15,Express,Artist,Yes,Summer,Australia
+1741,Male,22,Blouse,Clothing,69,Free Shipping,Entertainment,Yes,Summer,Australia
+1742,Female,22,Blouse,Clothing,85,Next Day Air,Entertainment,Yes,Summer,Australia
+1743,Female,22,Blouse,Clothing,12,Express,Entertainment,Yes,Summer,Australia
+1744,Female,22,Blouse,Clothing,100,Free Shipping,Doctor,Yes,Summer,Australia
+1745,Female,22,Blouse,Clothing,23,Next Day Air,Lawyer,Yes,Summer,Australia
+1746,Female,22,Blouse,Clothing,14,Express,Engineer,Yes,Summer,Australia
+1747,Male,22,Blouse,Clothing,25,Free Shipping,Healthcare,Yes,Summer,Australia
+1748,Female,22,Blouse,Clothing,41,Next Day Air,Artist,Yes,Summer,Australia
+1749,Female,22,Blouse,Clothing,22,Express,Artist,Yes,Summer,Australia
+1750,Female,22,Blouse,Clothing,63,Free Shipping,Artist,Yes,Summer,Australia
+1751,Male,22,Blouse,Clothing,55,Next Day Air,Executive,Yes,Summer,Australia
+1752,Female,22,Blouse,Clothing,98,Express,Executive,Yes,Summer,Australia
+1753,Female,22,Blouse,Clothing,99,Free Shipping,Artist,Yes,Summer,Australia
+1754,Female,22,Blouse,Clothing,65,Next Day Air,Artist,Yes,Summer,Australia
+1755,Female,22,Blouse,Clothing,35,Express,Doctor,Yes,Summer,Australia
+1756,Male,22,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1757,Male,22,Blouse,Clothing,96,Next Day Air,Healthcare,Yes,Summer,Australia
+1758,Male,22,Blouse,Clothing,74,Express,Executive,Yes,Summer,Australia
+1759,Female,22,Blouse,Clothing,52,Free Shipping,Artist,Yes,Summer,Australia
+1760,Male,22,Blouse,Clothing,22,Next Day Air,Artist,Yes,Summer,Australia
+1761,Female,22,Blouse,Clothing,21,Express,Healthcare,Yes,Summer,Australia
+1762,Female,22,Blouse,Clothing,45,Free Shipping,Lawyer,Yes,Summer,Australia
+1763,Female,22,Blouse,Clothing,77,Next Day Air,Artist,Yes,Summer,Australia
+1764,Female,22,Blouse,Clothing,50,Express,Executive,Yes,Summer,Australia
+1765,Female,22,Blouse,Clothing,25,Free Shipping,Doctor,Yes,Summer,Australia
+1766,Male,22,Blouse,Clothing,15,Next Day Air,Artist,Yes,Summer,Australia
+1767,Female,22,Blouse,Clothing,69,Express,Engineer,Yes,Summer,Australia
+1768,Female,22,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1769,Female,22,Blouse,Clothing,12,Next Day Air,Artist,Yes,Summer,Australia
+1770,Female,22,Blouse,Clothing,100,Express,Entertainment,Yes,Summer,Australia
+1771,Male,22,Blouse,Clothing,23,Express,Artist,Yes,Summer,Australia
+1772,Female,22,Blouse,Clothing,14,Free Shipping,Artist,Yes,Summer,Australia
+1773,Female,22,Blouse,Clothing,25,Next Day Air,Lawyer,Yes,Summer,Australia
+1774,Female,22,Blouse,Clothing,41,Express,Artist,Yes,Summer,Australia
+1775,Female,22,Blouse,Clothing,22,Free Shipping,Entertainment,Yes,Summer,Australia
+1776,Male,22,Blouse,Clothing,63,Next Day Air,Executive,Yes,Summer,Australia
+1777,Male,22,Blouse,Clothing,55,Express,Doctor,Yes,Summer,Australia
+1778,Male,22,Blouse,Clothing,98,Free Shipping,Artist,Yes,Summer,Australia
+1779,Female,22,Blouse,Clothing,99,Next Day Air,Lawyer,Yes,Summer,Australia
+1780,Male,22,Blouse,Clothing,65,Express,Artist,Yes,Summer,Australia
+1781,Female,22,Blouse,Clothing,35,Free Shipping,Engineer,Yes,Summer,Australia
+1782,Female,22,Blouse,Clothing,85,Next Day Air,Marketing,Yes,Summer,Australia
+1783,Female,22,Blouse,Clothing,96,Express,Homemaker,Yes,Summer,Australia
+1784,Female,22,Blouse,Clothing,74,Free Shipping,Engineer,Yes,Summer,Australia
+1785,Female,22,Blouse,Clothing,52,Next Day Air,Lawyer,Yes,Summer,Australia
+1786,Male,22,Blouse,Clothing,22,Express,Healthcare,Yes,Summer,Australia
+1787,Female,22,Blouse,Clothing,21,Free Shipping,Marketing,Yes,Summer,Australia
+1788,Female,22,Blouse,Clothing,45,Next Day Air,Artist,Yes,Summer,Australia
+1789,Female,22,Blouse,Clothing,77,Express,,Yes,Summer,Australia
+1790,Female,22,Blouse,Clothing,50,Free Shipping,Artist,Yes,Summer,Australia
+1791,Male,22,Blouse,Clothing,25,Next Day Air,Engineer,Yes,Summer,Australia
+1792,Female,22,Blouse,Clothing,15,Express,Artist,Yes,Summer,Australia
+1793,Male,22,Blouse,Clothing,69,Free Shipping,Lawyer,Yes,Summer,Australia
+1794,Female,22,Blouse,Clothing,85,Next Day Air,Homemaker,Yes,Summer,Australia
+1795,Female,22,Blouse,Clothing,12,Express,Healthcare,Yes,Summer,Australia
+1796,Female,22,Blouse,Clothing,100,Free Shipping,Artist,Yes,Summer,Australia
+1797,Female,22,Blouse,Clothing,23,Next Day Air,Artist,Yes,Summer,Australia
+1798,Male,22,Blouse,Clothing,14,Express,Executive,Yes,Summer,Australia
+1799,Male,22,Blouse,Clothing,25,Free Shipping,Engineer,Yes,Summer,Australia
+1800,Male,22,Blouse,Clothing,41,Next Day Air,Engineer,Yes,Summer,Australia
+1801,Male,22,Blouse,Clothing,22,Express,Artist,Yes,Summer,Australia
+1802,Male,22,Blouse,Clothing,63,Free Shipping,Lawyer,Yes,Summer,Australia
+1803,Female,22,Blouse,Clothing,55,Next Day Air,Artist,Yes,Summer,Australia
+1804,Female,22,Blouse,Clothing,98,Express,Artist,Yes,Summer,Australia
+1805,Female,22,Blouse,Clothing,99,Free Shipping,Engineer,Yes,Summer,Australia
+1806,Female,22,Blouse,Clothing,65,Next Day Air,Marketing,Yes,Summer,Australia
+1807,Female,22,Blouse,Clothing,35,Express,Artist,Yes,Summer,Australia
+1808,Female,22,Blouse,Clothing,85,Free Shipping,Healthcare,Yes,Summer,Australia
+1809,Male,22,Blouse,Clothing,96,Next Day Air,Artist,Yes,Summer,Australia
+1810,Female,22,Blouse,Clothing,74,Express,Homemaker,Yes,Summer,Australia
+1811,Male,22,Blouse,Clothing,52,Free Shipping,Marketing,Yes,Summer,Australia
+1812,Female,22,Blouse,Clothing,22,Next Day Air,Executive,Yes,Summer,Australia
+1813,Female,22,Blouse,Clothing,21,Express,Entertainment,Yes,Summer,Australia
+1814,Female,22,Blouse,Clothing,45,Free Shipping,Lawyer,Yes,Summer,Australia
+1815,Male,22,Blouse,Clothing,77,Next Day Air,Healthcare,Yes,Summer,Australia
+1816,Male,22,Blouse,Clothing,50,Express,Executive,Yes,Summer,Australia
+1817,Female,22,Blouse,Clothing,25,Free Shipping,Executive,Yes,Summer,Australia
+1818,Male,22,Blouse,Clothing,15,Next Day Air,Healthcare,Yes,Summer,Australia
+1819,Male,22,Blouse,Clothing,69,Express,Artist,Yes,Summer,Australia
+1820,Female,22,Blouse,Clothing,85,Free Shipping,Artist,Yes,Summer,Australia
+1821,Male,22,Blouse,Clothing,12,Next Day Air,Executive,Yes,Summer,Australia
+1822,Male,22,Blouse,Clothing,100,Express,Artist,Yes,Summer,Australia
+1823,Female,22,Blouse,Clothing,23,Free Shipping,Executive,Yes,Summer,Australia
+1824,Male,22,Blouse,Clothing,14,Next Day Air,Lawyer,Yes,Summer,Australia
+1825,Female,22,Blouse,Clothing,25,Express,Healthcare,Yes,Summer,Australia
+1826,Male,22,Blouse,Clothing,41,Free Shipping,Artist,Yes,Summer,Australia
+1827,Female,22,Blouse,Clothing,22,Next Day Air,Artist,Yes,Summer,Australia
+1828,Male,22,Blouse,Clothing,63,Express,Doctor,Yes,Summer,Australia
+1829,Female,22,Blouse,Clothing,55,Free Shipping,Artist,Yes,Summer,Australia
+1830,Female,22,Blouse,Clothing,98,Next Day Air,Artist,Yes,Summer,Australia
+1831,Male,23,Blouse,Clothing,99,Express,Lawyer,Yes,Summer,Australia
+1832,Female,25,Blouse,Clothing,65,Free Shipping,Artist,Yes,Summer,Australia
+1833,Male,46,Blouse,Clothing,35,Next Day Air,Healthcare,Yes,Summer,Australia
+1834,Male,28,Blouse,Clothing,85,Express,Healthcare,Yes,Summer,Australia
+1835,Female,24,Blouse,Clothing,96,Free Shipping,Artist,Yes,Summer,Australia
+1836,Female,27,Blouse,Clothing,74,Next Day Air,Lawyer,Yes,Summer,Australia
+1837,Female,22,Blouse,Clothing,52,Express,Marketing,Yes,Summer,Australia
+1838,Female,22,Blouse,Clothing,22,Free Shipping,Entertainment,Yes,Summer,Australia
+1839,Female,22,Blouse,Clothing,21,Next Day Air,Doctor,Yes,Summer,Australia
+1840,Female,22,Blouse,Clothing,45,Express,Homemaker,Yes,Summer,Australia
+1841,Female,22,Boots,Footwear,77,Free Shipping,Artist,Yes,Summer,Australia
+1842,Male,22,Boots,Footwear,50,Next Day Air,Healthcare,Yes,Summer,Australia
+1843,Male,22,Boots,Footwear,25,Express,Entertainment,Yes,Summer,Australia
+1844,Female,22,Boots,Footwear,15,Free Shipping,Entertainment,Yes,Summer,Australia
+1845,Female,22,Boots,Footwear,69,Next Day Air,Artist,Yes,Summer,Australia
+1846,Female,22,Boots,Footwear,85,Express,Lawyer,Yes,Summer,Australia
+1847,Female,22,Boots,Footwear,12,Free Shipping,Artist,Yes,Summer,Australia
+1848,Female,22,Boots,Footwear,100,Next Day Air,Entertainment,Yes,Summer,Australia
+1849,Female,22,Boots,Footwear,23,Express,Doctor,Yes,Summer,Australia
+1850,Female,22,Boots,Footwear,14,Free Shipping,Artist,Yes,Summer,Australia
+1851,Female,22,Boots,Footwear,25,Next Day Air,Doctor,Yes,Summer,Australia
+1852,Male,22,Boots,Footwear,41,Express,Entertainment,Yes,Summer,Australia
+1853,Female,22,Boots,Footwear,22,Free Shipping,Healthcare,Yes,Summer,Australia
+1854,Male,22,Boots,Footwear,63,Next Day Air,Artist,Yes,Summer,Australia
+1855,Female,22,Boots,Footwear,55,Express,Healthcare,Yes,Summer,Australia
+1856,Male,22,Boots,Footwear,98,Free Shipping,Healthcare,Yes,Summer,Australia
+1857,Female,22,Boots,Footwear,99,Next Day Air,Artist,Yes,Summer,Australia
+1858,Male,22,Boots,Footwear,65,Express,Artist,Yes,Summer,Turkey
+1859,Female,33,Boots,Footwear,35,Free Shipping,Engineer,Yes,Summer,Turkey
+1860,Male,33,Boots,Footwear,85,Next Day Air,Healthcare,Yes,Summer,Turkey
+1861,Male,33,Boots,Footwear,96,Express,Healthcare,Yes,Summer,Turkey
+1862,Male,33,Boots,Footwear,74,Free Shipping,Executive,Yes,Summer,Turkey
+1863,Female,33,Boots,Footwear,52,Next Day Air,Entertainment,Yes,Summer,Turkey
+1864,Female,33,Boots,Footwear,22,Express,Engineer,Yes,Summer,Turkey
+1865,Male,33,Boots,Footwear,21,Free Shipping,Artist,Yes,Summer,Turkey
+1866,Male,33,Boots,Footwear,45,Next Day Air,Artist,Yes,Summer,Turkey
+1867,Female,33,Boots,Footwear,77,Express,Artist,Yes,Summer,Turkey
+1868,Female,33,Boots,Footwear,50,Free Shipping,Artist,Yes,Summer,Turkey
+1869,Male,33,Boots,Footwear,25,Next Day Air,Healthcare,Yes,Summer,Turkey
+1870,Female,33,Boots,Footwear,15,Express,Entertainment,Yes,Summer,Turkey
+1871,Male,33,Boots,Footwear,69,Free Shipping,Homemaker,Yes,Summer,Turkey
+1872,Female,33,Boots,Footwear,85,Next Day Air,Entertainment,Yes,Summer,Turkey
+1873,Female,33,Boots,Footwear,12,Express,Executive,Yes,Summer,Turkey
+1874,Female,33,Boots,Footwear,100,Free Shipping,Artist,Yes,Summer,Turkey
+1875,Male,33,Boots,Footwear,23,Next Day Air,Entertainment,Yes,Summer,Australia
+1876,Male,33,Boots,Footwear,14,Express,Executive,Yes,Summer,Australia
+1877,Female,33,Boots,Footwear,25,Free Shipping,Doctor,Yes,Summer,Australia
+1878,Male,33,Boots,Footwear,41,Next Day Air,Engineer,Yes,Summer,Australia
+1879,Female,33,Boots,Footwear,22,Express,Artist,Yes,Summer,Australia
+1880,Female,60,Boots,Footwear,63,Free Shipping,Entertainment,Yes,Summer,Australia
+1881,Male,60,Boots,Footwear,55,Next Day Air,Healthcare,Yes,Summer,Australia
+1882,Male,60,Boots,Footwear,98,Express,Healthcare,Yes,Summer,Australia
+1883,Male,60,Boots,Footwear,99,Free Shipping,Artist,Yes,Summer,Australia
+1884,Female,60,Boots,Footwear,65,Next Day Air,Healthcare,Yes,Summer,Australia
+1885,Female,60,Boots,Footwear,35,Express,,Yes,Summer,Australia
+1886,Male,60,Boots,Footwear,85,Free Shipping,Artist,Yes,Summer,Australia
+1887,Female,60,Boots,Footwear,96,Next Day Air,Engineer,Yes,Summer,Australia
+1888,Female,60,Boots,Footwear,74,Express,Healthcare,Yes,Summer,Australia
+1889,Female,60,Boots,Footwear,52,Free Shipping,Entertainment,Yes,Summer,Australia
+1890,Female,60,Boots,Footwear,22,Next Day Air,Executive,Yes,Summer,Australia
+1891,Female,60,Boots,Footwear,21,Express,Artist,Yes,Summer,Australia
+1892,Male,60,Boots,Footwear,45,Free Shipping,Artist,Yes,Summer,Australia
+1893,Male,60,Boots,Footwear,77,Next Day Air,Healthcare,Yes,Summer,Australia
+1894,Female,55,Boots,Footwear,50,Express,Healthcare,Yes,Summer,Australia
+1895,Female,55,Boots,Footwear,25,Free Shipping,Artist,Yes,Summer,Australia
+1896,Male,55,Boots,Footwear,15,Next Day Air,Entertainment,Yes,Summer,Australia
+1897,Female,55,Boots,Footwear,69,Express,Lawyer,Yes,Summer,Australia
+1898,Female,55,Boots,Footwear,85,Free Shipping,Entertainment,Yes,Summer,Australia
+1899,Male,55,Boots,Footwear,12,Next Day Air,Marketing,Yes,Summer,Australia
+1900,Male,55,Boots,Footwear,100,Express,Executive,Yes,Summer,Australia
+1901,Female,55,Boots,Footwear,23,Free Shipping,Artist,Yes,Summer,Australia
+1902,Female,55,Boots,Footwear,14,Next Day Air,Healthcare,Yes,Summer,Australia
+1903,Male,55,Boots,Footwear,25,Express,Marketing,Yes,Summer,Australia
+1904,Male,55,Boots,Footwear,41,Free Shipping,Healthcare,Yes,Summer,Australia
+1905,Male,55,Boots,Footwear,22,Next Day Air,Engineer,Yes,Summer,Australia
+1906,Female,55,Boots,Footwear,63,Express,,Yes,Summer,Australia
+1907,Female,55,Boots,Footwear,55,Free Shipping,Marketing,Yes,Summer,Australia
+1908,Male,55,Boots,Footwear,98,Next Day Air,Artist,Yes,Summer,Australia
+1909,Male,55,Boots,Footwear,99,Express,Artist,Yes,Summer,Australia
+1910,Male,55,Boots,Footwear,65,Free Shipping,Doctor,Yes,Summer,United States
+1911,Male,55,Boots,Footwear,35,Next Day Air,Entertainment,Yes,Summer,Australia
+1912,Female,18,Boots,Footwear,85,Express,Artist,Yes,Summer,Australia
+1913,Female,20,Boots,Footwear,96,Free Shipping,Executive,Yes,Summer,Australia
+1914,Male,35,Boots,Footwear,74,Next Day Air,Artist,Yes,Summer,Australia
+1915,Female,45,Boots,Footwear,52,Express,Healthcare,Yes,Summer,Australia
+1916,Female,60,Boots,Footwear,22,Free Shipping,Engineer,Yes,Summer,Australia
+1917,Female,22,Boots,Footwear,21,Next Day Air,Entertainment,Yes,Summer,Australia
+1918,Female,24,Boots,Footwear,45,Express,Artist,Yes,Summer,Australia
+1919,Female,68,Boots,Footwear,77,Free Shipping,Healthcare,Yes,Summer,Australia
+1920,Female,53,Boots,Footwear,50,Next Day Air,Executive,Yes,Summer,United States
+1921,Male,74,Boots,Footwear,25,Express,Healthcare,Yes,Summer,Australia
+1922,Female,55,Boots,Footwear,15,Free Shipping,Artist,Yes,Summer,Australia
+1923,Female,51,Boots,Footwear,69,Next Day Air,Executive,Yes,Summer,Australia
+1924,Male,42,Boots,Footwear,85,Express,Executive,Yes,Summer,Australia
+1925,Female,43,Boots,Footwear,12,Free Shipping,Homemaker,Yes,Summer,Australia
+1926,Female,47,Boots,Footwear,100,Next Day Air,Doctor,Yes,Summer,Australia
+1927,Male,48,Boots,Footwear,23,Express,Healthcare,Yes,Summer,Australia
+1928,Male,60,Boots,Footwear,14,Free Shipping,Healthcare,Yes,Summer,Australia
+1929,Male,22,Boots,Footwear,25,Next Day Air,Executive,Yes,Summer,Australia
+1930,Male,21,Boots,Footwear,41,Express,Executive,Yes,Summer,Australia
+1931,Male,19,Boots,Footwear,22,Free Shipping,Healthcare,Yes,Summer,Australia
+1932,Male,23,Boots,Footwear,63,Next Day Air,Executive,Yes,Summer,Australia
+1933,Female,25,Boots,Footwear,55,Express,,Yes,Summer,Australia
+1934,Female,25,Boots,Footwear,98,Free Shipping,Artist,Yes,Summer,Australia
+1935,Male,26,Boots,Footwear,99,Next Day Air,Doctor,Yes,Summer,Australia
+1936,Female,28,Boots,Footwear,65,Express,Doctor,Yes,Summer,Australia
+1937,Female,27,Boots,Footwear,35,Free Shipping,Artist,Yes,Summer,Australia
+1938,Male,29,Boots,Footwear,85,Next Day Air,Artist,Yes,Summer,Australia
+1939,Male,21,Boots,Footwear,96,Express,Doctor,Yes,Summer,Australia
+1940,Female,24,Boots,Footwear,74,Free Shipping,Artist,Yes,Summer,Australia
+1941,Female,25,Boots,Footwear,52,Next Day Air,Artist,Yes,Summer,Australia
+1942,Male,26,Boots,Footwear,22,Express,Artist,Yes,Summer,Australia
+1943,Female,23,Boots,Footwear,21,Free Shipping,Healthcare,Yes,Summer,Australia
+1944,Female,25,Boots,Footwear,45,Next Day Air,Artist,Yes,Summer,Australia
+1945,Male,33,Boots,Footwear,77,Express,Artist,Yes,Summer,Australia
+1946,Male,33,Boots,Footwear,50,Free Shipping,Marketing,Yes,Summer,Australia
+1947,Male,36,Boots,Footwear,25,Next Day Air,Engineer,Yes,Summer,Australia
+1948,Female,25,Boots,Footwear,15,Express,Artist,Yes,Summer,Australia
+1949,Female,36,Boots,Footwear,69,Free Shipping,Lawyer,Yes,Summer,Australia
+1950,Male,39,Boots,Footwear,85,Next Day Air,Healthcare,Yes,Summer,Australia
+1951,Male,38,Boots,Footwear,12,Express,Entertainment,Yes,Summer,Australia
+1952,Male,22,Boots,Footwear,100,Free Shipping,Artist,Yes,Summer,Australia
+1953,Female,22,Boots,Footwear,23,Next Day Air,Entertainment,Yes,Summer,Australia
+1954,Female,22,Boots,Footwear,14,Express,Entertainment,Yes,Summer,Australia
+1955,Female,22,Boots,Footwear,25,Free Shipping,Lawyer,Yes,Summer,Australia
+1956,Female,22,Boots,Footwear,41,Next Day Air,Marketing,Yes,Summer,Australia
+1957,Male,22,Boots,Footwear,22,Express,Artist,Yes,Summer,Australia
+1958,Female,22,Boots,Footwear,63,Free Shipping,Entertainment,Yes,Summer,Australia
+1959,Male,22,Boots,Footwear,55,Next Day Air,Doctor,Yes,Summer,Australia
+1960,Female,22,Boots,Footwear,98,Express,Engineer,Yes,Summer,Australia
+1961,Female,22,Boots,Footwear,99,Free Shipping,Entertainment,Yes,Summer,Australia
+1962,Female,22,Boots,Footwear,65,Next Day Air,Engineer,Yes,Summer,Australia
+1963,Male,22,Boots,Footwear,35,Express,Homemaker,Yes,Summer,Australia
+1964,Female,22,Boots,Footwear,85,Free Shipping,Artist,Yes,Summer,Australia
+1965,Male,22,Boots,Footwear,96,Next Day Air,Artist,Yes,Summer,Australia
+1966,Female,22,Boots,Footwear,74,Express,Artist,Yes,Summer,Australia
+1967,Male,22,Boots,Footwear,52,Free Shipping,Homemaker,Yes,Summer,Australia
+1968,Female,22,Boots,Footwear,22,Next Day Air,Entertainment,Yes,Summer,Australia
+1969,Female,22,Boots,Footwear,21,Express,Executive,Yes,Summer,Australia
+1970,Male,22,Boots,Footwear,45,Free Shipping,Doctor,Yes,Summer,Australia
+1971,Male,22,Boots,Footwear,77,Next Day Air,Executive,Yes,Summer,Australia
+1972,Male,22,Boots,Footwear,50,Express,Entertainment,Yes,Summer,Australia
+1973,Male,22,Boots,Footwear,25,Free Shipping,Engineer,Yes,Summer,Australia
+1974,Male,22,Boots,Footwear,15,Next Day Air,Executive,Yes,Summer,Australia
+1975,Female,22,Boots,Footwear,69,Express,Healthcare,Yes,Summer,Australia
+1976,Female,22,Boots,Footwear,85,Free Shipping,Executive,Yes,Summer,Australia
+1977,Male,22,Boots,Footwear,12,Next Day Air,Engineer,Yes,Summer,Australia
+1978,Male,22,Boots,Footwear,100,Express,Lawyer,Yes,Summer,Australia
+1979,Male,22,Boots,Footwear,23,Free Shipping,Artist,Yes,Summer,Australia
+1980,Male,22,Boots,Footwear,14,Next Day Air,Doctor,Yes,Summer,Australia
+1981,Female,22,Boots,Footwear,25,Express,Artist,No,Summer,Australia
+1982,Female,22,Boots,Footwear,41,Free Shipping,Artist,Yes,Summer,Australia
+1983,Male,22,Boots,Footwear,22,Next Day Air,Lawyer,Yes,Summer,Australia
+1984,Female,22,Boots,Footwear,63,Express,Marketing,Yes,Summer,Australia
+1985,Female,22,Boots,Footwear,55,Free Shipping,Lawyer,Yes,Summer,United States
+1986,Male,22,Boots,Footwear,98,Next Day Air,Entertainment,Yes,Summer,United States
+1987,Female,22,Boots,Footwear,99,Express,Doctor,Yes,Summer,United States
+1988,Male,22,Boots,Footwear,65,Free Shipping,Artist,Yes,Summer,United States
+1989,Female,22,Boots,Footwear,35,Next Day Air,Artist,Yes,Summer,United States
+1990,Female,22,Boots,Footwear,85,Express,Doctor,Yes,Summer,United States
+1991,Female,22,Boots,Footwear,96,Free Shipping,Artist,Yes,Summer,United States
+1992,Female,22,Boots,Footwear,74,Next Day Air,Entertainment,Yes,Summer,United States
+1993,Male,22,Boots,Footwear,52,Express,Marketing,Yes,Summer,United States
+1994,Female,22,Boots,Footwear,22,Free Shipping,Artist,Yes,Summer,United States
+1995,Female,22,Boots,Footwear,21,Next Day Air,Engineer,Yes,Summer,United States
+1996,Female,22,Boots,Footwear,45,Express,Artist,Yes,Summer,United States
+1997,Female,22,Boots,Footwear,77,Free Shipping,Doctor,Yes,Summer,Brazil
+1998,Male,22,Boots,Footwear,50,Next Day Air,Healthcare,Yes,Summer,United States
+1999,Male,22,Boots,Footwear,25,Express,Executive,Yes,Summer,Brazil
+2000,Male,22,Boots,Footwear,15,Free Shipping,Entertainment,Yes,Summer,United States
